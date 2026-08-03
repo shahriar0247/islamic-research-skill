@@ -1,4 +1,4 @@
-# Islamic Research — Salafi Scholarship
+# Islamic Research with AI — Salafi/Ahle-Hadeeth Scholarship
 
 السلام عليكم ورحمة الله وبركاته
 
