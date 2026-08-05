@@ -31,13 +31,13 @@ Shaykh Ibn Baz said:
 
 > **"تلتمس الرجل الطيب المعروف بالخير المحافظ على الصلوات، صاحب العقيدة الطيبة"**
 > "Seek the good man known for righteousness, maintaining the prayers, with good creed."
-> — **Ibn Baz, Fatwa: "صفات الزوج الصالح"** (binbaz.org.sa/fatwas/11199)
+> — **Ibn Baz, Fatwa: "صفات الزوج الصالح"** (https://binbaz.org.sa/fatwas/11199/%D8%B5%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D8%B2%D9%88%D8%AC-%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD)
 
 And on rejecting a suitor who lacks these:
 
 > **"قد أحسنت في رفضه... هذا لا يرضى خلقه، ولا دينه"**
 > "You did well in rejecting him... his character is not pleasing, nor is his religion."
-> — **Ibn Baz** (binbaz.org.sa/fatwas/15427)
+> — **Ibn Baz** (https://binbaz.org.sa/fatwas/15427/%D9%88%D8%AC%D9%88%D8%A8-%D8%B1%D9%81%D8%B6-%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%AC-%D8%A8%D9%85%D9%86-%D9%84%D8%A7-%D8%AF%D9%8A%D9%86-%D9%84%D9%87-%D9%88%D9%84%D8%A7-%D8%AE%D9%84%D9%82)
 
 ---
 
@@ -53,7 +53,7 @@ The single most important quality. Shaykh al-Ghudayaan said:
 Specifically, a woman should verify:
 - He **prays** (the one who neglects Allah's rights will neglect hers — IslamQA 5202)
 - He has **correct aqeedah** (creed)
-- He avoids **haram** (alcohol, zina, smoking, shaving the beard — Ibn Baz, fatwa 10813)
+- He avoids **haram** (alcohol, zina, smoking, shaving the beard — Ibn Baz, fatwa 10813: https://binbaz.org.sa/fatwas/10813/%D8%A7%D9%84%D8%B4%D8%B1%D9%88%D8%B7-%D8%A7%D9%84%D9%88%D8%A7%D8%AC%D8%A8-%D8%AA%D9%88%D9%81%D8%B1%D9%87%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D9%8A%D9%86)
 - He does not abandon prayer (a non-praying man is a disbeliever and not a match for a Muslim woman — Ibn Baz, Fatwa Islamiyah)
 
 ### 2. Good Character (حسن الخلق)
@@ -82,7 +82,7 @@ Ibn Baz described the husband's obligation:
 
 > **"أن يعاشرها بالمعروف، فلا يؤذيها، ولا يضربها بغير حق، ولا يعنف عليها بغير حق، ولا يكون معبسًا في وجهها بغير حق، ولا يقصر في نفقتها بغير حق، بل عليه أن يقوم بنفقتها المعتادة... وأن يكون حسن الخلق، طيب البشر مع زوجته"**
 > "He must treat her with good treatment — not harm her, not beat her without right, not be harsh, not frown at her, not fall short in her spending. Rather he must provide her customary spending... and be of good character, cheerful with his wife."
-> — **Ibn Baz** (binbaz.org.sa/fatwas/15561)
+> — **Ibn Baz** (https://binbaz.org.sa/fatwas/15561/%D8%AD%D9%82%D9%88%D9%82-%D9%83%D9%84-%D9%85%D9%86-%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D9%8A%D9%86-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A7%D8%AE%D8%B1)
 
 ### 5. Gentleness and Patience with Her Faults
 
@@ -255,7 +255,7 @@ Shaykh Ibn Baz listed the traits to avoid in a husband:
 
 > **"لا سكيرًا، ولا حليقًا للحيته، ولا صاحب تدخين، ولا صاحب زنا"**
 > "Not a drunkard, not one who shaves his beard, not a smoker, not one who commits adultery."
-> — **Ibn Baz** (binbaz.org.sa/fatwas/10813)
+> — **Ibn Baz** (https://binbaz.org.sa/fatwas/10813/%D8%A7%D9%84%D8%B4%D8%B1%D9%88%D8%B7-%D8%A7%D9%84%D9%88%D8%A7%D8%AC%D8%A8-%D8%AA%D9%88%D9%81%D8%B1%D9%87%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D9%8A%D9%86)
 
 And al-Ghudayaan added: "She should avoid him — especially those who are **negligent about the prayers**, or one who is known to **drink intoxicants**."
 
@@ -277,7 +277,7 @@ The man she seeks is one who will bring her **tranquility, love, and mercy** —
 
 - **Quran:** 2:228, 2:232, 2:221, 4:4, 4:19, 4:34, 4:129, 24:30, 24:32, 30:21
 - **Hadith:** Bukhari 5090, 5185, 5363, 5364, 7138; Muslim 1466, 1421, 1829; Tirmidhi 1084 (Sahih by al-Albani), 1087 (Sahih by al-Albani), 3895, 1141; Abu Dawud 2142 (Sahih by al-Albani, Irwa' 7/98); Ibn Majah (la darar)
-- **Shaykh Ibn Baz:** binbaz.org.sa/fatwas/11199, /15427, /10813, /15561, /14079; abukhadeejah.com; abdurrahman.org; fatwaislam.com
+- **Shaykh Ibn Baz:** https://binbaz.org.sa/fatwas/11199/%D8%B5%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D8%B2%D9%88%D8%AC-%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD , https://binbaz.org.sa/fatwas/15427/%D9%88%D8%AC%D9%88%D8%A8-%D8%B1%D9%81%D8%B6-%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%AC-%D8%A8%D9%85%D9%86-%D9%84%D8%A7-%D8%AF%D9%8A%D9%86-%D9%84%D9%87-%D9%88%D9%84%D8%A7-%D8%AE%D9%84%D9%82 , https://binbaz.org.sa/fatwas/10813/%D8%A7%D9%84%D8%B4%D8%B1%D9%88%D8%B7-%D8%A7%D9%84%D9%88%D8%A7%D8%AC%D8%A8-%D8%AA%D9%88%D9%81%D8%B1%D9%87%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D9%8A%D9%86 , https://binbaz.org.sa/fatwas/15561/%D8%AD%D9%82%D9%88%D9%82-%D9%83%D9%84-%D9%85%D9%86-%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D9%8A%D9%86-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A7%D8%AE%D8%B1 , https://binbaz.org.sa/fatwas/14079/%D8%AA%D9%88%D8%B6%D9%8A%D8%AD-%D8%AD%D9%88%D9%84-%D9%82%D9%88%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%B1%D8%AC%D9%84-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D8%A9 ; abukhadeejah.com; abdurrahman.org; fatwaislam.com
 - **Shaykh Ibn Uthaymeen:** islamqa.info/en/answers/36209; abdurrahman.org; islamweb.net/en/article/163819; fatwaislam.com
 - **Shaykh al-Fawzan:** abdurrahman.org (Status of Women; Message to the Woman; Obeying the Husband)
 - **Shaykh al-Ghudayaan:** troid.org/choosing-a-husband/

@@ -60,7 +60,7 @@ The author was influenced by the writings of Hanbali theologian Ibn Rajab (d. 13
 
 **Sources:**
 - https://en.wikipedia.org/wiki/The_Book_of_Tawhid:_The_Right_of_Allah_Upon_His_Servants
-- https://kitaabun.com/shopping3/product_info.php?products_id=2548
+- https://kitaabun.com/shopping3/kitab-tawheed-abdul-wahhab-explained-sameh-strauch-p-2548.html
 - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3614819
 
 ### 3. Main Subject and Structure (Chapters/Sections)

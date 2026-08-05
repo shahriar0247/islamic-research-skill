@@ -102,6 +102,47 @@ Based on the research, write the document with:
 - **Articles/guides/documents** go to: `C:\Users\ahmed\research-notes\<topic>.md`
 - Tell the user where the file was saved.
 
+### Step 4: Verify and fix ALL source links
+Before opening the article in a markdown preview app, you MUST verify every single URL/source link in the article AND the background research files. This is a critical quality-control step.
+
+1. **Extract ALL URLs** from the article (and background research files if they will be pushed). Every single URL — in the body text, source citations, and the Sources section at the end.
+
+2. **Visit each URL** using the `webfetch` tool to verify it loads correctly and points to the expected content.
+
+3. **Fix broken/incorrect URLs:**
+   - **binbaz.org.sa links are ALWAYS broken if they don't include the full Arabic slug.** For example, `https://binbaz.org.sa/fatwas/14402/` is BROKEN — it must be the full URL like `https://binbaz.org.sa/fatwas/14402/%D8%AD%D9%83%D9%85-%D9%85%D9%86-%D9%8A%D9%86%D9%83%D8%B1-%D8%A7%D8%B3%D8%AA%D9%88%D8%A7%D8%A1-%D8%A7%D9%84%D9%84%D9%87-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B9%D8%B1%D8%B4`. When you visit the short URL with webfetch, it will redirect to the full URL — use that full URL as the replacement.
+   - For any other broken URL (404, redirect to wrong page, site down, content doesn't match), search the web to find the correct URL and replace it.
+   - If a URL cannot be fixed, mark it as `[BROKEN LINK — could not verify]` in the file so the user knows.
+
+4. **Use parallel subagents** to speed up the process if there are many URLs across multiple files. Each subagent can handle a group of files — extract URLs, check them, and fix broken ones.
+
+5. **Report to the user** how many links were checked, how many were broken, and how many were fixed.
+
+**This step is MANDATORY.** Never skip it. Every single link must be verified before the article is considered complete.
+
+### Step 5: Preview the article and offer to push to GitHub
+After the research is fully done, the article is written, all links are verified and fixed (Step 4), and the file is saved:
+
+1. **Open the final article in a markdown preview app** (NOT VS Code, NOT Devin's built-in viewer — use a real dedicated markdown preview application). The default app is **MarkText**, installed at:
+   `C:\Users\ahmed\AppData\Local\Programs\marktext\marktext.exe`
+   - Launch it with: `Start-Process "C:\Users\ahmed\AppData\Local\Programs\marktext\marktext.exe" -ArgumentList "<path-to-article.md>"`
+   - If MarkText is not installed, install it first: `winget install --id MarkText.MarkText -e --accept-source-agreements --accept-package-agreements`
+   - If winget fails, fall back to any other dedicated markdown preview app available on the system.
+
+2. **Ask the user if they want to push the article to GitHub** using the `ask_user_question` tool, with exactly 2 options:
+   - **Option 1: "Yes, push to GitHub"** — Push the final article (only the article `.md` file, not the background research files) to the repository: `https://github.com/shahriar0247/islamic-research-skill`
+   - **Option 2: "No, keep it local"** — Do not push anything; the file stays only in the local `research-notes` folder.
+
+3. **If the user chooses to push:**
+   - The GitHub repo is: `https://github.com/shahriar0247/islamic-research-skill` (git credentials are already configured for `shahriar0247`)
+   - Clone or fetch the repo to a temp location, copy the article `.md` file into it, commit, and push.
+   - Use the standard commit message format with the Devin co-author trailer.
+   - Confirm to the user with the URL where the file can be viewed on GitHub.
+
+4. **If the user chooses not to push:** Simply confirm the file is saved locally and end.
+
+**Important:** Only the final article/guide/document is pushed — NOT the background `research_<topic>_salafi.md` files, unless the user explicitly asks for those too.
+
 ## What to NEVER Do
 
 1. **NEVER fabricate a quote** and attribute it to a scholar. If you cannot find the exact quote, say `NOT FOUND FROM SALAFI SOURCE`.
@@ -110,6 +151,8 @@ Based on the research, write the document with:
 4. **NEVER present a personal opinion as a scholarly position.** Always attribute to a named scholar.
 5. **NEVER mix methodologies.** Stick to the Salafi methodology consistently.
 6. **NEVER say "scholars say" without naming which scholar.** Always name the scholar and cite the book/source.
+7. **NEVER use short binbaz.org.sa URLs.** URLs like `https://binbaz.org.sa/fatwas/14402/` are BROKEN — they must include the full Arabic slug (e.g. `https://binbaz.org.sa/fatwas/14402/%D8%AD%D9%83%D9%85-%D9%85%D9%86-%D9%8A%D9%86%D9%83%D8%B1-...`). Always visit the URL with webfetch to get the full redirected URL before saving it in a file.
+8. **NEVER leave a source link unverified.** Every URL in the final article must be visited and confirmed to work before the article is considered complete.
 
 ## Tone & Style
 
@@ -146,3 +189,7 @@ When the user asks to update or improve an existing document, **read it first**,
 4. Write the article with verbatim scholar quotes, exact Quran/hadith references, and al-Albani's hadith gradings.
 5. Save the article to `C:\Users\ahmed\research-notes\importance_of_dua.md`.
 6. Tell the user where both files were saved.
+7. **Verify and fix ALL source links** — extract every URL from the article and research files, visit each one with webfetch to confirm it works, fix any broken URLs (especially binbaz.org.sa links must have the full Arabic slug), and report the results to the user.
+8. Open the article in MarkText (the markdown preview app) for the user to review.
+9. Ask the user: "Do you want to push this article to GitHub?" with 2 options: "Yes, push to GitHub" or "No, keep it local".
+10. If yes, push `importance_of_dua.md` to `https://github.com/shahriar0247/islamic-research-skill` and confirm with the GitHub URL.

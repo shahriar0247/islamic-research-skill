@@ -58,7 +58,7 @@ These six articles are explicitly mentioned in Quran 2:285 and comprehensively d
 ### 1. Al-'Aqidah al-Tahawiyyah (The Creed of Imam al-Tahawi)
 
 - **Author**: Imam Abu Ja'far Ahmad ibn Muhammad al-Tahawi (239-321 AH / 853-933 CE)
-- **Description**: A concise yet comprehensive exposition of the beliefs of Ahl al-Sunnah wa al-Jama'ah, according to the Hanafi school (Imam Abu Hanifah, Abu Yusuf, and Muhammad ibn al-Hasan al-Shaybani). It is "the most widely acclaimed, and indeed indispensable, reference work on Muslim beliefs" and "representative of the viewpoint of ahl-al-Sunnah wa-al-Jama'a." [Source: https://salafipublications.com/sps/sp.cfm?subsecID=AQD04&articleID=AQD040002&pfriend=]
+- **Description**: A concise yet comprehensive exposition of the beliefs of Ahl al-Sunnah wa al-Jama'ah, according to the Hanafi school (Imam Abu Hanifah, Abu Yusuf, and Muhammad ibn al-Hasan al-Shaybani). It is "the most widely acclaimed, and indeed indispensable, reference work on Muslim beliefs" and "representative of the viewpoint of ahl-al-Sunnah wa-al-Jama'a." [Source: https://spubs.com/sps/sp.cfm?articleID=AQD040002&articlePages=1&subsecID=AQD04]
 - **Significance**: The text lists what a Muslim must know and believe, with consensus among the Companions, Successors, and leading Islamic authorities on its doctrines. [Source: https://www.aseelfoundation.com/wp-content/uploads/2016/12/Aqeedah-Tahawiyyah-Arabic.English.pdf]
 
 ### 2. Al-'Aqidah al-Wasitiyyah (العقيدة الواسطية)
@@ -150,7 +150,7 @@ The Quran itself distinguishes between belief (aqeedah) and practice (shariah/fi
     https://ar.wikisource.org/wiki/%D8%A7%D9%84%D8%B9%D9%82%D9%8A%D8%AF%D8%A9_%D8%A7%D9%84%D8%B7%D8%AD%D8%A7%D9%88%D9%8A%D8%A9
 
 14. **Salafi Publications** - Aqeedatut-Tahaawiyyah  
-    https://salafipublications.com/sps/sp.cfm?subsecID=AQD04&articleID=AQD040002&pfriend=
+    https://spubs.com/sps/sp.cfm?articleID=AQD040002&articlePages=1&subsecID=AQD04
 
 15. **Aseel Foundation** - Al-'Aqida Al-Tahawiyya (PDF)  
     https://www.aseelfoundation.com/wp-content/uploads/2016/12/Aqeedah-Tahawiyyah-Arabic.English.pdf

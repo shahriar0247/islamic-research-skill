@@ -140,7 +140,7 @@
 
 **Scholar:** Shaykh Abd al-Aziz ibn Baz
 **Book:** Fatawa Ibn Baz
-**URL:** https://binbaz.org.sa/fatwas/11199/ (Fatwa: "صفات الزوج الصالح" — Qualities of the Righteous Husband)
+**URL:** https://binbaz.org.sa/fatwas/11199/%D8%B5%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D8%B2%D9%88%D8%AC-%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD (Fatwa: "صفات الزوج الصالح" — Qualities of the Righteous Husband)
 
 ### On Rejecting a Suitor Who Lacks Religion and Character
 
@@ -150,7 +150,7 @@
 **Translation:** "You did well in rejecting him. The Prophet ﷺ said: 'If someone whose religion and character you are pleased with proposes to you, then marry [her to him].' This one — his character is not pleasing, nor is his religion. So you did well in rejecting him, and I ask Allah to give you a righteous husband better than him."
 
 **Scholar:** Shaykh Abd al-Aziz ibn Baz
-**URL:** https://binbaz.org.sa/fatwas/15427/ (Fatwa: "وجوب رفض الزواج بمن لا دين له ولا خلق")
+**URL:** https://binbaz.org.sa/fatwas/15427/%D9%88%D8%AC%D9%88%D8%A8-%D8%B1%D9%81%D8%B6-%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%AC-%D8%A8%D9%85%D9%86-%D9%84%D8%A7-%D8%AF%D9%8A%D9%86-%D9%84%D9%87-%D9%88%D9%84%D8%A7-%D8%AE%D9%84%D9%82 (Fatwa: "وجوب رفض الزواج بمن لا دين له ولا خلق")
 
 ### On the Qualities the Woman Should Strive to Find
 
@@ -160,7 +160,7 @@
 **Translation:** "And similarly, the man should be chosen by the woman, and she should strive for him to be righteous and good, far from causes of evil — not a drunkard, not one who shaves his beard, not a smoker, not one who commits adultery, and the like. She should strive for him to be sound; this is what is required — out of concern for the safety of religion."
 
 **Scholar:** Shaykh Abd al-Aziz ibn Baz
-**URL:** https://binbaz.org.sa/fatwas/10813/ (Fatwa: "الشروط الواجب توفرها في الزوجين")
+**URL:** https://binbaz.org.sa/fatwas/10813/%D8%A7%D9%84%D8%B4%D8%B1%D9%88%D8%B7-%D8%A7%D9%84%D9%88%D8%A7%D8%AC%D8%A8-%D8%AA%D9%88%D9%81%D8%B1%D9%87%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D9%8A%D9%86 (Fatwa: "الشروط الواجب توفرها في الزوجين")
 
 ### On the Husband's Obligations Toward His Wife
 
@@ -170,7 +170,7 @@
 **Translation:** "And he also must treat her with good treatment (ma'ruf), so he should not harm her, nor beat her without right, nor be harsh with her without right, nor frown in her face without right, nor fall short in her spending without right. Rather, he must provide her customary spending for her like — clothing and other things — and be of good character, cheerful with his wife. He must treat her with gentleness in his intimacy with her, in his sleeping with her, in his speech to her with good words, joking with her, and being at ease with her, among other things. He has a right, and she has a right, and though his right is greater, he has a right upon him to treat her with good treatment and to be good to her."
 
 **Scholar:** Shaykh Abd al-Aziz ibn Baz
-**URL:** https://binbaz.org.sa/fatwas/15561/ (Fatwa: "حقوق كل من الزوجين على الآخر")
+**URL:** https://binbaz.org.sa/fatwas/15561/%D8%AD%D9%82%D9%88%D9%82-%D9%83%D9%84-%D9%85%D9%86-%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D9%8A%D9%86-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A7%D8%AE%D8%B1 (Fatwa: "حقوق كل من الزوجين على الآخر")
 
 ### On Qawamah (Men's Authority and Responsibility)
 
@@ -180,7 +180,7 @@
 **Translation:** "As Allah — blessed and exalted — stated: 'Men are qawwamun (protectors/maintainers) over women because of what Allah has favored some over others and because of what they spend of their wealth' [An-Nisa 4:34] — due to the favor of men over women, and because of what he spends of his wealth, and what he spends on her — he gave her wealth, and gave her spending, so he is the maintainer over her."
 
 **Scholar:** Shaykh Abd al-Aziz ibn Baz
-**URL:** https://binbaz.org.sa/fatwas/14079/ (Fatwa: "توضيح حول قوامة الرجل على المرأة")
+**URL:** https://binbaz.org.sa/fatwas/14079/%D8%AA%D9%88%D8%B6%D9%8A%D8%AD-%D8%AD%D9%88%D9%84-%D9%82%D9%88%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%B1%D8%AC%D9%84-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D8%A9 (Fatwa: "توضيح حول قوامة الرجل على المرأة")
 
 ### On Compatibility Being Only in Religion
 
@@ -617,11 +617,11 @@ These are the qualities a woman is rightly seeking, because they are what the hu
 - Shaykh Muhammad Nasir al-Din al-Albani (may Allah have mercy on him) — for hadith gradings
 
 ### Key URLs
-- https://binbaz.org.sa/fatwas/11199/ (صفات الزوج الصالح)
-- https://binbaz.org.sa/fatwas/15427/ (وجوب رفض الزواج بمن لا دين له ولا خلق)
-- https://binbaz.org.sa/fatwas/10813/ (الشروط الواجب توفرها في الزوجين)
-- https://binbaz.org.sa/fatwas/15561/ (حقوق كل من الزوجين على الآخر)
-- https://binbaz.org.sa/fatwas/14079/ (توضيح حول قوامة الرجل على المرأة)
+- https://binbaz.org.sa/fatwas/11199/%D8%B5%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D8%B2%D9%88%D8%AC-%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD (صفات الزوج الصالح)
+- https://binbaz.org.sa/fatwas/15427/%D9%88%D8%AC%D9%88%D8%A8-%D8%B1%D9%81%D8%B6-%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%AC-%D8%A8%D9%85%D9%86-%D9%84%D8%A7-%D8%AF%D9%8A%D9%86-%D9%84%D9%87-%D9%88%D9%84%D8%A7-%D8%AE%D9%84%D9%82 (وجوب رفض الزواج بمن لا دين له ولا خلق)
+- https://binbaz.org.sa/fatwas/10813/%D8%A7%D9%84%D8%B4%D8%B1%D9%88%D8%B7-%D8%A7%D9%84%D9%88%D8%A7%D8%AC%D8%A8-%D8%AA%D9%88%D9%81%D8%B1%D9%87%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D9%8A%D9%86 (الشروط الواجب توفرها في الزوجين)
+- https://binbaz.org.sa/fatwas/15561/%D8%AD%D9%82%D9%88%D9%82-%D9%83%D9%84-%D9%85%D9%86-%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D9%8A%D9%86-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A7%D8%AE%D8%B1 (حقوق كل من الزوجين على الآخر)
+- https://binbaz.org.sa/fatwas/14079/%D8%AA%D9%88%D8%B6%D9%8A%D8%AD-%D8%AD%D9%88%D9%84-%D9%82%D9%88%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%B1%D8%AC%D9%84-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D8%A9 (توضيح حول قوامة الرجل على المرأة)
 - https://islamqa.info/en/answers/5202
 - https://islamqa.info/en/answers/34170
 - https://islamqa.info/en/answers/6585

@@ -533,7 +533,7 @@ Ibn Sad (rahimahullaah) mentions in At Tabaqaat about Umar Bin Abdul Azeez (rahi
 **Translation:** "It is a condition of the validity of marriage that it be done through a guardian (wali), whether the woman is a virgin or previously married, due to the saying of the Prophet ﷺ: 'There is no marriage except with a wali.'"
 
 **Scholar:** Shaykh 'Abdul-'Aziz Bin Baz
-**Source URL:** https://binbaz.org.sa/fatwas/19063/
+**Source URL:** https://binbaz.org.sa/fatwas/19063/وجوب-موافقة-الولي-في-عقد-النكاح
 
 ---
 
@@ -544,7 +544,7 @@ Ibn Sad (rahimahullaah) mentions in At Tabaqaat about Umar Bin Abdul Azeez (rahi
 > "This is not permissible; she does not have the right to appoint someone. Rather, the wali is the one who handles that, but she must be consulted. If she gives permission, her wali marries her off, due to his ﷺ saying: 'There is no marriage except with a wali,' and his ﷺ saying: 'The virgin is consulted, and her permission is her silence; and the previously married woman is consulted and must give verbal consent.' [...] But neither of them is married off except by the wali — the father, then the grandfather, then the son, then the son of the son and so on, then the relatives according to the order of inheritance [...] And it is not for a woman to marry herself off, nor to appoint someone to marry her off. Rather, it is obligatory that the wali handles this."
 
 **Scholar:** Shaykh 'Abdul-'Aziz Bin Baz
-**Source URL:** https://binbaz.org.sa/fatwas/16409/
+**Source URL:** https://binbaz.org.sa/fatwas/16409/حكم-توكيل-غير-الولي-في-عقد-الزواج
 
 ---
 
@@ -1103,13 +1103,13 @@ Regarding the most complete type of Haya':
 
 47. LearnAboutIslam — "Marriage & Divorce Series" — https://learnaboutislam.co.uk/2016/10/marriageseries/
 
-48. BinBaz.org.sa — "وجوب موافقة الولي في عقد النكاح" (Obligation of the Wali's consent in marriage) — https://binbaz.org.sa/fatwas/19063/
+48. BinBaz.org.sa — "وجوب موافقة الولي في عقد النكاح" (Obligation of the Wali's consent in marriage) — https://binbaz.org.sa/fatwas/19063/وجوب-موافقة-الولي-في-عقد-النكاح
 
-49. BinBaz.org.sa — "حكم توكيل غير الولي في عقد الزواج" (Ruling on appointing someone other than the wali) — https://binbaz.org.sa/fatwas/16409/
+49. BinBaz.org.sa — "حكم توكيل غير الولي في عقد الزواج" (Ruling on appointing someone other than the wali) — https://binbaz.org.sa/fatwas/16409/حكم-توكيل-غير-الولي-في-عقد-الزواج
 
-50. BinBaz.org.sa — "حكم استئذان المرأة عند الزواج" (Ruling on consulting the woman in marriage) — https://binbaz.org.sa/fatwas/6569/
+50. BinBaz.org.sa — "حكم استئذان المرأة عند الزواج" (Ruling on consulting the woman in marriage) — https://binbaz.org.sa/fatwas/6569/حكم-استئذان-المرأة-عند-الزواج
 
-51. BinBaz.org.sa — "حكم زواج المرأة دون علم الوالدين" (Ruling on a woman marrying without her parents' knowledge) — https://binbaz.org.sa/fatwas/2121/
+51. BinBaz.org.sa — "حكم زواج المرأة دون علم الوالدين" (Ruling on a woman marrying without her parents' knowledge) — https://binbaz.org.sa/fatwas/2121/حكم-زواج-المرأة-دون-علم-الوالدين
 
 52. FatwaIslam — "What is Permissable for the Suitor to See of the Woman Before the Wedding" (Shaykh Bin Baz) — https://fatwaislam.com/fis/index.cfm?scn=fd&ID=94
 

@@ -102,7 +102,7 @@ The hadith is reported in **Sahih al-Bukhari** and **Sahih Muslim**, making it *
 [Arabic original: "سؤال أهل العلم والأمانة عنها وعن أهلها، حتى يثبت لدى الخاطب أنها من ذوات الدين؛ لقول النبي ﷺ: تنكح المرأة لأربع: لمالها ولحسبها ولجمالها ولدينها، فاظفر بذات الدين تربت يداك، متفق على صحته"]
 
 **Scholar:** Shaykh 'Abd al-'Aziz ibn Baz
-**URL:** https://binbaz.org.sa/fatwas/19421/ (Fatwa: "اختيار الزوجة الصالحة" — "Choosing the Righteous Wife")
+**URL:** https://binbaz.org.sa/fatwas/19421/اختيار-الزوجة-الصالحة (Fatwa: "اختيار الزوجة الصالحة" — "Choosing the Righteous Wife")
 
 ### From Shaykh Ibn Baz on Prioritizing Religion Over Wealth
 
@@ -111,7 +111,7 @@ The hadith is reported in **Sahih al-Bukhari** and **Sahih Muslim**, making it *
 [Arabic original: "فالواجب عليك وعلى أبيك العناية بالزوجة الصالحة، وعدم النظر إلى المال، المهم أن تكون المرأة صالحة مستقيمة في دينها... فإذا تيسر الدين فما معه بعد ذلك من جمال أو مال أو حسب خير إلى خير، لكن الأهم الأول هو كونها في نفسها صالحة مستقيمة حتى تنفعك، وحتى تأمنها على عرضها، وعلى بيتك، وعلى مالك، وعلى كل شئونك"]
 
 **Scholar:** Shaykh 'Abd al-'Aziz ibn Baz
-**URL:** https://binbaz.org.sa/fatwas/6262/ (Fatwa: "مراعاة ذات الدين عند إرادة الزواج" — "Considering the Religious Woman When Wanting to Marry")
+**URL:** https://binbaz.org.sa/fatwas/6262/مراعاة-ذات-الدين-عند-إرادة-الزواج (Fatwa: "مراعاة ذات الدين عند إرادة الزواج" — "Considering the Religious Woman When Wanting to Marry")
 
 ### From Shaykh Ibn Baz on the Conditions of Both Spouses
 
@@ -120,7 +120,7 @@ The hadith is reported in **Sahih al-Bukhari** and **Sahih Muslim**, making it *
 [Arabic original: "أما كونها ديّنة، فهذا هو الأفضل والأوْلى، والذي ينبغي؛ لقوله ﷺ: تنكح المرأة لأربع: لجمالها، ولمالها، ولحسبها، ولدينها؛ فاظفر بذات الدين تربت يداك. فالأفضل للمؤمن أن يختار المرأة الصالحة الطيبة في أخلاقها وأعمالها، بأن تكون متحجبة بعيدة عن التبرج، بعيدة عن أسباب الفتنة، يختارها، ويسأل عنها..."]
 
 **Scholar:** Shaykh 'Abd al-'Aziz ibn Baz
-**URL:** https://binbaz.org.sa/fatwas/10813/ (Fatwa: "الشروط الواجب توفرها في الزوجين" — "Conditions Required in Both Spouses")
+**URL:** https://binbaz.org.sa/fatwas/10813/الشروط-الواجب-توفرها-في-الزوجين (Fatwa: "الشروط الواجب توفرها في الزوجين" — "Conditions Required in Both Spouses")
 
 ### From TROID (Choosing the Desired Wife)
 
@@ -188,7 +188,7 @@ The hadith is reported in **Sahih al-Bukhari** and **Sahih Muslim**, making it *
 [Arabic original: "قد أحسنت في رفضه، يقول النبي ﷺ: إذا خطب إليكم من ترضون دينه، وخلقه؛ فزوجوه هذا لا يرضى خلقه، ولا دينه، فقد أحسنت في رفضه، وأسأل الله أن يعطيك الزوج الصالح خيرًا منه"]
 
 **Scholar:** Shaykh 'Abd al-'Aziz ibn Baz
-**URL:** https://binbaz.org.sa/fatwas/15427/ (Fatwa: "وجوب رفض الزواج بمن لا دين له ولا خلق" — "Obligation of Refusing Marriage to One Who Has No Religion or Character")
+**URL:** https://binbaz.org.sa/fatwas/15427/وجوب-رفض-الزواج-بمن-لا-دين-له-ولا-خلق (Fatwa: "وجوب رفض الزواج بمن لا دين له ولا خلق" — "Obligation of Refusing Marriage to One Who Has No Religion or Character")
 
 ### From Shaykh Ibn Baz on Not Giving a Daughter to One Who Is Not a Religious Match
 
@@ -197,7 +197,7 @@ The hadith is reported in **Sahih al-Bukhari** and **Sahih Muslim**, making it *
 [Arabic original: "ينظر إذا كان النقص في دينه لا يبلغ الكفر، ولكن عنده بعض المعاصي؛ فلا حرج في ذلك إذا لم يتيسر من هو خير منه، أما إذا تيسر من هو خير منه؛ فالخير هو الذي يقدم، لكن إذا تعطلت الأمور، ولم ييسر لها الكفء في الدين، وإنما تيسر لها إنسان فيه بعض المعاصي، وليس بكافر؛ فلا بأس"]
 
 **Scholar:** Shaykh 'Abd al-'Aziz ibn Baz
-**URL:** https://binbaz.org.sa/fatwas/1632/ (Fatwa: "حكم تزويج البنت من ليس كفئاً في دينه" — "Ruling on Giving a Daughter in Marriage to One Who Is Not a Match in Religion")
+**URL:** https://binbaz.org.sa/fatwas/1632/حكم-تزويج-البنت-من-ليس-كفئاً-في-دينه (Fatwa: "حكم تزويج البنت من ليس كفئاً في دينه" — "Ruling on Giving a Daughter in Marriage to One Who Is Not a Match in Religion")
 
 ### From FatwaIslam (Shaykh Ibn Baz) — Not Giving a Daughter to One Who Does Not Pray
 
@@ -298,7 +298,7 @@ The hadith is reported in **Sahih al-Bukhari** and **Sahih Muslim**, making it *
 [Arabic original: "من شرط صحة النكاح: صدوره عن ولي، سواء كانت المرأة بكرًا أو ثيبًا... ولكن الأيم لا بد من إذنها صريحًا... أما البكر فيكفي سكوتها..."]
 
 **Scholar:** Shaykh 'Abd al-'Aziz ibn Baz
-**URL:** https://binbaz.org.sa/fatwas/19063/ (Fatwa: "وجوب موافقة الولي في عقد النكاح" — "Obligation of the Wali's Approval in the Marriage Contract")
+**URL:** https://binbaz.org.sa/fatwas/19063/وجوب-موافقة-الولي-في-عقد-النكاح (Fatwa: "وجوب موافقة الولي في عقد النكاح" — "Obligation of the Wali's Approval in the Marriage Contract")
 
 ### From Shaykh Ibn Baz — The Wali Should Choose a Righteous Man
 
@@ -309,7 +309,7 @@ The hadith is reported in **Sahih al-Bukhari** and **Sahih Muslim**, making it *
 [Arabic original: "المرأة لا مانع أن تختار لنفسها الرجل الطيب المعروف بالاستقامة في دينه، ولكن لا تبت في ذلك إلا بطريق وليها... وليس لوليها أن يجبرها على شخص ليس بطيب، أو على شخص لا ترضاه"]
 
 **Scholar:** Shaykh 'Abd al-'Aziz ibn Baz
-**URL:** https://binbaz.org.sa/fatwas/11199/ (Fatwa: "صفات الزوج الصالح" — "Qualities of the Righteous Husband")
+**URL:** https://binbaz.org.sa/fatwas/11199/صفات-الزوج-الصالح (Fatwa: "صفات الزوج الصالح" — "Qualities of the Righteous Husband")
 
 ### From FatwaIslam (Shaykh Ibn Baz) — Guardian Refusing to Give Her in Marriage
 
@@ -346,7 +346,7 @@ The hadith is reported in **Sahih al-Bukhari** and **Sahih Muslim**, making it *
 [Arabic original: "الزواج الشرعي كون الرجل يخطب البنت المناسبة الدينة، ثم يجري العقد عليها بواسطة وليها، وهو أقرب عصبتها... ويكون ذلك بشاهدين عدلين برضاها لا بالإكراه، ولا بالجبر، بل برضاها..."]
 
 **Scholar:** Shaykh 'Abd al-'Aziz ibn Baz
-**URL:** https://binbaz.org.sa/fatwas/9692/ (Fatwa: "صفة الزواج الشرعي" — "Description of the Valid Islamic Marriage")
+**URL:** https://binbaz.org.sa/fatwas/9692/صفة-الزواج-الشرعي (Fatwa: "صفة الزواج الشرعي" — "Description of the Valid Islamic Marriage")
 
 ---
 
@@ -651,14 +651,14 @@ The hadith is reported in **Sahih al-Bukhari** and **Sahih Muslim**, making it *
 26. **IslamQA.info** — "He wants to propose to her, but she asked him to speak to her before he approaches her wali" — https://islamqa.info/en/answers/136638
 27. **IslamQA.info** — "He has contacted her several times saying that he wants to propose marriage..." — https://islamqa.info/en/answers/21973
 28. **IslamQA.info** — "Marrying a Christian woman without a wali (guardian) or witnesses" — https://islamqa.info/en/answers/159297
-29. **binbaz.org.sa** — "اختيار الزوجة الصالحة" (Choosing the Righteous Wife) — https://binbaz.org.sa/fatwas/19421/
-30. **binbaz.org.sa** — "مراعاة ذات الدين عند إرادة الزواج" (Considering the Religious Woman When Wanting to Marry) — https://binbaz.org.sa/fatwas/6262/
-31. **binbaz.org.sa** — "وجوب رفض الزواج بمن لا دين له ولا خلق" (Obligation of Refusing Marriage to One Who Has No Religion or Character) — https://binbaz.org.sa/fatwas/15427/
-32. **binbaz.org.sa** — "صفة الزواج الشرعي" (Description of the Valid Islamic Marriage) — https://binbaz.org.sa/fatwas/9692/
-33. **binbaz.org.sa** — "حكم تزويج البنت من ليس كفئاً في دينه" (Ruling on Giving a Daughter to One Who Is Not a Match in Religion) — https://binbaz.org.sa/fatwas/1632/
-34. **binbaz.org.sa** — "الشروط الواجب توفرها في الزوجين" (Conditions Required in Both Spouses) — https://binbaz.org.sa/fatwas/10813/
-35. **binbaz.org.sa** — "صفات الزوج الصالح" (Qualities of the Righteous Husband) — https://binbaz.org.sa/fatwas/11199/
-36. **binbaz.org.sa** — "وجوب موافقة الولي في عقد النكاح" (Obligation of the Wali's Approval in the Marriage Contract) — https://binbaz.org.sa/fatwas/19063/
+29. **binbaz.org.sa** — "اختيار الزوجة الصالحة" (Choosing the Righteous Wife) — https://binbaz.org.sa/fatwas/19421/اختيار-الزوجة-الصالحة
+30. **binbaz.org.sa** — "مراعاة ذات الدين عند إرادة الزواج" (Considering the Religious Woman When Wanting to Marry) — https://binbaz.org.sa/fatwas/6262/مراعاة-ذات-الدين-عند-إرادة-الزواج
+31. **binbaz.org.sa** — "وجوب رفض الزواج بمن لا دين له ولا خلق" (Obligation of Refusing Marriage to One Who Has No Religion or Character) — https://binbaz.org.sa/fatwas/15427/وجوب-رفض-الزواج-بمن-لا-دين-له-ولا-خلق
+32. **binbaz.org.sa** — "صفة الزواج الشرعي" (Description of the Valid Islamic Marriage) — https://binbaz.org.sa/fatwas/9692/صفة-الزواج-الشرعي
+33. **binbaz.org.sa** — "حكم تزويج البنت من ليس كفئاً في دينه" (Ruling on Giving a Daughter to One Who Is Not a Match in Religion) — https://binbaz.org.sa/fatwas/1632/حكم-تزويج-البنت-من-ليس-كفئاً-في-دينه
+34. **binbaz.org.sa** — "الشروط الواجب توفرها في الزوجين" (Conditions Required in Both Spouses) — https://binbaz.org.sa/fatwas/10813/الشروط-الواجب-توفرها-في-الزوجين
+35. **binbaz.org.sa** — "صفات الزوج الصالح" (Qualities of the Righteous Husband) — https://binbaz.org.sa/fatwas/11199/صفات-الزوج-الصالح
+36. **binbaz.org.sa** — "وجوب موافقة الولي في عقد النكاح" (Obligation of the Wali's Approval in the Marriage Contract) — https://binbaz.org.sa/fatwas/19063/وجوب-موافقة-الولي-في-عقد-النكاح
 37. **abdurrahman.org** — "Choosing a Good Spouse in Marriage" ('Abdus-Salaam bin 'Abdillaah As-Sulaymaan) — https://abdurrahman.org/2014/09/29/choosing-a-good-spouse-in-marriage-abdus-salaam-bin-abdillaah-as-sulaymaan/
 38. **abdurrahman.org** — "Marriage, Casts and Compatibility" (Shaykh Ibn Baz) — https://abdurrahman.org/2014/01/29/marriagecastscompatibility/
 39. **abdurrahman.org** — "Can a Woman get Married without a Wali?" (Shaykh Ibn 'Uthaymeen) — https://abdurrahman.org/2015/04/17/can-a-woman-get-married-without-a-wali-guardian-imam-ibn-uthaymeen/

@@ -38,7 +38,7 @@ The **specific case in the question** (Tahajjud behind Isha) falls under categor
 - **Scholar:** Shaykh 'Abd al-'Aziz ibn 'Abdullah ibn Baz
 - **Book/Reference:** Majmu' Fatawa wa Maqalat al-Shaykh Ibn Baz, 12/179
 - **Published in:** Jareedat al-Bilad, issue 10936, dated 14/1/1415 AH
-- **URL:** https://binbaz.org.sa/fatwas/4758/
+- **URL:** https://binbaz.org.sa/fatwas/4758/%D8%B5%D9%84%D8%A7%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D8%B1%D8%B6-%D8%AE%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%AA%D9%86%D9%81%D9%84
 
 ### Source: binbaz.org.sa — Fatwa #5949: "جواز صلاة المفترض خلف المتنفل"
 
@@ -49,7 +49,7 @@ The **specific case in the question** (Tahajjud behind Isha) falls under categor
 **Translation:** "If a person enters ihram with the people in Ramadan nights thinking they are in the obligatory prayer, then it appears they are in Taraweeh — he prays with them and continues. When the imam gives salam in Taraweeh, he stands and completes his prayer, and there is no harm; because the correct view is that it is permissible to pray obligatory behind one praying voluntary. Mu'adh prayed Isha with his companions while he was praying voluntary (mutanaffil) and they were praying obligatory (muftaridun) — he used to pray Isha as his obligation with the Prophet ﷺ then come and pray Isha with his companions while he was voluntary and they were obligatory. And the Prophet ﷺ prayed the fear prayer — the first prayer as obligatory and prayed with the second group while he was voluntary, peace be upon him, and they were obligatory. So there is no harm."
 
 - **Scholar:** Shaykh Ibn Baz
-- **URL:** https://binbaz.org.sa/fatwas/5949/
+- **URL:** https://binbaz.org.sa/fatwas/5949/%D8%AC%D9%88%D8%A7%D8%B2-%D8%B5%D9%84%D8%A7%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D8%B1%D8%B6-%D8%AE%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%AA%D9%86%D9%81%D9%84
 
 ### Source: binbaz.org.sa — Fatwa #15611: "جواز صلاة الفريضة خلف المتنفل"
 
@@ -60,7 +60,7 @@ The **specific case in the question** (Tahajjud behind Isha) falls under categor
 **Translation:** "Yes, there is no harm in that. If a person has not prayed his obligatory prayer, and comes to someone praying a voluntary prayer, and prays with him — it is valid. Mu'adh used to lead his companions in Isha as a voluntary prayer (nafl) because he had already prayed it with the Prophet ﷺ, while they were praying obligatory; and because the Prophet ﷺ in some types of the fear prayer prayed with one group two rak'ahs as their obligation, then prayed with another group two rak'ahs as voluntary for him, while for them it was obligatory. So there is no harm."
 
 - **Scholar:** Shaykh Ibn Baz
-- **URL:** https://binbaz.org.sa/fatwas/15611/
+- **URL:** https://binbaz.org.sa/fatwas/15611/%D8%AC%D9%88%D8%A7%D8%B2-%D8%B5%D9%84%D8%A7%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%8A%D8%B6%D8%A9-%D8%AE%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%AA%D9%86%D9%81%D9%84
 
 ### Source: binbaz.org.sa — Fatwa #8449: "صلاة المفترض خلف المتنفل صحيحة"
 
@@ -71,7 +71,7 @@ The **specific case in the question** (Tahajjud behind Isha) falls under categor
 **Translation:** "And the correct view is that the prayer is valid, and that the obligatory prayer behind one praying voluntary is valid — this is the stronger of the two scholarly positions: that it is permissible for the one praying obligatory to pray behind the one praying voluntary, just as Mu'adh used to lead his companions in Isha while he had already prayed it with the Prophet ﷺ, so he would lead them as voluntary (mutanaffil) while they were obligatory (muftaridun)."
 
 - **Scholar:** Shaykh Ibn Baz
-- **URL:** https://binbaz.org.sa/fatwas/8449/
+- **URL:** https://binbaz.org.sa/fatwas/8449/%D8%B5%D9%84%D8%A7%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D8%B1%D8%B6-%D8%AE%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%AA%D9%86%D9%81%D9%84-%D8%B5%D8%AD%D9%8A%D8%AD%D8%A9
 
 ---
 
@@ -442,22 +442,22 @@ And he also said: 'For it is established — the prayer of the one praying volun
    - https://islamqa.info/amp/en/answers/79136
 
 3. **binbaz.org.sa — Fatwa #4758:** "صلاة المفترض خلف المتنفل" (Majmu' Fatawa Ibn Baz 12/179)
-   - https://binbaz.org.sa/fatwas/4758/
+   - https://binbaz.org.sa/fatwas/4758/%D8%B5%D9%84%D8%A7%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D8%B1%D8%B6-%D8%AE%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%AA%D9%86%D9%81%D9%84
 
 4. **binbaz.org.sa — Fatwa #5949:** "جواز صلاة المفترض خلف المتنفل"
-   - https://binbaz.org.sa/fatwas/5949/
+   - https://binbaz.org.sa/fatwas/5949/%D8%AC%D9%88%D8%A7%D8%B2-%D8%B5%D9%84%D8%A7%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D8%B1%D8%B6-%D8%AE%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%AA%D9%86%D9%81%D9%84
 
 5. **binbaz.org.sa — Fatwa #8449:** "صلاة المفترض خلف المتنفل صحيحة"
-   - https://binbaz.org.sa/fatwas/8449/
+   - https://binbaz.org.sa/fatwas/8449/%D8%B5%D9%84%D8%A7%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D8%B1%D8%B6-%D8%AE%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%AA%D9%86%D9%81%D9%84-%D8%B5%D8%AD%D9%8A%D8%AD%D8%A9
 
 6. **binbaz.org.sa — Fatwa #15611:** "جواز صلاة الفريضة خلف المتنفل"
-   - https://binbaz.org.sa/fatwas/15611/
+   - https://binbaz.org.sa/fatwas/15611/%D8%AC%D9%88%D8%A7%D8%B2-%D8%B5%D9%84%D8%A7%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%8A%D8%B6%D8%A9-%D8%AE%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%AA%D9%86%D9%81%D9%84
 
 7. **binbaz.org.sa — Fatwa #4762:** "اختلاف النية بين الإمام والمأموم"
-   - https://binbaz.org.sa/fatwas/4762/
+   - https://binbaz.org.sa/fatwas/4762/%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D9%81-%D8%A7%D9%84%D9%86%D9%8A%D8%A9-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D9%85-%D9%88%D8%A7%D9%84%D9%85%D8%A7%D9%85%D9%88%D9%85
 
 8. **binbaz.org.sa — Fatwa #4871:** "حكم إمامة المتنفل بالمفترض"
-   - https://binbaz.org.sa/fatwas/4871/
+   - https://binbaz.org.sa/fatwas/4871/%D8%AD%D9%83%D9%85-%D8%A7%D9%85%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%AA%D9%86%D9%81%D9%84-%D8%A8%D8%A7%D9%84%D9%85%D9%81%D8%AA%D8%B1%D8%B6
 
 9. **islamweb.net — Fatwa #9763:** "اقتداء المفترض بالمتنفل جائز"
    - https://www.islamweb.net/ar/fatwa/9763/

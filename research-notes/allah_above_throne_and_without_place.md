@@ -86,7 +86,7 @@ When asked about the meaning of {Al-Rahman 'ala al-'Arsh istawa} (Quran, Surah T
 > **"Al-Istiwa' is known, the how (kayf) is unknown, belief in it is obligatory, and asking about it is an innovation."**
 
 - **Attributed to**: Imam Malik ibn Anas
-- **Source**: Quoted by Ibn Baz in *Bayan Madhhab Ahl al-Sunnah fi al-Istiwa'* (binbaz.org.sa/articles/43/); also quoted by al-Dhahabi in *al-'Uluww* (spubs.com)
+- **Source**: Quoted by Ibn Baz in *Bayan Madhhab Ahl al-Sunnah fi al-Istiwa'* (https://binbaz.org.sa/articles/43/%D8%A8%D9%8A%D8%A7%D9%86-%D9%85%D8%B0%D9%87%D8%A8-%D8%A7%D9%87%D9%84-%D8%A7%D9%84%D8%B3%D9%86%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%88%D8%A7%D8%A1); also quoted by al-Dhahabi in *al-'Uluww* (spubs.com)
 
 This statement became the foundational principle of the Salaf regarding Allah's attributes: **affirm the meaning, deny the "how" (kayfiyyah), believe it is obligatory, and reject asking about the modality.**
 
@@ -101,7 +101,7 @@ This statement became the foundational principle of the Salaf regarding Allah's 
 > "What we mentioned of belief in Allah included belief in what Allah has revealed in His Book (the Qur'an), and what has been continuously reported from His Messenger ﷺ, and what the early generation of the Ummah unanimously agreed upon: **That Allah, The Glorified, is above His heavens on His Throne, exalted above His creatures**, and that He, The Glorified, is with them wherever they be and knows whatever they do."
 
 - **Book**: Al-'Aqidah al-Wasitiyyah
-- **Source**: https://spubs.com/sps/sp.cfm?articleID=AQD040003
+- **Source**: https://spubs.com/sps/sp.cfm?articleID=AQD040003&articlePages=3&subsecID=AQD04
 
 **From *Majmu' al-Fatawa* (5/521) — on the consensus of the Salaf and refutation of ta'wil:**
 
@@ -115,7 +115,7 @@ This statement became the foundational principle of the Salaf regarding Allah's 
 > "So when the Creator, the Exalted is **separate and distinct from the creation, high and raised above it**, and there is nothing in existence except the Creator and the created, then there is nothing that exists along with Him, which is besides Him, let alone that He — free is He from all imperfection — should be in some existing thing which surrounds and encompasses Him."
 
 - **Book**: Dar' Ta'arud al-'Aql wa al-Naql, vol. 1, p. 253
-- **Source**: https://www.thenoblequran.com/sps/sp.cfm?articleID=MSC060002
+- **Source**: https://www.thenoblequran.com/sps/sp.cfm?articleID=MSC060002&articlePages=2&subsecID=MSC06
 
 ---
 
@@ -158,7 +158,7 @@ Ibn al-Qayyim commented: "This is his wording in his treatise, and he transmitte
 
 - **Book**: Al-'Uluww lil-'Aliyyil-Ghaffar, pp. 286-287
 - **Tahqiq**: Al-Albani
-- **Source**: http://www.spubs.com/sps/sp.cfm?articleID=AQD050003
+- **Source**: http://www.spubs.com/sps/sp.cfm?articleID=AQD050003&articlePages=1&subsecID=AQD05
 
 **From *al-Siyar* (12/494) — reporting the statement of al-Muzani (d. 264H):**
 
@@ -175,20 +175,20 @@ Ibn al-Qayyim commented: "This is his wording in his treatise, and he transmitte
 
 > "This man who said this to you, that Allah is not above the Throne, is the disbeliever, the astray misleader; because he has belied Allah and belied His Messenger ﷺ. For Allah says — Mighty and Majestic — {The Most Gracious rose over the Throne} [Taha 20:5], and He says {Indeed, your Lord is Allah, Who created the heavens and the earth in six days, then He rose over the Throne} [al-A'raf 7:54]. He said this in seven places in the Quran. And He informed that He is in the heaven, saying {Do you feel secure that He who is in the heaven…} [al-Mulk 67:16]. And when a man brought a slave girl to the Prophet ﷺ wanting to free her, the Prophet ﷺ said to her: 'Where is Allah?' She said: 'In the heaven.' He said: 'Who am I?' She said: 'You are the Messenger of Allah.' He said: 'Free her, for she is a believer.'… **So the one who says that Allah is not in the heaven, or is not above the Throne, is a disbeliever, astray, a filthy Jahmi. For Allah is described as being in the heaven, and above the Throne, above all of creation, as He informed about Himself.**"
 
-- **Source**: https://binbaz.org.sa/fatwas/14402/
+- **Source**: https://binbaz.org.sa/fatwas/14402/%D8%AD%D9%83%D9%85-%D9%85%D9%86-%D9%8A%D9%86%D9%83%D8%B1-%D8%A7%D8%B3%D8%AA%D9%88%D8%A7%D8%A1-%D8%A7%D9%84%D9%84%D9%87-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B9%D8%B1%D8%B4
 
 **From *Bayan Madhhab Ahl al-Sunnah fi al-Istiwa'* (refuting the istawla interpretation):**
 
 > "The correct position is that this interpretation [i.e., istawaa = istawla (conquered)] is the interpretation of the Jahmiyyah, the Mu'tazilah, and those who followed their path in negating the Attributes… The scholars of the Salaf — may Allah have mercy on them — rejected such ta'wil and said: The ruling on istiwaa' is like the ruling on all the other Attributes — affirming them all for Allah in a manner befitting Him, without tahrif (distortion), ta'til (negation), takyif (specifying how), or tamthil (likening). Imam Malik said: 'Al-istiwa' is known, the how is unknown, belief in it is obligatory, and asking about it is an innovation.'"
 
 - **Book**: Bayan Madhhab Ahl al-Sunnah fi al-Istiwa'
-- **Source**: https://binbaz.org.sa/articles/43/
+- **Source**: https://binbaz.org.sa/articles/43/%D8%A8%D9%8A%D8%A7%D9%86-%D9%85%D8%B0%D9%87%D8%A8-%D8%A7%D9%87%D9%84-%D8%A7%D9%84%D8%B3%D9%86%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%88%D8%A7%D8%A1
 
 **Letter on Allah's aboveness:**
 
 > "Ahl al-Sunnah wa'l-Jama'ah from among the Companions of the Messenger ﷺ and the Tabi'un after them with goodness are **unanimously agreed that Allah is in the heaven, and that He is above the Throne, and that hands are raised to Him** — as the verses and authentic hadiths indicate… They are also unanimously agreed that He — Mighty and Majestic — is in the direction of aboveness, above the Throne, above all of creation, and He is not inside the heavens — Allah is far above that — rather He is above all of creation, and He has risen over His Throne with an istiwaa' befitting His Majesty and Greatness, not resembling His creation in that or in any of His attributes."
 
-- **Source**: https://binbaz.org.sa/fatwas/42/
+- **Source**: https://binbaz.org.sa/fatwas/42/%D8%A7%D8%AC%D8%A7%D8%A8%D8%A9-%D8%B9%D9%86-%D8%B3%D9%88%D8%A7%D9%84-%D8%AD%D9%88%D9%84-%D8%B9%D9%84%D9%88-%D8%A7%D9%84%D9%84%D9%87-%D8%AA%D8%B9%D8%A7%D9%84%D9%89
 
 ---
 
@@ -296,7 +296,7 @@ The Jahmiyyah, Mu'tazilah, and later Ash'ari theologians reinterpreted *istiwaa'
 > "And as for their taking istawaa metaphorically, and in ta'wil to mean istawlaa (conquering) then this is not a meaning of it because it is not clear (ghayru dhaahir) in the language. **And the meaning of istawlaa in the language is conquering/overcoming, and Allah the Exalted does not (need to) overcome or overwhelm anyone. And He is the One, the Eternal.** And from the right of the Words (of Allah) is that they be taken upon their literal meanings ('alaa haqeeqatihi), until the ummah is agreed that what is meant is the metaphorical meaning."
 
 - **Book**: At-Tamheed (commentary on Muwatta')
-- **Source**: https://salafipublications.com/sps//sp.cfm?subsecID=AQD05&articleID=AQD050002
+- **Source**: https://spubs.com/sps/sp.cfm?articleID=AQD050002&articlePages=1&subsecID=AQD05
 
 #### Ibn al-A'rabi (the linguist) — Refutation of Istawla:
 
@@ -449,7 +449,7 @@ Then al-Dhahabi addresses the "third saying" (the Jahmi/Ash'ari position):
 > "As for the third saying which came around after this which is that '**Allah the Most High is not in any place, nor is His Holy Essence (Dhaat) confined, nor is He separate and distinct from His creation, nor is he in any spatial direction, nor is outside of any spatial directions, and nor this and nor that…**' then **this is something that cannot be comprehended nor understood, along with the fact that within it is opposition to the verses (of the Book) and the narrations (from the Salaf). Therefore flee with your religion and beware of the opinions of the philosophers.** Believe in Allah and what has come from Him upon the desired intent of Allah, then submit your affair to Him and there is no power nor movement except by Allah.'"
 
 - **Book**: Al-'Uluww lil-'Aliyy al-Ghaffar, pp. 286-287 (al-Albani's checking)
-- **Source**: http://www.spubs.com/sps/sp.cfm?articleID=AQD050003
+- **Source**: http://www.spubs.com/sps/sp.cfm?articleID=AQD050003&articlePages=1&subsecID=AQD05
 
 #### From *Mukhtasar al-'Uluww* (p. 146):
 
@@ -482,19 +482,19 @@ A questioner asked about someone who said "Allah is not described by time or pla
 
 > "**The one who says that Allah is not in the heaven, or is not above the Throne, is a disbeliever, astray, a filthy Jahmi.** For Allah is described as being in the heaven, and above the Throne, above all of creation, as He informed about Himself."
 
-- **Source**: https://binbaz.org.sa/fatwas/14402/
+- **Source**: https://binbaz.org.sa/fatwas/14402/%D8%AD%D9%83%D9%85-%D9%85%D9%86-%D9%8A%D9%86%D9%83%D8%B1-%D8%A7%D8%B3%D8%AA%D9%88%D8%A7%D8%A1-%D8%A7%D9%84%D9%84%D9%87-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B9%D8%B1%D8%B4
 
 #### On Allah Being Above the Throne, in the Direction of 'Uluww:
 
 > "He (Allah) is above the heaven, above the Throne — glorified and exalted — and He is not on the earth, rather He is above all of creation. **This is what the people of the Sunnah and the Jama'ah are upon from the Companions of the Prophet (peace be upon him) and those who followed them in goodness, and this is what all the Messengers came with** — peace be upon them — that Allah is above the heaven, above the Throne, in the direction of 'uluww (elevation), and His knowledge is in every place."
 
-- **Source**: https://binbaz.org.sa/fatwas/2909/
+- **Source**: https://binbaz.org.sa/fatwas/2909/%D8%A8%D9%8A%D8%A7%D9%86-%D8%B9%D9%84%D9%88-%D8%A7%D9%84%D9%84%D9%87-%D8%AC%D9%84-%D9%88%D8%B9%D9%84%D8%A7
 
 #### Letter Refuting the Claim That Allah Is Free from Direction:
 
 > "Know, may Allah bless you, that the people of the Sunnah and the Jama'ah from the Companions of the Messenger of Allah (peace be upon him) and the Tabi'un are **unanimously agreed that Allah is in the heaven, and that He is above the Throne, and that hands are raised to Him**... And they are unanimously agreed that He is in the direction of 'uluww above the Throne, above all of creation, and He is not inside the heavens — exalted be Allah above that — rather He is above all of creation, and He has istawa upon His Throne in a manner befitting His majesty and greatness, not resembling His creation in anything."
 
-- **Source**: https://binbaz.org.sa/fatwas/42/
+- **Source**: https://binbaz.org.sa/fatwas/42/%D8%A7%D8%AC%D8%A7%D8%A8%D8%A9-%D8%B9%D9%86-%D8%B3%D9%88%D8%A7%D9%84-%D8%AD%D9%88%D9%84-%D8%B9%D9%84%D9%88-%D8%A7%D9%84%D9%84%D9%87-%D8%AA%D8%B9%D8%A7%D9%84%D9%89
 
 ---
 
@@ -567,7 +567,7 @@ Abu Hanifa (d. 150AH) is reported to have said:
 
 - **Attributed to**: Imam Abu Hanifa
 - **Book**: al-Fiqh al-Absat
-- **Source**: https://www.salafipublications.com/sps/sp.cfm?subsecID=aqd05&articleID=AQD050004
+- **Source**: https://spubs.com/sps/sp.cfm?articleID=AQD050004&articlePages=7&subsecID=AQD05
 
 #### Al-Dhahabi — On Abu Hanifa's Statement:
 
@@ -575,7 +575,7 @@ Abu Hanifa (d. 150AH) is reported to have said:
 
 - **Scholar**: Al-Dhahabi (citing Abu Hanifa)
 - **Book**: Al-'Uluw
-- **Source**: https://www.salafipublications.com/sps/sp.cfm?subsecID=aqd05&articleID=AQD050004
+- **Source**: https://spubs.com/sps/sp.cfm?articleID=AQD050004&articlePages=7&subsecID=AQD05
 
 #### The Salafi Explanation of Abu Hanifa's Statement:
 
@@ -598,7 +598,7 @@ The key distinction:
 
 > "This explanation and its like establish that **Abu Haneefah and his early companions and the verifiers of the later scholars are with the (rest of the) Salaf in believing that Allaah is above His creation and that he is above the heavens.**"
 
-- **Source**: https://salafipublications.com/sps/sp.cfm?subsecID=MNJ06&articleID=MNJ060003
+- **Source**: https://spubs.com/sps/sp.cfm?subsecID=MNJ06&articleID=MNJ060003&articlePages=4
 
 ---
 
@@ -664,11 +664,11 @@ As Ibn Baz (may Allah have mercy on him) stated bluntly:
 
 ### Scholar Quotes Used (with URLs):
 
-1. **Ibn Taymiyyah** — *al-'Aqidah al-Wasitiyyah* — https://spubs.com/sps/sp.cfm?articleID=AQD040003
+1. **Ibn Taymiyyah** — *al-'Aqidah al-Wasitiyyah* — https://spubs.com/sps/sp.cfm?articleID=AQD040003&articlePages=3&subsecID=AQD04
 2. **Ibn Taymiyyah** — *Majmu' al-Fatawa* 5/521 — https://kutub.io/en/book/7289/2381
 3. **Ibn Taymiyyah** — *Majmu' al-Fatawa* 5/262 — http://www.aqidah.com/creed/articles/hyqru-ibn-taymiyyah-on-the-one-who-believes-in--al-jihah-direction-for-allaah.cfm
 4. **Ibn Taymiyyah** — *Majmu' al-Fatawa* 5/264-265 — https://athari-archive.com/2025/12/10/ahmad-najjar-ibn-taymiyyah-on-time-zamaan-makaan-place/
-5. **Ibn Taymiyyah** — *Dar' Ta'arud al-'Aql wa al-Naql* 1/253 — https://www.thenoblequran.com/sps/sp.cfm?articleID=MSC060002
+5. **Ibn Taymiyyah** — *Dar' Ta'arud al-'Aql wa al-Naql* 1/253 — https://www.thenoblequran.com/sps/sp.cfm?articleID=MSC060002&articlePages=2&subsecID=MSC06
 6. **Ibn Taymiyyah** — *Bayan Talbis al-Jahmiyyah* — https://athari-archive.com/2026/01/26/what-is-imtihan-and-is-it-permissible-to-do-imtihan/
 7. **Ibn Taymiyyah** — *Sharh al-Aqidah al-Isfahaniyyah* 372-373 — https://athari-archive.com/2026/01/26/what-is-imtihan-and-is-it-permissible-to-do-imtihan/
 8. **Ibn Taymiyyah** — *Dar' Ta'arudh al-Naql wa-l-Aql* — https://www.islamweb.net/en/printfatwa.php?id=275167
@@ -679,14 +679,14 @@ As Ibn Baz (may Allah have mercy on him) stated bluntly:
 13. **Ibn al-Qayyim** — *al-Nuniyyah* p. 68 — https://shamela.ws/book/11375/74
 14. **Ibn Kathir** — *Tafsir* on 7:54 — https://www.alim.org/quran/tafsir/ibn-kathir/surah/7/54/
 15. **Ibn Kathir** — *Tafsir* on 13:2 — https://www.alim.org/quran/tafsir/ibn-kathir/surah/13/2/
-16. **Al-Dhahabi** — *al-'Uluww* pp. 286-287 — http://www.spubs.com/sps/sp.cfm?articleID=AQD050003
+16. **Al-Dhahabi** — *al-'Uluww* pp. 286-287 — http://www.spubs.com/sps/sp.cfm?articleID=AQD050003&articlePages=1&subsecID=AQD05
 17. **Al-Dhahabi** — *al-Siyar* 12/494 — https://www.abovethethrone.com/arsh/articles/jjlrw-al-dhahabi-in-al-siyar-the-statement-of-al-muzanee.cfm
 18. **Al-Dhahabi** — *Mukhtasar al-'Uluww* p. 146 — http://www.asharis.com/creed/articles/tkapw-imaam-adh-dhahabi-on-the-jahmites-and-the-later-mutazilite-and-asharite-theologi.cfm
-19. **Al-Dhahabi** (citing Abu Hanifa) — *al-'Uluw* — https://www.salafipublications.com/sps/sp.cfm?subsecID=aqd05&articleID=AQD050004
-20. **Ibn Baz** — Fatwa on denying istiwaa' — https://binbaz.org.sa/fatwas/14402/
-21. **Ibn Baz** — *Bayan Madhhab Ahl al-Sunnah fi al-Istiwa'* — https://binbaz.org.sa/articles/43/
-22. **Ibn Baz** — Letter on Allah's aboveness — https://binbaz.org.sa/fatwas/42/
-23. **Ibn Baz** — On Allah above the Throne — https://binbaz.org.sa/fatwas/2909/
+19. **Al-Dhahabi** (citing Abu Hanifa) — *al-'Uluw* — https://spubs.com/sps/sp.cfm?articleID=AQD050004&articlePages=7&subsecID=AQD05
+20. **Ibn Baz** — Fatwa on denying istiwaa' — https://binbaz.org.sa/fatwas/14402/%D8%AD%D9%83%D9%85-%D9%85%D9%86-%D9%8A%D9%86%D9%83%D8%B1-%D8%A7%D8%B3%D8%AA%D9%88%D8%A7%D8%A1-%D8%A7%D9%84%D9%84%D9%87-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B9%D8%B1%D8%B4
+21. **Ibn Baz** — *Bayan Madhhab Ahl al-Sunnah fi al-Istiwa'* — https://binbaz.org.sa/articles/43/%D8%A8%D9%8A%D8%A7%D9%86-%D9%85%D8%B0%D9%87%D8%A8-%D8%A7%D9%87%D9%84-%D8%A7%D9%84%D8%B3%D9%86%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%88%D8%A7%D8%A1
+22. **Ibn Baz** — Letter on Allah's aboveness — https://binbaz.org.sa/fatwas/42/%D8%A7%D8%AC%D8%A7%D8%A8%D8%A9-%D8%B9%D9%86-%D8%B3%D9%88%D8%A7%D9%84-%D8%AD%D9%88%D9%84-%D8%B9%D9%84%D9%88-%D8%A7%D9%84%D9%84%D9%87-%D8%AA%D8%B9%D8%A7%D9%84%D9%89
+23. **Ibn Baz** — On Allah above the Throne — https://binbaz.org.sa/fatwas/2909/%D8%A8%D9%8A%D8%A7%D9%86-%D8%B9%D9%84%D9%88-%D8%A7%D9%84%D9%84%D9%87-%D8%AC%D9%84-%D9%88%D8%B9%D9%84%D8%A7
 24. **Al-Albani** — On Allah's ascendancy — https://thealbaani.site/2011/09/20/a-discussion-of-the-ascendancy-of-allaah-the-most-high-and-a-critique-of-the-belief-that-he-is-present-in-all-things-1/
 25. **Al-Albani** — On istiwaa = ista'laa — http://www.albaanee.com/wp-content/uploads/2019/12/Refutation-of-those-who-accuse-Ahlus-Sunnah-of-confining-Allaah-to-a-place.pdf
 26. **Al-Albani** — On *Mukhtasar al-'Uluww* — https://thealbaani.site/wp-content/uploads/2011/09/ascendancy.pdf
@@ -699,17 +699,17 @@ As Ibn Baz (may Allah have mercy on him) stated bluntly:
 33. **Ibn 'Uthaymeen** — *Fath Rabb al-Bariyyah* — https://alathar.net/home/esound/index.php?coid=127411&op=codevi
 34. **Al-Fawzan** — On Allah's no need of the Throne — https://abdurrahman.org/2017/05/11/allaah-has-no-need-of-the-arsh-throne-and-whatever-is-beneath-it/
 35. **As-Sa'di** — *Al-Qawl al-Sadid* (commentary on Kitab al-Tawhid) — https://darpdfs.org/storage/2023/12/Exp.-of-Kitab-al-Tawhid-Sh.-Abd-al-Rahman-al-Sadi-compressed.pdf
-36. **Imam Malik** — Famous statement on istiwaa' — quoted by Ibn Baz (binbaz.org.sa/articles/43/) and al-Dhahabi (spubs.com)
-37. **Ibn 'Abd al-Barr** — *At-Tamheed* — https://salafipublications.com/sps//sp.cfm?subsecID=AQD05&articleID=AQD050002
-38. **Al-Lalika'i** — *Sharh Usul I'tiqad Ahl al-Sunnah* — https://spubs.com/sps/sp.cfm?articleID=AQD050005
+36. **Imam Malik** — Famous statement on istiwaa' — quoted by Ibn Baz (https://binbaz.org.sa/articles/43/%D8%A8%D9%8A%D8%A7%D9%86-%D9%85%D8%B0%D9%87%D8%A8-%D8%A7%D9%87%D9%84-%D8%A7%D9%84%D8%B3%D9%86%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%88%D8%A7%D8%A1) and al-Dhahabi (spubs.com)
+37. **Ibn 'Abd al-Barr** — *At-Tamheed* — https://spubs.com/sps/sp.cfm?articleID=AQD050002&articlePages=1&subsecID=AQD05
+38. **Al-Lalika'i** — *Sharh Usul I'tiqad Ahl al-Sunnah* — https://spubs.com/sps/sp.cfm?articleID=AQD050005&articlePages=1&subsecID=AQD05
 39. **Imam al-Bukhari** — *Khalq Af'al al-Ibad* — https://www.troid.org/allahs-rising-over-his-throne/
 40. **Imam al-Awza'i** — In *Ijtima' al-Juyush* p. 43
 41. **Abu Nu'aym al-Asbahani** — *Mahajjat al-Wathiqin* — https://thewayofsalafiyyah.com/2015/12/02/the-true-creed-of-salaf-regarding-allahs-istiwa-elevation-above-his-creation-part-1/
 42. **Ibn Khuzaymah** — Cited by IslamWeb — https://www.islamweb.net/en/fatwa/6707/allaah-is-above-his-throne
 43. **Ibn al-A'rabi** — Refutation of istawla — https://thewayofsalafiyyah.com/2015/12/02/the-true-creed-of-salaf-regarding-allahs-istiwa-elevation-above-his-creation-part-1/
-44. **Abu Hanifa** — *al-Fiqh al-Absat* (cited by al-Dhahabi) — https://www.salafipublications.com/sps/sp.cfm?subsecID=aqd05&articleID=AQD050004
+44. **Abu Hanifa** — *al-Fiqh al-Absat* (cited by al-Dhahabi) — https://spubs.com/sps/sp.cfm?articleID=AQD050004&articlePages=7&subsecID=AQD05
 45. **TROID.org** — General principles on vague terms — https://www.troid.org/general-principles-regarding-the-names-and-attributes-of-allah/
-46. **Salafipublications.com** — On Abu Hanifa's creed — https://salafipublications.com/sps/sp.cfm?subsecID=MNJ06&articleID=MNJ060003
+46. **Salafipublications.com** — On Abu Hanifa's creed — https://spubs.com/sps/sp.cfm?subsecID=MNJ06&articleID=MNJ060003&articlePages=4
 
 ### Hadith References:
 

@@ -219,14 +219,14 @@ Islamweb states: "Whoever gives it up and neglects it or does not pray because o
 
 Translation: "Repentance wipes out what came before it, and he does not have to make up what he missed; rather he must repent to Allah, be sincere in that, by regretting what has passed of his deeds, resolving not to return to it, then doing many good deeds..."
 
-- **Source URL:** https://binbaz.org.sa/fatwas/13597
+- **Source URL:** https://binbaz.org.sa/fatwas/13597/%D9%83%D9%8A%D9%81-%D9%8A%D8%B9%D9%88%D8%B6-%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%83-%D9%84%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D9%85%D8%A7-%D8%AA%D8%B1%D9%83%D9%87
 
 **Another fatwa from Ibn Baz:**
 "أما إن ترك الصلاة عمدًا بلا شبهة فإنه لا يقضي؛ لأن تركها عمدًا كفر أكبر، وإن لم يجحد وجوبها في أصح قولي العلماء... وعليه التوبة مما سلف، والاستقامة على فعلها مستقبلاً."
 
 Translation: "As for if he leaves the prayer deliberately without any excuse, then he does not make it up; because leaving it deliberately is major kufr, according to the more correct of the two scholarly opinions... He must repent from what has passed, and remain steadfast in performing it in the future."
 
-- **Source URL:** https://binbaz.org.sa/fatwas/3906
+- **Source URL:** https://binbaz.org.sa/fatwas/3906/%D9%87%D9%84-%D9%8A%D8%AC%D8%A8-%D9%82%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D8%B5%D9%84%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%81%D8%A7%D8%A6%D8%AA%D8%A9
 
 ### View of al-Uthaymin:
 

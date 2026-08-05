@@ -93,7 +93,7 @@ Translation: "It is not permissible to take it, because the masjid's Mushafs sho
 
 Translation: "The closest view is that it is not permissible, because the waqf founder intended for them to remain in the masjid so that the worshippers and reciters who come to the masjid for that purpose may benefit from them."
 
-Source: https://binbaz.org.sa/categories/fiqhi/148?page=4
+Source: https://binbaz.org.sa/fatwas/20871/%D8%AD%D9%83%D9%85-%D8%A7%D8%AE%D8%B0-%D8%A7%D9%84%D9%85%D8%B5%D8%AD%D9%81-%D8%A7%D9%84%D9%85%D9%88%D9%82%D9%88%D9%81-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%A7%D9%84%D9%85%D8%B3%D8%AC%D8%AF
 
 ---
 
@@ -236,7 +236,7 @@ If the masjid administration or waqf supervisors explicitly permit the use of th
 5. https://www.islamweb.net/en/fatwa/92504 - Using money collected as funds for a mosque
 
 ### BinBaz.org.sa
-1. https://binbaz.org.sa/categories/fiqhi/148?page=4 - الوقف - حكم أخذ المصحف من المسجد
+1. https://binbaz.org.sa/fatwas/20871/%D8%AD%D9%83%D9%85-%D8%A7%D8%AE%D8%B0-%D8%A7%D9%84%D9%85%D8%B5%D8%AD%D9%81-%D8%A7%D9%84%D9%85%D9%88%D9%82%D9%88%D9%81-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%A7%D9%84%D9%85%D8%B3%D8%AC%D8%AF - الوقف - حكم أخذ المصحف الموقوف خارج المسجد
 
 ### FatwaIslam.com
 1. https://www.fatwaislam.com/fis/index.cfm?ID=924&scn=fd - The ruling on taking away some part of the Masjid

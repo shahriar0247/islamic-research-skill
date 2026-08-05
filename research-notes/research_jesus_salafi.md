@@ -81,7 +81,7 @@ From the abridged version (https://d1.islamhouse.com/data/en/ih_books/single/en-
 > "Allah states that the Christians such sects as Monarchite, Jacobite and Nestorite are disbelievers, those among them who say that `Isa is Allah."
 
 ### IslamQA on Trinity
-**Source:** https://islamqa.info/amp/en/answers/243142
+**Source:** https://islamqa.info/en/answers/243142
 
 > "The concept of Trinity in which the Christians believe, regardless of their various interpretations thereof, in reality boils down to exaggeration about 'Eesa (peace be upon him) and his mother. Therefore the Quran dealt with and refuted this basic concept, and struck at the roots of the idea of Trinity, refuting the blasphemous idea that is common to all of their groups."
 
@@ -279,13 +279,13 @@ While some modern Muslim websites make this argument (e.g., https://islamlight.o
 ## 13. Christmas and Christian Holidays
 
 ### Shaykh Abd al-Aziz ibn Baz
-**Source:** https://binbaz.org.sa/fatwas/16978
+**Source:** https://binbaz.org.sa/fatwas/16978/%D9%85%D8%A7-%D8%AD%D9%83%D9%85-%D8%A7%D8%B9%D9%8A%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D9%8A%D9%84%D8%A7%D8%AF
 
 > "Birthday celebrations are among the innovations that the scholars have clarified, and they fall under the saying of the Prophet ﷺ: 'Whoever introduces into this affair of ours that which is not of it, it will be rejected'"
 
 > "Celebrations of the birth of the Prophet ﷺ, or the birth of Abu Bakr, Umar, Uthman, Ali, Hasan, Husayn, Fatimah, Al-Badawi, Shaykh Abdul Qadir al-Jilani, or so-and-so or so-and-so - all of this has no basis, all of it is reprehensible, all of it is forbidden."
 
-**Source:** https://binbaz.org.sa/fatwas/6539 and https://en.mugtama.com/articles/fatwa_on_celebrating_christmas_and_other_non_muslim_holidays
+**Source:** https://binbaz.org.sa/fatwas/6539/%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D9%81%D9%8A-%D8%A7%D8%B9%D9%8A%D8%A7%D8%AF-%D8%A7%D9%84%D9%86%D8%B5%D8%A7%D8%B1%D9%89-%D9%88%D8%BA%D9%8A%D8%B1%D9%87%D9%85-%D9%85%D9%86-%D8%A7%D9%84%D9%83%D9%81%D8%B1%D8%A9 and https://en.mugtama.com/articles/fatwa_on_celebrating_christmas_and_other_non_muslim_holidays
 
 > "It is not permissible for the Muslim male or female to participate with the Christians, the Jews, or other disbelievers in their holidays; rather, it is obligatory to abandon that; because 'whoever imitates a people is from them'"
 

@@ -329,17 +329,17 @@ If Windows is necessary for specific reasons:
 23. https://www.islamweb.net/en/fatwa/131717 - His Director asked him to install a spyware programme
 
 ### Bin Baz (binbaz.org.sa)
-1. https://binbaz.org.sa/fatwas/17835 - حكم بيع وشراء السلع المسروقة
-2. https://binbaz.org.sa/fatwas/18996 - حكم تهريب الكتب والأشرطة
-3. https://binbaz.org.sa/fatwas/8013 - حكم استعمال الهدية إذا ثبت أنها مسروقة
-4. https://binbaz.org.sa/fatwas/1260 - حكم أخذ الكتب من المكتبات المدرسية
+1. https://binbaz.org.sa/fatwas/17835/%D8%AD%D9%83%D9%85-%D8%A8%D9%8A%D8%B9-%D9%88%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%B3%D9%84%D8%B9-%D8%A7%D9%84%D9%85%D8%B3%D8%B1%D9%88%D9%82%D8%A9 - حكم بيع وشراء السلع المسروقة
+2. https://binbaz.org.sa/fatwas/18996/%D8%AD%D9%83%D9%85-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D8%A7%D9%84%D9%83%D8%AA%D8%A8-%D9%88%D8%A7%D9%84%D8%A7%D8%B4%D8%B1%D8%B7%D8%A9 - حكم تهريب الكتب والأشرطة
+3. https://binbaz.org.sa/fatwas/8013/%D8%AD%D9%83%D9%85-%D8%A7%D8%B3%D8%AA%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D9%87%D8%AF%D9%8A%D8%A9-%D8%A7%D8%B0%D8%A7-%D8%AB%D8%A8%D8%AA-%D8%A7%D9%86%D9%87%D8%A7-%D9%85%D8%B3%D8%B1%D9%88%D9%82%D8%A9 - حكم استعمال الهدية إذا ثبت أنها مسروقة
+4. https://binbaz.org.sa/fatwas/1260/%D8%AD%D9%83%D9%85-%D8%A7%D8%AE%D8%B0-%D8%A7%D9%84%D9%83%D8%AA%D8%A8-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D9%83%D8%AA%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9 - حكم أخذ الكتب من المكتبات المدرسية
 
 ### AbdurRahman.org
 1. https://abdurrahman.org/2013/03/28/all-rights-reserved-by-shaykh-al-albani-and-shaykh-al-fawzaan-videoar-en-subtitles
 
 ### Other Sources
-1. https://www.fatwaislam.com/fis/index.cfm?ID=541 - The ruling on selling a stolen Item and buying it
-2. https://www.troid.org/the-principle-of-permissibility - The Principle of Permissibility
+1. https://www.fatwaislam.com/fis/index.cfm?ID=541&scn=fd - The ruling on selling a stolen Item and buying it
+2. https://www.troid.org/the-principle-of-permissibility/ - The Principle of Permissibility
 3. https://learnaboutislam.co.uk/2019/03/sharing-everything-you-receive-on-social-media-shaykh-saaleh-al-fawzaan - Sharing Everything You Receive on Social Media
 
 ---
