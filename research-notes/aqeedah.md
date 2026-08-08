@@ -1,210 +1,174 @@
-# What is Aqeedah?
+# What is Aqeedah? — The Islamic Creed Explained
 
 ## Summary
 
-Aqeedah (Arabic: عقيدة, ʿaqīdah) is the Islamic creed or theology that forms the foundational belief system of Islam. It encompasses the fundamental doctrines that every Muslim must believe with absolute certainty and conviction, without any doubt or uncertainty. Aqeedah derives from the Arabic root "ʿ-q-d" (عقـد), meaning to tie, knot, or bind firmly, signifying beliefs that are firmly anchored in the heart. The core of aqeedah consists of the six articles of faith (arkān al-īmān): belief in Allah, His angels, His divine books, His messengers, the Last Day, and divine decree (qadar). These beliefs are based on definitive texts from the Quran and authentic prophetic traditions (hadith), and they represent the unchanging theological foundation upon which Islamic practice (fiqh) is built.
+Aqeedah (Arabic: عقيدة) is the firm Islamic creed that every Muslim must hold with absolute certainty. It is the foundation of the religion: if a person’s aqeedah is correct, his or her words and deeds may be accepted by Allah; if it is corrupt, no deed is built upon a sound foundation. This article explains the linguistic and technical meaning of aqeedah, the three categories of tawheed, the six articles of faith, the difference between aqeedah and fiqh, the major classical texts on creed, and the Salafi methodology regarding Allah’s names and attributes — all from approved Salafi sources.
 
-## Literal and Technical Meaning of the Word
+## 1. The Meaning of Aqeedah
 
-### Literal Meaning (Linguistic)
+### Linguistic Meaning
 
-The word "aqeedah" is derived from the Arabic root "ʿaqada" (عقـد), which conveys meanings of tying, binding, knotting, and making firm. According to Arabic dictionaries:
+The word **aqeedah** is derived from the Arabic root **'aqada** (عقد), which means to tie, bind, or fasten firmly. Salafi Publications explains:
 
-- **Al-Ma'ani Dictionary**: "العَقِيدَةُ: الحُكْمُ الذي لا يُقْبَلُ الشكُّ فيه لدى معتقِدِه" (Aqeedah is the judgment that accepts no doubt for the one who believes in it) [Source: https://www.almaany.com/ar/dict/ar-ar/%D8%A7%D9%84%D8%B9%D9%82%D9%8A%D8%AF%D8%A9/]
+> "The Messenger informed Mu'adh bin Jabal, when he was going to the land of Yemen, 'You are going to a people from the People of the Book. Let the first thing that you call them to be the worship of Allah. If they acknowledge Allah, then inform them that Allah has obligated upon them five prayers during their days and nights.' [Al-Bukhari, Muslim]" [1]
+>
+> "Al-Aqidah linguistically is derived from the term aqada. In Arabic, one states, 'Aqada the rope' when the rope is tied firmly... If one says, 'Aqadtu such and such,' it means his heart is firm upon such and such. Therefore, al-aqidah or al-itiqad according to the scholars of Islam is: **The firm creed that one's heart is fixed upon without any wavering or doubt.** It excludes any supposition, doubt or suspicion." [1]
 
-- **Azhar University**: "العقيدة بمعناها اللغوى هى:- ما عقد عليه القلب, وجمعها: عقائد" (Linguistically, aqeedah is what the heart has tied itself to; plural: aqa'id) [Source: https://azharegypt.org/lcms/cntstd.php?cnt=74&lid=646&page=p03]
+Imam Abu Hanifa called this subject **al-Fiqh al-Akbar** (the greater understanding), and many scholars call it **tawheed**, because the most important matter it contains is the oneness of Allah in worship.
 
-The root meanings include: binding, tying firmly, strengthening, affirmation, confirmation, and certainty. The phrase "aqada al-habl" means "the rope was tied" (pulled tight together). The word "i'tiqad" (belief) is derived from this same root, meaning "tying up and making strong" [Source: https://ashabulhadeeth.com/2010/12/19/what-is-aqeedah/]
+### Technical Meaning
 
-### Technical Meaning (Islamic Terminology)
+Shaykh Saalih al-Fawzaan said:
 
-In Islamic terminology, aqeedah has specific definitions:
+> "Aqeedah (creed and belief) is the foundation of the religion and it ('aqeedah) is what is contained in the testification (shahaadah) that none has the right to be worshipped except Allaah and that Muhammad is the Messenger of Allaah. And it is the first pillar from the pillars of Islaam... Since if the person's religion is established upon a sound, correct foundation then it will be a straight and true religion... and if his religion is based upon a corrupt 'aqeedah then his religion will not be correct and it will be without a foundation." [2]
 
-- **IslamWeb**: "Linguistically, the word 'Aqeedah, is derived from 'Aqd which means holding fast to something and being absolutely certain about it. In Islamic terminology, it is to believe in something with certainty." [Source: https://www.islamweb.net/en/fatwa/92221/the-meaning-of-aqeedah]
+The Permanent Committee of Saudi Arabia stated:
 
-- **IslamWeb (expanded)**: "'Aqeedah means a number of things that people believe in and that the hearts feel at ease with. These matters are considered certain for those who believe in them without the least doubt or suspicion." [Source: https://www.islamweb.net/en/fatwa/2246/the-meaning-of-%E2%80%98aqeedah-creed]
+> "The correctness of aqeedah is the (most) fundamental principle. This is because bearing witness that Laa Ilaaha Illa Allaah Wa Anna Muhammaddan Rasool Allaah is the first pillar of Islaam. And the Messengers called firstly to the correction of the aqeedah because all acts of worship and behavior depend on it, and without the correct aqeedah there is no benefit from (these) deeds." [3]
 
-- **SeekersGuidance (Shaykh Hassan al Hindi)**: "The term ʿaqida has two meanings. The first refers to aspects of belief that are obligatory upon a person to establish in his heart and have faith in. These are the concepts and ideas that a person adopts regarding the Creator, this universe, the purpose of creation, this world, the next world, and so forth. This is the ʿaqida that is obligatory upon all Muslims to know. The second meaning refers to the subject matter that is taught in seminaries, namely the actual science of ʿaqida, which incorporates the first definition mentioned above but extends beyond it. In this context, the term ʿaqida is defined as the knowledge through which religious beliefs are established by means of evidence that is decisive and certain." [Source: https://seekersguidance.org/articles/knowledge/what-is-aqida-why-study-it/]
+## 2. The Place of Aqeedah in Islam: Belief Before Action
 
-- **Salafi Knowledge (citing Shaykh al-'Uthaymin)**: "Al-ʿAqīdah is to possess firm belief of the level of absolute certainty tied tightly to the heart, in which one expresses no doubt whatsoever... In the technical sense, according to the linguists, it is حُكْمُ الذِّهْنِ الْجَازِم (the firm judgement of the mind)." [Source: https://salafiknowledge.com/definition-of-aqidah/]
+Aqeedah is not one subject among many; it is the foundation upon which all worship, law, and daily conduct rest.
 
-## Core Contents of Aqeedah (The Six Articles of Faith)
+Shaykh al-Fawzaan said:
 
-The foundational content of aqeedah is the six articles of faith (arkān al-īmān), as established in the famous Hadith of Jibreel (Gabriel) narrated in Sahih Muslim and Sahih al-Bukhari:
+> "The Sharee'ah comprises of two affairs: (1) Affairs regarding belief... (2) Affairs regarding action. It is also known as the branches (far'iyyah) because it is built upon the foundation. If the foundation is correct then the branches will be correct, and if the foundation is corrupt the branches will be corrupt." [4]
 
-### The Hadith of Jibreel
+He also emphasized that the first thing a person must learn is not the details of worship but the foundations of tawheed and shirk:
 
-When the angel Jibreel asked the Prophet Muhammad ﷺ about faith (iman), he responded:
-> "Iman is to believe in Allah, His angels, His books, His messengers, the Last Day, and to believe in divine decree, both its good and its bad." [Sahih Muslim, Sahih al-Bukhari] [Source: https://dar-alifta.org/en/article/details/64/the-six-articles-of-faith]
+> "This is a very important matter! Knowledge of (Tawheed and Shirk) is more incumbent upon you than the rulings of: siyaam (fasting), salaah (prayer), zakah, etc. It is the foremost matter and foundation because salaah, zakah, hajj, and other acts of ibaadaat are not correct if it is not built upon the foundation of correct aqeedah." [5]
 
-### The Six Articles in Detail
+This is why the Prophet (ﷺ), when sending Mu'adh to Yemen, said to him:
 
-1. **Belief in Allah (Tawhid)**: Belief in the existence and oneness of God, who is the Creator, Sustainer, and Lord of all existence. He has no partners, children, or equals. [Source: https://dar-alifta.org/en/article/details/64/the-six-articles-of-faith]
+> "First, call them to testify that there is no God but Allah, and Muhammad is His Messenger. If they respond, ask them to perform five daily prayers. If they respond, tell them that Allah has imposed Zakat (Alms taxes) which is to be taken from the rich and distributed among the poor." [6]
 
-2. **Belief in the Angels (Mala'ikah)**: Belief in angels as pure, spiritually obedient creatures created by Allah to fulfill His commands and worship Him tirelessly. [Source: https://dar-alifta.org/en/article/details/64/the-six-articles-of-faith]
+Imam 'Abd al-'Aziz ibn Baaz summarized this priority:
 
-3. **Belief in the Divine Books (Kutub)**: Belief in the revelations sent by Allah to His prophets and messengers, including the Quran, Torah, Gospel, Psalms of David, and Scrolls of Abraham. [Source: https://dar-alifta.org/en/article/details/64/the-six-articles-of-faith]
+> "Since having the correct belief is the foundation and basis of the Religion of Islaam, a person's statements and actions are only considered valid and acceptable (by Allaah) if they are produced as a result of having the correct belief." [7]
 
-4. **Belief in the Prophets and Messengers (Anbiya' wa Rusul)**: Belief in all of Allah's messengers and prophets, including Noah, Moses, Jesus, Muhammad (the final prophet), and others, who were mortal human beings endowed with divine revelation. [Source: https://dar-alifta.org/en/article/details/64/the-six-articles-of-faith]
+The Prophet (ﷺ) spent **thirteen years in Makkah** calling people to tawheed and the correction of belief before the laws of prayer, zakat, fasting, and Hajj were revealed in Medina. [1] [3]
 
-5. **Belief in the Last Day (Yawm al-Din)**: Belief in resurrection after death, the Day of Judgment, heaven (paradise), and hell. All people will be brought back to life to face Allah's judgment. [Source: https://dar-alifta.org/en/article/details/64/the-six-articles-of-faith]
+## 3. The Three Types of Tawheed
 
-6. **Belief in Divine Decree (Qadar)**: Belief in Allah's eternal knowledge and that nothing in existence lies outside His control and predestination, whether good or bad. [Source: https://dar-alifta.org/en/article/details/64/the-six-articles-of-faith]
+Aqeedah revolves around **tawheed**: singling Allah out with all that He deserves. The Permanent Committee divided it into three categories:
 
-These six articles are explicitly mentioned in Quran 2:285 and comprehensively detailed in the Hadith of Jibreel. [Source: https://en.wikipedia.org/wiki/The_six_articles_of_Islamic_faith]
+> "The types of Tawheed are three: **Tawheed ar-Ruboobiyyah**, **Tawheed al-Ilaahiyyah** and **Tawheed al-Asmaa was-Sifaat**.
+>
+> **Tawheed ar-Ruboobiyyah** is singling out Allaah the Exalted with (the actions of) creation, providing sustenance, giving life, causing death, and all of the types of regulation and administration of the dominion of the heavens and earth, and (also) singling Him out, the Exalted, with (the right to) judgement and legislation and sending of the Messengers and revealing of Books.
+>
+> **Tawheed al-Uloohiyyah** is singling out Allaah with worship so that none besides Him is worshipped, so that none besides Him is called upon, so that no one is sought for rescue or aid except Him, and so that no one is sacrificed to or slaughtered for, or made an oath for, except Him.
+>
+> **Tawheed al-Asmaa was-Sifaat** is describing Allaah the Most High and naming Him with whatever He described and named Himself with, and with whatever His Messenger (sallAllaahu 'alayhi wa sallam) described and named Him with in the authentic narrations — and to affirm that for Allaah without resemblance (to the creation) or likening (to the creation), and without (false) interpretation (of any of that) or negation (of any of that). There is nothing like Him and He is the All-Hearer, the All-Seer." [8]
 
-## Major Classical Texts on Aqeedah
+Shaykh Muhammad ibn 'Abd al-Wahhab's *Kitab at-Tawhid* is devoted to explaining this second type — Tawheed al-Uloohiyyah — because it is the right of Allah over every human, and it is the foundation of Islam and every revealed religion. [9]
 
-### 1. Al-'Aqidah al-Tahawiyyah (The Creed of Imam al-Tahawi)
+## 4. The Six Articles of Faith
 
-- **Author**: Imam Abu Ja'far Ahmad ibn Muhammad al-Tahawi (239-321 AH / 853-933 CE)
-- **Description**: A concise yet comprehensive exposition of the beliefs of Ahl al-Sunnah wa al-Jama'ah, according to the Hanafi school (Imam Abu Hanifah, Abu Yusuf, and Muhammad ibn al-Hasan al-Shaybani). It is "the most widely acclaimed, and indeed indispensable, reference work on Muslim beliefs" and "representative of the viewpoint of ahl-al-Sunnah wa-al-Jama'a." [Source: https://spubs.com/sps/sp.cfm?articleID=AQD040002&articlePages=1&subsecID=AQD04]
-- **Significance**: The text lists what a Muslim must know and believe, with consensus among the Companions, Successors, and leading Islamic authorities on its doctrines. [Source: https://www.aseelfoundation.com/wp-content/uploads/2016/12/Aqeedah-Tahawiyyah-Arabic.English.pdf]
+The most complete summary of the contents of iman (faith) is the famous **Hadith of Jibril**. The angel Jibril came to the Prophet (ﷺ) in the form of a man and asked him about Islam, iman, ihsan, and the Hour. Regarding iman, the Prophet (ﷺ) said:
 
-### 2. Al-'Aqidah al-Wasitiyyah (العقيدة الواسطية)
+> "Iman (faith) is to believe in Allah, His angels, His books, His messengers, the Last Day, and to believe in divine pre-Decree, the good of it and the bad of it." [10]
 
-- **Author**: Shaykh al-Islam Taqi al-Din Ibn Taymiyyah (661-728 AH / 1263-1328 CE)
-- **Description**: Written in 1297 CE at the request of Shafi'i scholar Radhi al-Din al-Wasiti to counter the influence of the Yassa creed among neo-Muslim Tatars. It is considered "relatively easy to understand compared to Ibn Taymiyyah's other works on creed." [Source: https://en.wikipedia.org/wiki/Al-Aqidah_Al-Waasitiyyah]
-- **Purpose**: Ibn Taymiyyah explained: "He asked me to write a creed for him that he and his household could rely upon... So I wrote this creed for him while I was sitting after midday, and many copies of it have been distributed in Egypt, Iraq, and elsewhere." [Source: https://worlddawah.com/aqeedah-al-wasitiyyah/]
-- **Content**: Covers Allah's Names and Attributes, the Quran as Allah's uncreated speech, belief in the Hereafter, the trial of the grave, intercession, divine decree (qadar), and the status of the Companions. [Source: http://www.islamicweb.com/beliefs/creed/wasiti/taimiyah_1.htm]
+Imam Ibn Baaz explained:
 
-### Other Notable Texts
+> "These six things form the foundations of the Correct Belief, with which Allaah sent down His mighty Book, and with which Allaah sent His messenger, Muhammad. These are the six foundations from which everything a Muslim is obligated to believe originates, whether it be with respect to Allaah, the Day of Judgement, and anything else from the Unseen." [7]
 
-- **Al-Ibanah 'an Usul al-Diyanah** by Abu al-Hasan al-Ash'ari (mentioned by IslamWeb as an important text for Salaf methodology) [Source: https://www.islamweb.net/en/fatwa/94139/recommended-books-for-learning-the-basics-of-aqeedah]
-- **Al-I'tiqad wa al-Hidayah ila Sabil al-Rashad** by al-Bayhaqi (also recommended by IslamWeb) [Source: https://www.islamweb.net/en/fatwa/94139/recommended-books-for-learning-the-basics-of-aqeedah]
+The six articles are:
 
-## Difference Between Aqeedah and Fiqh
+1. **Belief in Allah** — His existence, oneness, lordship, and right to worship.
+2. **Belief in His angels** — created beings of light who obey Allah without question.
+3. **Belief in His revealed books** — including the Qur'an, the Torah, the Gospel, the Psalms, and the Scrolls of Abraham.
+4. **Belief in His messengers** — including Noah, Abraham, Moses, Jesus, and Muhammad (ﷺ), the final messenger.
+5. **Belief in the Last Day** — resurrection, reckoning, paradise, and hellfire.
+6. **Belief in divine decree (qadar)** — both its good and its evil, all by the will and knowledge of Allah.
 
-### Fundamental Distinction
+## 5. The Difference Between Aqeedah and Fiqh
 
-- **IslamWeb**: "In Islam the term 'Aqeedah stands in parallel with that of Sharee'ah, because Islam consists of 'Aqeedah or a creed and a Sharee'ah. The word Sharee'ah means the practical ordinances that Islam enjoins such as acts of worship and types of mutual dealings, while creed is not concerned with practice as it represents the knowledge which the Muslims should believe in since they are established by virtue of the Quran and Sunnah." [Source: https://www.islamweb.net/en/fatwa/2246/the-meaning-of-%E2%80%98aqeedah-creed]
+Aqeedah and fiqh are both from Islam, but they are not the same. Shaykh al-Fawzaan said:
 
-### Key Differences Summarized
+> "Differing is not permissible in the matters of 'aqeedah (creed and belief) and in the fundamentals of the religion. Rather, it is obligatory to agree and to be united with regard to it. As for differing in issues of fiqh, then this occurs. However, it is obligatory to return and refer back to those sayings which the proof establishes." [11]
+>
+> "Aqeedah is tawqeefeeyah (reliant upon text). It is not a place for ijtihaad (scholarly deduction). But as for the issues of fiqh and istinbaat (deduction of rulings), then each one of the People of Knowledge who are suitable to promote ijtihaad can strive to deduce rulings and they may differ in their outlooks." [11]
+>
+> "Analogy (Qiyaas) in 'aqeedah (creed and belief) — because 'aqeedah has no analogy in it, because it is tawqeefeeyah. Action with regard to it is not upon except a proof. And no analogy is made in matters of creed and belief. Analogy can only be in fiqh." [11]
 
-| Aspect | Aqeedah (Creed) | Fiqh (Jurisprudence) |
-|--------|-----------------|---------------------|
-| **Focus** | Internal beliefs held in the heart | Practical actions and rulings |
-| **Subject Matter** | Matters of faith (iman), unseen realities | Acts of worship, transactions, daily life |
-| **Nature** | Theoretical and foundational | Practical and applied |
-| **Sources** | Quran and authentic Mutawatir Hadith | Quran, Sunnah, Ijma (consensus), Qiyas (analogy) |
-| **Flexibility** | Fixed; no room for valid disagreement on core principles | Flexible; variations exist across schools of thought |
-| **Scope** | God, angels, prophets, afterlife, divine decree | Prayer, fasting, zakat, marriage, trade, etc. |
-| **Schools** | Ash'ari, Maturidi, Athari (theological schools) | Hanafi, Maliki, Shafi'i, Hanbali (legal schools) |
+So **aqeedah** is fixed and taken directly from the Qur'an and the authentic Sunnah as understood by the Salaf, while **fiqh** is the application of these sources to practical rulings such as prayer, transactions, and family matters, where qualified scholars may differ.
 
-[Sources: https://eilaf101.com/difference-between-fiqh-and-aqeedah/, https://rahiqacademy.com/difference-between-fiqh-and-aqeedah/, https://almanaar.co.uk/blogs/news/difference-between-aqeedah-and-fiqh-in-daily-life]
+## 6. Major Classical Texts on Aqeedah
 
-### Relationship Between Aqeedah and Fiqh
+The scholars of the Salaf compiled short, authentic creedal texts so that the Muslim could know what to believe. Imam Ibn Baaz was asked which books are best on aqeedah and he replied:
 
-- **Eilaf101**: "Fiqh guides daily actions, while aqeedah defines core beliefs... Without aqeedah, worship lacks direction. It defines the purpose behind every act of worship." [Source: https://eilaf101.com/difference-between-fiqh-and-aqeedah/]
-- **Almanaar Islamic Store**: "Aqeedah gives purpose... Your belief in Allah, the afterlife, and divine wisdom shapes your intention behind every act. Aqeedah answers why we worship. Without Aqeedah, actions become empty rituals. Fiqh guides daily practice... Fiqh helps you know how to worship correctly and interact with others." [Source: https://almanaar.co.uk/blogs/news/difference-between-aqeedah-and-fiqh-in-daily-life]
+> "As for books on the topic of Aqidah, they are many. One of the best books in this regard is the *Kitab Al-Tawhid* by Ibn Khuzaymah, *Kitab Al-Sunnah* by Abdullah Ibn Ahmad Ibn Hanbal, *Minhaj Al-Sunnah* by Shaykh Al-Islam Ibn Taymiyyah... and *Al-Aqidah Al-Wasitiyyah* by Shaykh-ul-Islam Ibn Taymiyyah... There is also a book entitled *Al-Aqidah Al-Tahawiyyah* by Imam Al-Izz. It is wonderfully written. There is also another book called *Kitab Al-Tawhid* written by Shaykh-ul-Islam Muhammad Ibn Abdul-Wahhab, which is a valuable book. He also wrote *At-Thatlathat Al-Usul*." [12]
 
-### Quranic Basis for the Distinction
+The most famous and widely studied of these are:
 
-The Quran itself distinguishes between belief (aqeedah) and practice (shariah/fiqh), as noted in IslamWeb's explanation that Islam consists of both creed and practical ordinances. [Source: https://www.islamweb.net/en/fatwa/2246/the-meaning-of-%E2%80%98aqeedah-creed]
+- **Al-Aqidah al-Tahawiyyah** by Imam Abu Ja'far al-Tahawi (d. 321 AH). It is a concise statement of the beliefs of Ahl al-Sunnah wa al-Jama'ah according to the early Hanafi creed. [13]
+- **Al-Aqidah al-Wasitiyyah** by Shaykh al-Islam Ibn Taymiyyah (d. 728 AH). Written at the request of the people of Wasit, it explains tawheed, the names and attributes of Allah, qadar, and the position of the Companions. [14]
+- **Kitab at-Tawhid** by Shaykh Muhammad ibn 'Abd al-Wahhab (d. 1206 AH). It focuses on Tawheed al-Uloohiyyah and uses Qur'anic verses and authentic hadiths with little commentary. [9]
+- **Al-Usool al-Thalaathah**, **Al-Qawa'id al-Arba'**, and **Kashf al-Shubuhat**, also by Muhammad ibn 'Abd al-Wahhab, which clarify the foundations of Islam and common doubts about shirk. [9]
+
+## 7. The Salafi Methodology on Allah's Names and Attributes
+
+The Salafi approach to Allah’s names and attributes is to **affirm what Allah and His Messenger affirmed, and to deny any likeness to creation**. Imam Ibn Baaz said:
+
+> "From iman (faith) in Allaah is to have iman in those of His Beautiful Names and Lofty Attributes that occur in His Great Book and that have been affirmed by His trustworthy Messenger — **without tahrîf (distorting), ta'tîl (divesting or denying), takyîf (asking how), or tamthîl (resembling Allaah to any of His creation)**. Rather, it is obligatory to leave them as they came, without takyîf, while also freeing Allaah from any resemblance to His creation in any of His Attributes." [15]
+
+Ibn Kathir summarized the way of the early generations:
+
+> "The path we traverse in this issue is to follow the way of the Salafus-Sâlih... Their way is: to recite them as they are, without takyîf, tashbîh, nor ta'tîl. Indeed, Allâh does not resemble anything of His creation in any way: 'There is nothing like Him, He is the all-Hearing, all-Seeing.'" [15]
+
+Imam at-Tirmidhi recorded the famous creedal principle of Ahl al-Hadith:
+
+> "It has been said by more than one person from the People of Knowledge — about such ahâdîth — that there is no tashbîh (resemblance) to the Attributes of Allâh. And the Lord — the Blessed, the Most High — **descends to the lowest heaven every night**. So they say: **Affirm these narrations, have iman in them and do not deny them, and do not ask how.**" [15]
+
+### Allah's Descent to the Lowest Heaven
+
+The authentic hadith states:
+
+> "Our Lord, the Blessed and the Exalted, descends every night to the lowest heaven when one-third of the latter part of the night is left, and says: 'Who supplicates Me so that I may answer him? Who asks Me so that I may give to him? Who asks Me forgiveness so that I may forgive him?'" [Sahih al-Bukhari and Sahih Muslim] [16]
+
+IslamQA explains the Salafi position:
+
+> "According to Ahl al-Sunnah, the meaning of this descent is that Allah Himself comes down to the lowest heaven in a real sense, as befits His Majesty, and no one knows how that is except Him... Ahl al-Sunnah wa’l-Jamaa‘ah believe in that, but in this belief they avoid likening Allah to any of His creation or discussing how He is." [17]
+
+Four things must be avoided when dealing with the names and attributes of Allah:
+
+1. **Tahreef** — distorting the wording or meaning.
+2. **Ta'teel** — denying or stripping the attribute.
+3. **Tamtheel / Tashbeeh** — likening Allah to His creation.
+4. **Takyeef** — asking or explaining how the attribute is. [18]
+
+## 8. The Only Saved Sect
+
+Aqeedah is also the basis of unity and the standard by which the saved group is identified. The Prophet (ﷺ) said:
+
+> "My nation will divide into 73 sects; all of them shall be in the Fire except one, and it is the Jamaa'ah; the united body upon the truth." It was said, "Who are they, O Messenger of Allah?" He said, "That which I and my companions are upon today." [19]
+
+This is why the Salaf emphasized that the Muslim must hold fast to the Qur'an and the authentic Sunnah upon the understanding of the Companions, the Followers, and the Imam's of the Salaf. Differing in aqeedah is not acceptable; the only way to safety is the way of the Saved Sect.
+
+## Conclusion
+
+Aqeedah is the firm, certain belief that anchors the heart to the truths Allah revealed in His Book and upon the tongue of His Messenger. It comes before action, governs action, and validates action. It is summarized in the six articles of faith, built on the three categories of tawheed, preserved in classical texts such as *al-Aqidah al-Tahawiyyah*, *al-Aqidah al-Wasitiyyah*, and *Kitab at-Tawhid*, and safeguarded by the Salafi methodology of affirming Allah's names and attributes without distortion, denial, resemblance, or asking "how." Whoever wishes to be safe in this life and the next must begin by correcting his or her aqeedah upon the Book, the Sunnah, and the way of the Salaf.
+
+---
 
 ## Sources
 
-### Authoritative Islamic Scholarly Sources
-
-1. **IslamQA** - What is Aqeedah?  
-   https://islamqa.org/hanafi/darulifta-deoband/111033/what-is-aqeedah/
-
-2. **IslamWeb** - The meaning of Aqeedah  
-   https://www.islamweb.net/en/fatwa/92221/the-meaning-of-aqeedah
-
-3. **IslamWeb** - The meaning of 'Aqeedah (creed)  
-   https://www.islamweb.net/en/fatwa/2246/the-meaning-of-%E2%80%98aqeedah-creed
-
-4. **IslamWeb** - Recommended books for learning the basics of Aqeedah  
-   https://www.islamweb.net/en/fatwa/94139/recommended-books-for-learning-the-basics-of-aqeedah
-
-5. **SeekersGuidance** - What Is Aqida and Why Study It? – Shaykh Hassan al Hindi  
-   https://seekersguidance.org/articles/knowledge/what-is-aqida-why-study-it/
-
-6. **Egypt's Dar Al-Ifta** - The Six Articles of Faith  
-   https://dar-alifta.org/en/article/details/64/the-six-articles-of-faith
-
-7. **Darul Fatwa Australia** - Aqeedah (Belief)  
-   https://www.darulfatwa.org.au/en/aqeedah-belief/
-
-8. **Ashabul Hadeeth** - What is Aqeedah?  
-   https://ashabulhadeeth.com/2010/12/19/what-is-aqeedah/
-
-9. **Salafi Knowledge** - Definition of Aqidah  
-   https://salafiknowledge.com/definition-of-aqidah/
-
-### Arabic Linguistic Sources
-
-10. **Al-Ma'ani Dictionary** - Definition of العقيدة  
-    https://www.almaany.com/ar/dict/ar-ar/%D8%A7%D9%84%D8%B9%D9%82%D9%8A%D8%AF%D8%A9/
-
-11. **Al-Azhar University** - مفهوم العقيدة ومحتواها  
-    https://azharegypt.org/lcms/cntstd.php?cnt=74&lid=646&page=p03
-
-12. **Wiktionary** - عقيدة  
-    https://en.wiktionary.org/wiki/%D8%B9%D9%82%D9%8A%D8%AF%D8%A9
-
-### Classical Texts
-
-13. **Al-'Aqidah al-Tahawiyyah** - Arabic text (Wikisource)  
-    https://ar.wikisource.org/wiki/%D8%A7%D9%84%D8%B9%D9%82%D9%8A%D8%AF%D8%A9_%D8%A7%D9%84%D8%B7%D8%AD%D8%A7%D9%88%D9%8A%D8%A9
-
-14. **Salafi Publications** - Aqeedatut-Tahaawiyyah  
-    https://spubs.com/sps/sp.cfm?articleID=AQD040002&articlePages=1&subsecID=AQD04
-
-15. **Aseel Foundation** - Al-'Aqida Al-Tahawiyya (PDF)  
-    https://www.aseelfoundation.com/wp-content/uploads/2016/12/Aqeedah-Tahawiyyah-Arabic.English.pdf
-
-16. **Darulfatwa** - AL-^AQIDAH at-TAHAWIYYAH  
-    https://www.darulfatwa.org/tawheed-creed/al-aqidah-at-tahawiyyah-2/
-
-17. **Wikipedia** - Al-Aqidah Al-Waasitiyyah  
-    https://en.wikipedia.org/wiki/Al-Aqidah_Al-Waasitiyyah
-
-18. **Islamic Web** - Principles of Islamic Faith (Al-`Aqidah Al-Wasitiyah)  
-    http://www.islamicweb.com/beliefs/creed/wasiti/taimiyah_1.htm
-
-19. **Salafi Publications** - Aqeedatul-Waasitiyyah - The Text  
-    https://spubs.com/sps/sp.cfm?articleID=AQD040003&articlePages=3&subsecID=AQD04
-
-20. **World Dawah** - Aqeedah al-wasitiyyah  
-    https://worlddawah.com/aqeedah-al-wasitiyyah/
-
-21. **Emaan Library** - Aqeedah Al-wasitiyya by Ibn Taimiyah (PDF)  
-    https://www.emaanlibrary.com/wp-content/uploads/2017/11/AqeedahAl-wasitiyya-by-Ibn-Taimiyah.pdf
-
-### Aqeedah vs Fiqh Sources
-
-22. **Eilaf101** - Difference Between Fiqh and Aqeedah in Islam Explained  
-    https://eilaf101.com/difference-between-fiqh-and-aqeedah/
-
-23. **Rahiq Academy** - Difference Between Fiqh and Aqeedah: Your Clear Guide  
-    https://rahiqacademy.com/difference-between-fiqh-and-aqeedah/
-
-24. **Almanaar Islamic Store** - Difference Between Aqeedah and Fiqh in Daily Life  
-    https://almanaar.co.uk/blogs/news/difference-between-aqeedah-and-fiqh-in-daily-life
-
-25. **According to Islam** - Aqeedah (Theology)  
-    https://accordingtoislam.com/aqeedah-theology/
-
-26. **Quran Course** - The Difference Between The 'aqīdah And The Sharī'ah Rule  
-    https://qurancourse.com/article/the-islamic-personality/4.4--the-difference-between-the-aqdah-and-the-sharah-rule-hukm-shari
-
-### Six Articles of Faith Sources
-
-27. **Wikipedia** - The six articles of Islamic faith  
-    https://en.wikipedia.org/wiki/The_six_articles_of_Islamic_faith
-
-28. **Ulum Al-Azhar Academy** - 6 Pillar of Iman Explained  
-    https://ulumalazhar.com/6-pillar-of-iman/
-
-29. **Islam House** - The Authentic Creed (PDF)  
-    https://d1.islamhouse.com/data/en/ih_books/single/en_The_Authentic_Creed.pdf
-
-30. **Lajna UK** - Six Articles of Faith (PDF)  
-    https://lajna.org.uk/wp-content/uploads/2023/11/publications-six-articles-of-faith.pdf
-
-### General Reference
-
-31. **Wikipedia** - Aqidah  
-    https://en-wp.org/wiki/Aqeedah
+1. Salafi Publications, "The Importance of Aqidah" — https://spubs.com/sps/sp.cfm?articleID=AQD010001&articlePages=1&subsecID=AQD01
+2. Shaykh Saalih al-Fawzaan, "Aqeedah — Creed and Belief is the Foundation of the Religion" — https://abdurrahman.org/2015/05/22/aqeedah-creed-and-belief-is-the-foundation-of-the-religion/
+3. The Permanent Committee for Scholarly Research and Ifta', "The Correctness of Aqeedah is the Most Fundamental Principle" — https://www.fatwaislam.com/fis/index.cfm?scn=fd&ID=229
+4. Shaykh Saalih al-Fawzaan, "The Sharee'ah is Broken Up Into Two Affairs" — https://tryingtofollowthesalaf.com/2014/02/26/the-shareeah-is-broken-up-into-two-affairs-shaykh-saalih-fawzaan/
+5. Shaykh Saalih al-Fawzaan, "What is the First Thing a Muslim Should Learn?" — https://tryingtofollowthesalaf.com/2014/01/06/what-is-the-first-thing-that-a-muslim-should-learn-shaykh-saalih-fawzaan/
+6. IslamQA, "How to Start Propagation" — https://islamqa.info/en/answers/1703
+7. Imam 'Abd al-'Aziz ibn Baaz, "The Correct Belief and What Opposes It" — https://abdurrahman.org/2014/10/01/the-correct-belief-and-what-opposes-it-imaam-ibn-baaz/
+8. The Permanent Committee for Scholarly Research and Ifta', "The Three Types of Tawheed" — https://www.fatwaislam.com/fis/index.cfm?ID=26&scn=fd
+9. AbuIyaad.Com, "Kitab at-Tawhid" — https://abuiyaad.com/kitab-tawhid
+10. Sahih Muslim, Hadith of Jibril — https://hadithunlocked.com/muslim:8
+11. Shaykh Saalih al-Fawzaan, explanation of the 73 sects — https://abdurrahman.org/2018/01/24/my-ummah-will-divide-into-73-sects/
+12. Imam 'Abd al-'Aziz ibn Baaz, "The Most Authentic Books on True Islamic Aqidah" — https://abdurrahman.org/2020/01/24/the-most-authentic-book-on-true-islamic-aqidah-creed/
+13. AbdurRahman.Org, "Book Study: Aqeedah at-Tahaawiyyah" — https://abdurrahman.org/2017/09/07/book-study-aqeedah-tahaawiyyah-the-creed-of-imam-al-tahawi/
+14. AbdurRahman.Org, "Al-Aqidah al-Wasitiyyah" — https://abdurrahman.org/2011/06/24/buy-al-aqidah-al-wasitiyyah-shaykh-muhammad-bin-salih-al-uthaimin/
+15. AbdurRahman.Org, "The Beautiful Names and Lofty Attributes" — https://abdurrahman.org/2014/01/18/beautiful-names-lofty-attributes/
+16. Sahih al-Bukhari and Sahih Muslim, the descent of Allah to the lowest heaven — https://hadithunlocked.com/bukhari:7494 and https://hadithunlocked.com/muslim:758a
+17. IslamQA, "Allah's Descending to the Lowest Heaven" — https://islamqa.info/en/answers/12290
+18. IslamQA, "What Is the Meaning of Belief in Allah?" — https://islamqa.info/en/answers/34630
+19. Imaam al-Barbaharee, "My Ummah Will Divide Into 73 Sects" (explained by Shaykh al-Fawzaan) — https://abdurrahman.org/2018/01/24/my-ummah-will-divide-into-73-sects/

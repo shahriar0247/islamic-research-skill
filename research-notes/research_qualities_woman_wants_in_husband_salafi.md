@@ -19,7 +19,7 @@
 
 **Source:** Jami` at-Tirmidhi 1084, 1085; Ibn Majah 1967
 **Grading:** Al-Albani classed it as **Sahih** in Sahih Sunan at-Tirmidhi. Tirmidhi said "hasan gharib."
-**URL:** https://sunnah.com/tirmidhi:1085 ; https://dorar.net/h/DLpMRIcA
+**URL:** https://hadithunlocked.com/tirmidhi:1085 ; https://dorar.net/h/DLpMRIcA
 
 ### Hadith: "A Woman Is Married for Four Things"
 
@@ -52,7 +52,7 @@
 
 **Source:** Jami` at-Tirmidhi 3895
 **Grading:** Tirmidhi said: "hasan gharib sahih." Al-Albani: Hasan Sahih.
-**URL:** https://sunnah.com/tirmidhi:3895
+**URL:** https://hadithunlocked.com/tirmidhi:3895
 
 ### Hadith: "Treat Women Kindly"
 
@@ -63,7 +63,7 @@
 
 **Source:** Sahih al-Bukhari 5185, 5186; Sahih Muslim
 **Grading:** Muttafaq alayh (Sahih)
-**URL:** https://sunnah.com/bukhari:5185
+**URL:** https://hadithunlocked.com/bukhari:5185
 
 ### Hadith: The Prophet ﷺ Helping in the House
 
@@ -74,7 +74,7 @@
 
 **Source:** Sahih al-Bukhari 5363
 **Grading:** Sahih
-**URL:** https://sunnah.com/bukhari:5363
+**URL:** https://hadithunlocked.com/bukhari:5363
 
 ### Hadith: Wife's Right to Maintenance (Hind bint Utbah)
 
@@ -85,7 +85,7 @@
 
 **Source:** Sahih al-Bukhari 5364, 5359, 5370
 **Grading:** Sahih
-**URL:** https://sunnah.com/bukhari:5364
+**URL:** https://hadithunlocked.com/bukhari:5364
 
 ### Hadith: Rights of the Wife (Mu'awiyah al-Qushayri)
 
@@ -646,11 +646,11 @@ These are the qualities a woman is rightly seeking, because they are what the hu
 - https://quran-tafsir.net/saady/sura2-aya228.html
 - https://quran-tafsir.net/saady/sura4-aya4.html
 - https://quran-tafsir.net/saady/sura24-aya32.html
-- https://sunnah.com/tirmidhi:1085
-- https://sunnah.com/tirmidhi:3895
-- https://sunnah.com/bukhari:5185
-- https://sunnah.com/bukhari:5363
-- https://sunnah.com/bukhari:5364
+- https://hadithunlocked.com/tirmidhi:1085
+- https://hadithunlocked.com/tirmidhi:3895
+- https://hadithunlocked.com/bukhari:5185
+- https://hadithunlocked.com/bukhari:5363
+- https://hadithunlocked.com/bukhari:5364
 - https://dorar.net/h/DLpMRIcA
 - https://dorar.net/h/xoUnF8Ve
 - https://dorar.net/h/m8KhDe6Y

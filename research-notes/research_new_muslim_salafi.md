@@ -1,369 +1,294 @@
-# RESEARCH FINDINGS: SALAFI SCHOLARS ON GUIDING NEW MUSLIMS
+# Salafi Scholars on Guiding New Muslims — What to Teach First
 
-## COMPREHENSIVE RESEARCH REPORT
-
-**Research Date:** January 2026
-**Topic:** What Salafi Scholars Have Said About Guiding New Muslims and What a New Muslim Should Learn First
+**Research date:** January 2026  
+**Methodology:** Quran and authentic Sunnah, understood according to the understanding of the righteous predecessors (Salaf), with verbatim quotations from approved Salafi scholars and websites.
 
 ---
 
-## 1. WHAT SHOULD A NEW MUSLIM LEARN FIRST?
+## 1. The First Obligation: Tawheed and the Two Testifications
 
-### Shaykh Abd al-Aziz ibn Baz
-**Source:** "The Important Lessons for the General Ummah" (al-Durus al-Muhimmah li-Ammat al-Islam)
+All of the prophets were sent with the same first command: the worship of Allah alone and the rejection of false gods.
 
-**Quote:**
-"It is essential to start with him by teaching him the meaning of the Shahaadatayn (twin declaration of faith), because it is the key to Islam and summarises it. Explain to him Tawheed (the Oneness of Allah), which is the basis of Muslim success in this world and in the Hereafter, so that his heart will become attached to Allah."
+> **"And verily, We have sent among every Ummah a Messenger proclaiming: 'Worship Allah, and avoid Taghut."**  
+> — Quran 16:36  
+> [https://www.alim.org/quran/compare/surah/16/36/]
 
-**Source URL:** https://islamqa.info/amp/en/answers/104533
+> **"We never sent a messenger before you without revealing to him: 'There is no god but Me, so worship Me alone.'"**  
+> — Quran 21:25  
+> [https://www.alim.org/quran/compare/surah/21/25/]
 
-**Lesson Structure from Ibn Baz:**
-- Lesson One: Surat al-Fatihah and short Surahs (99-114)
-- Lesson Two: The pillars of Islam
-- Lesson Three: The Six Fundamentals of Faith
-- Lesson Four: What is Tawhid and Shirk
-- Lesson Five: The Five Pillars of Islam
-- Lesson Six: The Nine Conditions of Prayer
+> **"So know, [O Muhammad], that there is no deity worthy of worship except Allah."**  
+> — Quran 47:19  
+> [https://www.alim.org/quran/compare/surah/47/19/]
 
-**Source:** https://abdurrahman.org/2016/02/16/important-lessons-for-the-muslim-ummah-ebook/
+> **"I have not created the jinn and mankind except to worship Me."**  
+> — Quran 51:56  
+> [https://www.alim.org/quran/compare/surah/51/56/]
 
-### Shaykh Salih al-Fawzan
-**Quote:**
-"Knowledge of (Tawheed and Shirk) is more incumbent upon you than the rulings of: siyaam (fasting), salaah (prayer), zakah (obligatory alms), etc. It is the foremost matter and foundation because, salaah, zakah, hajj, and other acts of ibaadaat are not correct if it is not built upon the foundation of correct aqeedah, and that is to have tawheed sincerely for Allaah azza wa Jal."
+The famous Hadith of Jibril — which the Prophet (ﷺ) said was sent to teach the religion — begins with the testimony of faith and then lists the pillars of Islam:
 
-**Source:** Explanation of "Qawaaidul Arba'ah"
-**Source URL:** https://tryingtofollowthesalaf.com/2014/01/06/what-is-the-first-thing-that-a-muslim-should-learn-shaykh-saalih-fawzaan/
+> **"Islam is that you testify that there is no deity worthy of worship except Allah and that Muhammad is the Messenger of Allah; that you establish prayer, pay zakat, fast Ramadan, and perform Hajj to the House if you are able."**  
+> — Sahih Muslim 8a  
+> [https://hadithunlocked.com/muslim:8a]
 
-**Books for Beginners Recommended by al-Fawzan:**
-"We advise him to memorize the smaller books in 'Aqeedah, for example, 'Thalaathatul 'Usool' and 'Kashfush Shubuhaat' and 'Kitaabut Tawheed.' of Shaykh Muhammad bin Abdul Wahaab Rahimahullaah"
+### Scholarly statements on the first obligation
 
-**Source URL:** http://path2islam.com/eng/index.php/fatawas/sheikh-al-fawzan/1326-the-books-of-aqeedah-for-beginners
+**Shaykh al-Islam Ibn Taymiyyah** (d. 728H) said:
 
-### Shaykh Salih al-Luhaydan
-**Quote:**
-"I advise this individual to be consistent in his prayers, in his five daily prayers & he should perform his prayers at their legislated times. I also advise this individual to learn that which he will use to worship Allaah, in terms of recitation of Qur'aan, in terms of supplications he should say. The most important part of the Qur'aan for him to learn at this time is Suratul Faatihaa. He should learn the proper pronunciation of the opening chapter of the Qur'aan."
+> **"Indeed, it is necessarily known from the religion of the Messenger (ﷺ), and upon which the Ummah is in agreement, that the basis of Islam and the first thing which the creation are to be commanded with is: the testimony that none has the right to be worshipped except Allah, and that Muhammad is the Messenger of Allah."**  
+> — Ibn Taymiyyah, cited in Abu Iyaad, *The First Obligation in Islam*  
+> [https://abuiyaad.com/a/first-obligation-tawhid]
 
-**Source:** Kitaab-ut-Tawheed Class, Riyadh, 01.12.12
-**Source URL:** https://aljamaykee.com/new-muslims/
+**Ibn al-Qayyim al-Jawziyyah** (d. 751H) said:
 
-### Shaykh Muhammad ibn Salih al-Uthaymin
-**Quote:**
-"Know, may Allaah have mercy upon you, that it is obligatory upon every Muslim, male and female, to learn and act upon the following three matters: THE FIRST: That Allaah created us and provided sustenance for us, and He did not leave us without a purpose rather He sent Messengers to us."
+> **"Tawhid is the first of that by which Islam is entered into and the last of that by which the world is departed from."**  
+> — Ibn al-Qayyim, Zad al-Ma'ad 2/22, cited in Abu Iyaad  
+> [https://abuiyaad.com/a/first-obligation-tawhid]
 
-**Source:** Sharh Thalaathatul-Usool (Explanation of the Three Fundamental Principles)
-**Source URL:** https://darpdfs.org/storage/2023/12/Exp.-of-the-Three-Fundamental-Principles-of-Islaam-Sh.-al-Uthaymeen-compressed.pdf
+**Ibn Kathir** said:
 
-**Recommended Curriculum for Beginners (from Uthaymin):**
-1. Aqeedah: Thalaathatul Usool, Qawaa'idul Arba'ah, Kash Ash-Shubuhaat, Kitaab at-Tawheed
-2. Arabic Grammar
-3. Hadith: Ulooh al-Hadith
-4. Mustalah: Nukhbatul Fikr
-5. Fiqh: Adabul Mashee ilas Salaah
+> **"The first obligation upon the servants is to know that there is none worthy of worship but Allah alone, without any partners."**  
+> — Ibn Kathir, Tafsir al-Qur'an al-Azim 5/277, cited in Abu Iyaad  
+> [https://abuiyaad.com/a/first-obligation-tawhid]
 
-**Source URL:** https://salafidawahmanchester.com/2024/09/30/knowledge-in-stages-by-imam-muhammad-ibn-salih-al-uthaymin/
+**Shaykh Muhammad ibn 'Abd al-Wahhab** said:
 
----
+> **"Know that Allah obligated knowledge of the testimony of 'La ilaha illa Allah' before the obligation of prayer and fasting. That a servant investigates the meaning of [the kalimah] is greater (in obligation) than the obligation of his investigation of [the rulings of] prayer and fasting, and the unlawfulness of shirk and believing in the taghut is greater than the unlawfulness of marrying mothers and aunties."**  
+> — Al-Durar al-Saniyyah 2/121, cited in Abu Iyaad  
+> [https://abuiyaad.com/a/first-obligation-tawhid]
 
-## 2. THE IMPORTANCE OF TAWHEED BEFORE EVERYTHING
+**Shaykh Salih al-Fawzan** said:
 
-### Shaykh al-Islam Ibn Taymiyyah
-**Quote:**
-"Indeed; it is necessarily known from the religion of the Messenger (sallallaahu 'alaihi wa sallam), and upon which the Ummah is in agreement upon that; the basis of Islaam and the first thing which the creation are to be commanded with is: the testimony that none has the right to be worshipped except Allaah, and that Muhammad is the Messenger of Allaah."
-
-**Source URL:** https://www.wrightstreetmosque.com/tawheed-the-basis-of-the-religion-which-every-caller-should-call-to-first/
-
-**Another Quote from Ibn Taymiyyah:**
-"The beginning of the religion and its end and its outwardness and its inwardness is: Tawheed and making the whole of the religion sincerely for Allaah, it is the actualization of the statement: laa ilaaha illallaah"
-
-**Source:** Majmu' Fataawa 10/264
-
-### Ibn al-Qayyim al-Jawziyyah
-**Quote:**
-"So Tawheed is the first thing that is entered into Islaam with and the last thing one departs with from the life of this world, as the Prophet (sallallaahu 'alaihi wa sallam) said: 'Whoever's last words are: laa ilaaha illallaah; will enter Paradise.' Therefore it is the first obligation and the last obligation. So Tawheed is the initiation of the affair as well as its end."
-
-**Source:** Madaarij as-Saalikeen 3/328
-
-### Muhammad ibn Abd al-Wahhab
-**Quote from Kitab at-Tawheed:**
-"Tawheed is to single out Allaah with attributes of majesty and perfection and to single Him out in worship. It comprises both knowledge and action. As for knowledge, then it is Tawheed al-Rububiyyah and Tawheed al-Asmaa wal-Sifaat. And as for action, then it is Tawheed al-Uluhiyyah. All revealed books and sent messengers called to this Tawheed, which is the foundation of Islaam, the religion of all Prophets and Messengers."
-
-**Source:** Kitab at-Tawheed
-**Source URL:** https://abuiyaad.com/a/kitab-tawhid/print
+> **"The first obligation upon the servants is the worship of Allah. As for knowing Him, then they know Him through the fitrah, the intellects, creational evidences and Qur'anic evidences."**  
+> — Sharh al-Durrah al-Madiyyah, p. 73, cited in Abu Iyaad  
+> [https://abuiyaad.com/a/first-obligation-tawhid]
 
 ---
 
-## 3. THE 6 ARTICLES OF IMAN AND 5 PILLARS
+## 2. The Three Fundamental Principles
 
-### Muhammad ibn Abd al-Wahhab - Thalathat al-Usul (The Three Fundamental Principles)
-**Structure:** Based on the three questions every person will be asked in the grave:
-1. Who is your Lord?
-2. What is your religion?
-3. Who is your Prophet?
+**Shaykh Muhammad ibn 'Abd al-Wahhab** structured beginner learning around three questions every person will be asked in the grave. In *Thalathat al-Usul* he wrote:
 
-**Source URL:** https://abdurrahman.org/wp-content/uploads/2014/08/the-three-fundamental-principles-shaykh-bin-abdul-wahab-al-ibaanah-com.pdf
+> **"Know, may Allah have mercy on you, that we are obligated to learn four matters: First: Knowledge, which means: awareness of Allah, awareness of His Prophet, and awareness of the Religion of Islam, based on evidences. Second: Acting on this. Third: Calling to it. Fourth: Patience with the harm that befalls due to it."**  
+> — *Thalaathat-ul-Usool: The Three Fundamental Principles*, tr. Abu Maryam Isma'eel AlArcon  
+> [https://abdurrahman.org/2014/01/31/thalaathat-ul-usool-the-three-fundamental-principles/]
 
-### Shaykh Abd al-Muhsin al-Abbad
-**Source:** "Explanation of the Hadith of Jibril About the Teachings of Islam"
+The same treatise explains:
 
-**Quote:**
-"The book before you – noble reader – is a detailed explanation of the famous hadith of Jibril, at the end of which, the Messenger of Allaah (sallallaahu 'alayhi wa sallam) said, 'This was Jibril, he came to you in order to teach you your Religion.'"
+> **"The greatest thing that Allah commanded is Tawheed, which means: Singling Allah out in worship. And the greatest thing that Allah warned against is Shirk, which is: Supplicating to others along with Him."**  
+> — *Thalaathat-ul-Usool*  
+> [https://abdurrahman.org/2014/01/31/thalaathat-ul-usool-the-three-fundamental-principles/]
 
-**Source URL:** https://store.sunnahpublishing.net/product/explanation-of-the-hadith-of-jibril-about-the-teachings-of-islam/
+The three fundamental principles are:
 
----
+1. **Who is your Lord?** — Allah, who created and sustains everything.
+2. **What is your religion?** — Islam, the religion of all the prophets.
+3. **Who is your Prophet?** — Muhammad (ﷺ), the final messenger.
 
-## 4. THE HADITH "THE BEST OF PEOPLE IS MY GENERATION"
+**Shaykh Salih al-Fawzan**, in his explanation of the same text, emphasized that the first kind of knowledge a Muslim must learn is what the religion cannot stand without:
 
-### Exact Reference
-**Hadith Text:** "The best of people are my generation, then those who follow them, then those who follow them."
-
-**References:**
-- Sahih al-Bukhari, Hadith 6428 (Book of Merits of the Prophet's Companions)
-- Sahih Muslim, Hadith 6472 (Book of Virtues)
-- Jami at-Tirmidhi, Hadith 2302 (Book of Witnesses)
-- Sunan an-Nasa'i, Hadith 3809
-
-**Grading:** SAHIH (Agreed upon by al-Bukhari and Muslim)
-
-**Source URLs:**
-- https://hadithunlocked.com/bukhari:6428
-- https://sunnah.com/tirmidhi:2302
-- https://islamuna.com/hadith/sahih-muslim-6472
-
-### Salafi Scholar Commentary
-**NOT FOUND:** Specific commentary from contemporary Salafi scholars (al-Albani, Ibn Baz, al-Uthaymin, al-Fawzan) was not located in the available sources. The hadith itself is well-established in the primary collections.
+> **"It is obligatory upon us to learn four matters. The first is knowledge... what is meant by knowledge here is the legislated Islamic knowledge... The first of them [individual obligations] is that which the religion cannot be correctly established except with it, such as the five pillars of Islam which are the Two Testifications, and the establishment of the Prayer, and the giving of the Zakat, and the fast of Ramadan, and Hajj... Since learning the meaning of the Two Testifications is to learn the aqeedah (creed and belief), so the Muslim learns the creed and belief in order to act upon it, and he learns whatever opposes it in order to keep away from it."**  
+> — *Al-'ilm ash-Shar'ee: The Legislated Islamic Knowledge*, Shaykh Fawzan  
+> [https://abdurrahman.org/2018/03/26/al-ilm-ash-sharee-the-legislated-islaamic-knowledge/]
 
 ---
 
-## 5. THE HADITH "MY NATION WILL NOT AGREE UPON MISGUIDANCE"
+## 3. Prayer Is the Next Priority After the Shahadah
 
-### Exact Reference
-**Hadith Text:** "Indeed Allah will not gather my Ummah upon deviation, and Allah's Hand is over the Jama'ah, and whoever deviates, he deviates to the Fire."
+The Prophet (ﷺ) sent Mu'adh to Yemen and instructed him to begin with Tawheed, then move to the prayer:
 
-**Reference:** Jami at-Tirmidhi, Hadith 2167 (Book of Al-Fitan, Chapter 1)
+> **"The Prophet (ﷺ) sent Mu'adh to Yemen and said: 'Invite the people to testify that none has the right to be worshipped but Allah and I am the Messenger of Allah (ﷺ), and if they obey you to do so, then teach them that Allah has enjoined on them five prayers in every day and night, and if they obey you to do so, then teach them that Allah has made it obligatory for them to pay zakat from their property and it is to be taken from the wealthy among them and given to the poor.'"**  
+> — Sahih al-Bukhari 1395  
+> [https://hadithunlocked.com/bukhari:1395]
 
-**Grading by al-Albani:** HASAN (Good)
+A more detailed narration in Muslim records:
 
-**Source URLs:**
-- https://islamqa.info/amp/en/answers/147341
-- https://sunnah.com/tirmidhi:2167
+> **"You are going to a people of the Book. Let the first thing to which you call them be the worship of Allah. When they recognize Allah, inform them that Allah has enjoined on them five prayers in a day and a night. When they perform them, inform them that Allah has made zakat obligatory for them, which is to be taken from the wealthy among them and given to their poor..."**  
+> — Sahih Muslim 19c  
+> [https://hadithunlocked.com/muslim:19c]
 
-**Another Version (Ibn Majah):**
-"My nation will not unite on misguidance, so if you see them differing, follow the great majority."
+**Imam Ibn Baz's** booklet *Important Lessons for the Muslim Ummah* gives a practical curriculum that begins with the Shahadah, then Tawhid, the six articles of faith, and the rulings of prayer. It says:
 
-**Reference:** Sunan Ibn Majah, Hadith 3950 (Book 36 - Tribulations)
-**Grading by al-Albani:** VERY DAIF (Very Weak)
+> **"The Second Lesson – The Conditions of the Shahadah: Knowing the meaning and the conditions of the declaration of ash-shahadatan that, 'There is no true God except Allah, and that Muhammad... is the Messenger of Allah.' The phrase that 'there is no true God' negates anything or anyone that is being worshipped other than Allah, and the phrase, 'except Allah', confirms that all forms of worship, submission and adoration must be for Allah Alone..."**  
+> — *Important Lessons for the Muslim Ummah*, Imam Ibn Baz  
+> [https://abdurrahman.org/2016/02/16/important-lessons-for-the-muslim-ummah-ebook/]
 
-### Salafi Scholar Commentary
-**From IslamQA (Muhammad al-Munajjid):**
-"The meaning of this hadith is that Allah has protected the scholars of the ummah of Muhammad (blessings and peace of Allah be upon him) from unanimously agreeing upon something false. This protection is only for all the scholars of the ummah during any given period. As for the agreement of some of them or most of them on something, that is not protected from error."
+The same book lists the first lesson:
 
-**Source URL:** https://islamqa.info/amp/en/answers/147341
+> **"Memorizing the opening surah of the Qur'an, al-Fatihah, and some short passages and chapters from No. 99 (az-Zalzalah) to 114 (an-Nas). Every Muslim must make an effort to memorize, recite and understand passages and/or chapters from the Noble Qur'an."**  
+> — *Important Lessons for the Muslim Ummah*  
+> [https://abdurrahman.org/2016/02/16/important-lessons-for-the-muslim-ummah-ebook/]
 
----
+The **Permanent Committee** was asked whether a new Muslim may replace the required tasbih in ruku' and sujud with Surah al-Fatihah because it is difficult at the beginning. They answered:
 
-## 6. THE HADITH "THERE WILL NEVER CEASE TO BE A GROUP..." (AT-TA'IFAH AL-MANSURAH)
+> **"A new Muslim should recite the Qur'an and Dhikr in the correct places during Salah as soon as they can, as Allah says: 'Allah burdens not a person beyond his scope.' However, they should not recite Surah al-Fatihah while in Ruku' or Sujud instead of Tasbih."**  
+> — Permanent Committee for Scholarly Research and Ifta'  
+> [https://abdurrahman.org/2011/06/11/new-muslim-reciteing-surah-al-fatihah-and-some-ayahs-during-ruku-or-sujud-instead-of-tasbih/]
 
-### Exact Reference
-**Hadith Text:** "There shall not cease to be a group from my Ummah that remains firmly steadfast upon the command of Allah, the Exalted and Almighty, it cannot be harmed by those who oppose it."
+A full step-by-step guide to prayer with illustrations and audio is available from Dr. Saleh as-Saleh:
 
-**References:**
-- Sunan Ibn Majah, Hadith from Abu Hurairah
-- Sahih Muslim, Hadith 1920 (from Thawban)
-- Sahih al-Bukhari, Hadith 3640, 7311, 7459 (from Mugheerah ibn Shu'bah)
-
-**Grading by al-Albani:** HASAN (Good) - Declared hasan in As-Saheehah, no. 1962
-
-**Source URLs:**
-- https://abukhadeejah.com/there-shall-not-cease-to-be-a-group-from-my-ummah-steadfast-upon-the-command-of-allah-ibn-majah-hadeeth-7/
-- https://hadithanswers.com/there-will-always-be-a-group-on-truth-haqq/
-
-### Salafi Scholar Commentary
-**Abu Khadeejah:**
-"This Hadeeth of Abu Hurairah carries the same meaning as the previous Hadeeth of Qurrah bin Iyyās. His (salallāhu 'alaihi wasallam) saying, steadfast (قوامة) is a form of emphasis and a stronger expression of the word القيام (to establish) – meaning that they are staunchly and firmly established upon the command of Allah and adhering staunchly and steadfastly to His Shari'ah."
-
-**Shaykh Salih Al-Fawzan:**
-"This group will not cease to exist in the Ummah. The Ummah will not be deprived of this Sunni Group. This Taa'ifah (Group) can be one group. If it adheres to the Qur'an and the Sunnah, it is the Taa'ifah Al-Mansoorah (The Victorious Group), even if it is only one."
-
-**Ibn Taymiyyah:**
-Stated that the ahaadeeth concerning at-Taa'ifatul-Mansoorah reach the level of being mutawaatir (mass-transmitted).
-**Source:** Iqtidaa' as-Siraat al-Mustaqeem (p.6)
+> [https://abdurrahman.org/2011/06/12/salah-prayer-step-by-step-with-illustrations-and-audio/]
 
 ---
 
-## 7. BID'AH - WHAT SALAFI SCHOLARS DEFINE IT AS
+## 4. Gradual Teaching
 
-### Shaykh al-Islam Ibn Taymiyyah
-**Quote:**
-"As for bid'ah in the religious sense, it is whatever is not proven by a shari'ah proof."
+Allah says:
 
-**Source:** Iqtida' as-Siraat al-Mustaqeem
-**Source URL:** https://thehumblei.com/2020/10/05/ibn-taymiyyahs-golden-rule-on-bidah/
+> **"Allah does not burden any human being with more than he is well able to bear."**  
+> — Quran 2:286  
+> [https://www.alim.org/quran/compare/surah/2/286/]
 
-**Ibn Taymiyyah's Two Conditions for Bid'ah:**
-A newly-introduced matter will only be bid'ah if:
-1. Acting upon it was possible during the time of the Prophet ﷺ
-2. The reason for its existence was present during the time of the Prophet ﷺ
+The Prophet (ﷺ) said:
 
-### Imam al-Shafi'i (Cited by Salafi Scholars)
-**Quote:**
-"The newly-invented matters are of two types: The first of them is that which has been introduced from that which opposes [something from] the book, or [something from] the sunnah, or a narration, or [a matter of] consensus. This is the misguided innovation. And the second is that which has been introduced of goodness and there is no opposition to anyone of these things [qur'an, sunnah, athar, ijmaa']. This is the newly-invented matter which is not blameworthy."
+> **"Make things easy for the people, and do not make it difficult for them, and make them calm (with glad tidings) and do not repulse them."**  
+> — Sahih al-Bukhari 6125  
+> [https://hadithunlocked.com/bukhari:6125]
 
-**Source:** Manaqib al-Shafi'i (1/469)
-**Source URL:** https://www.bidah.com/articles/rouuz-the-notion-of-bidah-hasanah-good-innovation-in-worship-destroyed-part-3.cfm
+And:
 
----
+> **"Religion is easy. Whoever overburdens himself in his religion will not be able to continue in that way. So be moderate, come near to perfection, receive good tidings, and seek help in the mornings, the afternoons, and during the last hours of the nights."**  
+> — Sahih al-Bukhari 39  
+> [https://hadithunlocked.com/bukhari:39]
 
-## 8. FOLLOWING THE SALAF US-SALIH
+The **Permanent Committee** for Scholarly Research and Ifta' said:
 
-### Ibn al-Qayyim al-Jawziyyah
-**Quote:**
-"Neither Allaah nor His Messenger made it obligatory to follow the school of thought (madhhab) of any person from the ummah and to follow him alone in the Religion. The best generations passed by without anyone doing this."
+> **"It is permissible to convey the Message of Islam to others gradually, acting upon the Hadith of Mu'adh when he was sent by the Prophet (peace be upon him) to Yemen... As for Islamic legislation, it has come to an end by the death of the Prophet (peace be upon him), as Allah says: 'This day, I have perfected your religion for you, completed My Favour upon you, and have chosen for you Islam as your religion.'"**  
+> — *Gradation in Conveying Islam*  
+> [https://abdurrahman.org/2011/06/11/gradation-in-conveying-islam/]
 
-**Source URL:** https://islambasics.com/chapter/ibn-al-qayyim-on-following-a-school-of-thought-madhhab/
+The scholars of the Standing Committee for Islamic Research and Ifta' (Nur 'Ala al-Darb) said:
 
-**Quote on Following the Salaf:**
-"(i) The Book of Allah, the Manifest Truth. (ii) Then the saying of the Messenger of Allaah (ρ). (iii) And of his Companions, the Chosen, pious ones. (iv) Then that which the Salafus-Saalih were unanimously agree upon. (v) Then holding fast of all of that and remaining firm upon it till the Day of Judgement. (vi) Then turning away from the innovations and from listening to them-from amongst those things the astray people have invented."
+> **"The most important thing is to explain the basics of the religion so that the person can enter Islam. As for subsidiary matters like shaving the beard or shortening it, or wearing hijab, or circumcision and the like, these should better be delayed to a later time so that the person is not repelled or discouraged, and just to teach them the foundations of Islam first and its great pillars. After they embrace Islam, they can be encouraged to perform the rest of the practices of Islam."**  
+> — *The Correct Way to Teach and Guide a New Muslim*  
+> [https://abdurrahman.org/2011/06/11/the-correct-way-to-teach-and-guide-a-new-muslim/]
 
-**Source:** Sharh Usool-I'tiqaad (1/9)
+**Shaykh Muhammad ibn Salih al-'Uthaymin** explained 'Ali ibn Abi Talib's saying, "Narrate to people what they can understand; do you want Allah and His Messenger to be disbelieved?" as follows:
 
----
+> **"It is therefore an aspect of wisdom in da'wah that you should not surprise people with things they are not able to comprehend. Rather, you should call them in stages, bit by bit until their minds settle... We learn from this narration that it is important to employ wisdom in calling to Allah, and that it is incumbent upon anyone who calls to Allah to consider the level of understanding of those he is inviting, and that he should put everyone in their proper place."**  
+> — Majmu' Fatawa Ibn 'Uthaymin 10/140, translated by AbdurRahman.org  
+> [https://abdurrahman.org/2012/06/07/narrate-to-people-what-they-can-understand-call-them-in-stages-wisdom-in-dawah-shaykh-uthaymeen/]
 
-## 9. TRUSTING SCHOLARS - WHO IS A REAL SCHOLAR
+The **Permanent Committee** also stated that when a person accepts Islam, he is required to learn and act gradually:
 
-### The Hadith "Scholars are Heirs of Prophets"
-**Hadith Text:** "The learned are the heirs of the Prophets, and the Prophets leave neither dinar nor dirham, leaving only knowledge, and he who takes it takes an abundant portion."
-
-**Reference:** Sunan Abi Dawud, Hadith 3641
-**Grading by al-Albani:** SAHIH (Authentic)
-**Also narrated by:** Al-Tirmidhi, Ibn Majah, Ahmad, Ibn Hibban
-**Source URL:** https://islam.stackexchange.com/questions/67174/what-is-the-refference-for-the-hadeeth-about-scholars-being-the-heirs-of-the-pro
-
-### Salafi Scholar Commentary
-**IslamQA (Muhammad al-Munajjid):**
-"This protection is only for all the scholars of the ummah during any given period. As for the agreement of some of them or most of them on something, that is not protected from error. Similarly, if the common folk are agreed on some matter, that does not indicate that it is true, because what matters here is the scholars, not the common folk or the ignorant."
-
-**Source URL:** https://islamqa.info/amp/en/answers/147341
-
-**Abu Khadeejah on Recognizing Scholars:**
-"Recognise and know the Scholars of Salafiyyah, and know those who take from them (their students). This knowledge is Dīn so look to whom you take your Dīn from."
-
-**Source URL:** https://www.salafisounds.com/advice-for-the-one-who-has-turned-to-the-way-of-the-salaf-by-abu-khadeejah-abdul-wahid/
+> **"When a person embraces Islam, then [as a Muslim] — according to his ability — he is now required to gradually learn that which is required of him — as legislated. He is then required to act accordingly, and that is from the date he embraced Islam."**  
+> — *What is required of a new Muslim between the period he embraces and openly announces his religion*  
+> [https://abdurrahman.org/2012/05/17/between-the-period-he-embraces-and-openly-announces/]
 
 ---
 
-## 10. MAJOR SINS - WHAT SALAFI SCHOLARS LIST
+## 5. The Sources of Islam and Avoiding Bid'ah
 
-### Imam al-Dhahabi - Kitab al-Kaba'ir (The Book of Major Sins)
-**Complete List of 70 Major Sins:**
-1. Ascribing Associates To Allah (Shirk)
-2. Killing A Human Being
-3. Sorcery
-4. Not Performing the Prayer
-5. Not Paying Zakat
-6. Breaking One's Fast During Ramadan Without an Excuse
-7. Not Performing the Hajj When Able
-8. Showing Disrespect to One's Parents
-9. Severing the Ties of One's Relatives
-10. Adultery
-11. Sodomy
-12. Accepting Usurious Gain
-13. Wrong Consuming an Orphan's Property
-14. Lying About the Prophet
-15. Fleeing From the Battlefield
-16. The Leader Who Misleads His Followers, the Tyrant and the Oppressor
-17. Arrogance, Pride, Conceit, Vanity and Haughtiness
-18. Bearing False Witness
-19. Drinking Alcohol
-20. Gambling (Qimar)
-21. Accusing a Woman of Adultery
-22. Misappropriating Spoils of War, Muslim Funds or Zakat
-23. Theft
-24. Highwaymen Who Menace the Road
-25. The Engulfing Oath
-26. Taking People's Property Through Falsehood
-27. Collecting Taxes
-28. The Consumption of Haram
-29. Suicide
-30. Telling Lies
-31. The Dishonest Judge
-32. Bribery
-33. Women Imitating Men and Vice Versa
-34. The Pimp and the One Who Permits His Wife To Fornicate
-35. Marrying Solely to Return to the Previous Husband
-36. Not Freeing Oneself of All Traces of Urine
-37. Showing off in Good Work
-38. Learning Sacred Knowledge for the Sake of this World or Concealing It
-39. Breach of Faith
-40. Recounting Favours
-41. Denying Allah's Decree
-42. Listening to People's Private Conversations
-43. Carrying Tales
-44. Cursing
-45. Breaking Contracts
-46. Believing in Fortune-tellers and Astrologers
-47. A Woman's Bad Conduct Towards Her Husband
-48. Making Statues and Pictures
-49. Lamenting, Wailing, Tearing Clothing at Affliction
-50. Treating Others Unjustly
-51. Overbearing Conduct Toward Wife, Servant, Weak, and Animals
-52. Offending One's Neighbour
-53. Offending and Abusing Muslims
-54. Offending People and Having Arrogant Attitude
-55. Trailing Garment in Pride
-56. Men's Wearing Silk and Gold
-57. A Slave's Running Away From Master
-58. Slaughtering Animal for Other Than Allah
-59-70. [Continuing through 70 sins]
+The religion of Islam is built on two foundations: (1) worshipping Allah alone, and (2) worshipping Him only with what He legislated.
 
-**Source:** Kitab al-Kaba'ir by Imam Shamsu ed-Deen Dhahabi
-**Source URL:** https://kutub.nur.nu/English/Dhahabi-kabair-eng.pdf
+**Shaykh al-Islam Ibn Taymiyyah** said:
+
+> **"And these two fundamentals: are the essence of the religion: That we do not worship anyone except Allah and that we do not worship Him except with what He has legislated, and we do not worship Him with innovations... and these two fundamentals, they are the realization and the perfection of the two testimonies."**  
+> — *Iqtida' as-Sirat al-Mustaqeem*, p. 451, cited in *The Religion of al-Islam is Based on Two Mighty and Fundamental Principles*  
+> [https://abdurrahman.org/2010/03/19/the-religion-of-al-islaam-is-based-on-two-mighty-and-fundamental-principles/]
+
+Allah says:
+
+> **"Whatever the Messenger gives you, take it; and whatever he forbids you, abstain from it."**  
+> — Quran 59:7  
+> [https://www.alim.org/quran/compare/surah/59/7/]
+
+And:
+
+> **"This day I have perfected your religion for you and completed My favor upon you, and I have approved Islam for you as a religion."**  
+> — Quran 5:3  
+> [https://www.alim.org/quran/compare/surah/5/3/]
+
+The Prophet (ﷺ) warned the Ummah to hold fast to the Sunnah and avoid innovations:
+
+> **"Beware of the newly invented matters, for indeed they are astray. Whoever among you sees that, then he must stick to my Sunnah and the Sunnah of the rightly guided Caliphs, cling to it with the molars."**  
+> — Jami' at-Tirmidhi 2676, graded hasan sahih by al-Albani  
+> [https://hadithunlocked.com/tirmidhi:2676]
+
+And:
+
+> **"Whoever innovates something in this affair of ours that is not from it, then it is rejected."**  
+> — Sahih al-Bukhari 2697 and Sahih Muslim 1718a  
+> [https://hadithunlocked.com/bukhari:2697] / [https://hadithunlocked.com/muslim:1718a]
 
 ---
 
-## 11. THE HADITH ON THE 5 THINGS OF FITRAH
+## 6. Quranic References Used
 
-### Exact Reference
-**Hadith Text:** "The deeds connected to the Fitrah are five (or five things are connected to the Fitrah): circumcision, shaving the pubic hairs, clipping the nails, plucking the armpit hairs and trimming the mustache."
+| Verse | Topic | URL |
+|-------|-------|-----|
+| Quran 16:36 | Worship Allah and shun Taghut | https://www.alim.org/quran/compare/surah/16/36/ |
+| Quran 21:25 | No god but Allah; worship Him alone | https://www.alim.org/quran/compare/surah/21/25/ |
+| Quran 47:19 | Knowledge of Tawheed before seeking forgiveness | https://www.alim.org/quran/compare/surah/47/19/ |
+| Quran 51:56 | Jinn and mankind created to worship Allah | https://www.alim.org/quran/compare/surah/51/56/ |
+| Quran 2:286 | Allah does not burden a soul beyond its scope | https://www.alim.org/quran/compare/surah/2/286/ |
+| Quran 59:7 | Take what the Messenger gives; avoid what he forbids | https://www.alim.org/quran/compare/surah/59/7/ |
+| Quran 5:3 | Islam is perfected and complete | https://www.alim.org/quran/compare/surah/5/3/ |
 
-**References:**
-- Sahih Muslim, Hadith 257 (Book of Purification)
-- Sunan Ibn Majah, Hadith 292 (Book of Purification and its Sunnah)
+## 7. Hadith References Used
 
-**Grading:** SAHIH (Agreed upon - in both Sahih Muslim and Sunan Ibn Majah)
+| Hadith | Topic | URL |
+|--------|-------|-----|
+| Sahih Muslim 8a | Hadith Jibril: Islam, Iman, Ihsan, pillars | https://hadithunlocked.com/muslim:8a |
+| Sahih al-Bukhari 1395 | Mu'adh sent to Yemen: Tawheed, then prayer, then zakat | https://hadithunlocked.com/bukhari:1395 |
+| Sahih Muslim 19c | Mu'adh to Yemen: gradual instruction | https://hadithunlocked.com/muslim:19c |
+| Sahih al-Bukhari 6125 | Make things easy and do not repulse | https://hadithunlocked.com/bukhari:6125 |
+| Sahih al-Bukhari 39 | Religion is easy; do not overburden | https://hadithunlocked.com/bukhari:39 |
+| Jami' at-Tirmidhi 2676 | Hold fast to the Sunnah; beware of innovations | https://hadithunlocked.com/tirmidhi:2676 |
+| Sahih al-Bukhari 2697 | Whoever innovates in our affair, it is rejected | https://hadithunlocked.com/bukhari:2697 |
+| Sahih Muslim 1718a | Whoever introduces something not from it, it is rejected | https://hadithunlocked.com/muslim:1718a |
 
-**Source URLs:**
-- https://sunnah.com/ibnmajah:292
-- https://sunnah.com/muslim/2/64-72
+## 8. Approved Scholar and Website Sources
+
+### Scholars quoted
+- Shaykh al-Islam Ibn Taymiyyah
+- Ibn al-Qayyim al-Jawziyyah
+- Ibn Kathir
+- Shaykh Muhammad ibn 'Abd al-Wahhab
+- Imam 'Abd al-'Aziz ibn Baz
+- Shaykh Salih al-Fawzan
+- Shaykh Muhammad ibn Salih al-'Uthaymin
+- The Permanent Committee for Scholarly Research and Ifta'
+
+### Websites used
+- AbdurRahman.org (translations and fatawa from alifta.com, al-Ibaanah.com)
+- AbuIyaad.com
+- Alim.org (Qur'an translations)
+- HadithUnlocked.com (hadith search and translations)
+
+## 9. URL Verification Summary
+
+All URLs in this research file were verified with `webfetch` before inclusion. The following URLs returned live content:
+
+- ✅ https://abdurrahman.org/2014/01/31/thalaathat-ul-usool-the-three-fundamental-principles/
+- ✅ https://abdurrahman.org/2018/03/26/al-ilm-ash-sharee-the-legislated-islaamic-knowledge/
+- ✅ https://abdurrahman.org/2016/02/16/important-lessons-for-the-muslim-ummah-ebook/
+- ✅ https://abdurrahman.org/2011/06/11/gradation-in-conveying-islam/
+- ✅ https://abdurrahman.org/2011/06/11/the-correct-way-to-teach-and-guide-a-new-muslim/
+- ✅ https://abdurrahman.org/2012/06/07/narrate-to-people-what-they-can-understand-call-them-in-stages-wisdom-in-dawah-shaykh-uthaymeen/
+- ✅ https://abdurrahman.org/2012/05/17/between-the-period-he-embraces-and-openly-announces/
+- ✅ https://abdurrahman.org/2011/06/11/new-muslim-reciteing-surah-al-fatihah-and-some-ayahs-during-ruku-or-sujud-instead-of-tasbih/
+- ✅ https://abdurrahman.org/2011/06/12/salah-prayer-step-by-step-with-illustrations-and-audio/
+- ✅ https://abdurrahman.org/2010/03/19/the-religion-of-al-islaam-is-based-on-two-mighty-and-fundamental-principles/
+- ✅ https://abuiyaad.com/a/first-obligation-tawhid
+- ✅ https://hadithunlocked.com/muslim:8a
+- ✅ https://hadithunlocked.com/bukhari:1395
+- ✅ https://hadithunlocked.com/muslim:19c
+- ✅ https://hadithunlocked.com/bukhari:6125
+- ✅ https://hadithunlocked.com/bukhari:39
+- ✅ https://hadithunlocked.com/tirmidhi:2676
+- ✅ https://hadithunlocked.com/bukhari:2697
+- ✅ https://hadithunlocked.com/muslim:1718a
+- ✅ https://www.alim.org/quran/compare/surah/16/36/
+- ✅ https://www.alim.org/quran/compare/surah/21/25/
+- ✅ https://www.alim.org/quran/compare/surah/47/19/
+- ✅ https://www.alim.org/quran/compare/surah/51/56/
+- ✅ https://www.alim.org/quran/compare/surah/2/286/
+- ✅ https://www.alim.org/quran/compare/surah/59/7/
+- ✅ https://www.alim.org/quran/compare/surah/5/3/
+
+**Total URLs verified: 26. Broken URLs: 0.**
 
 ---
 
-## 12. THE PROPHET'S SAYING "MAKE THINGS EASY, NOT DIFFICULT"
-
-### Exact Reference
-**Hadith Text:** "Make things easy for the people, and do not make it difficult for them, and make them calm (with glad tidings) and do not repulse (them)."
-
-**References:**
-- Sahih al-Bukhari, Hadith 6125 (Book of Al-Adab - Good Manners)
-- Sahih al-Bukhari, Hadith 69 (Book of Good Manners)
-- Sahih Muslim
-
-**Grading:** SAHIH (in Sahih al-Bukhari and Sahih Muslim)
-
-**Source URLs:**
-- https://en.tohed.com/hadith/bukhari/6125
-- https://www.searchtruth.com/book_display.php?book=73&number=146&start=0&translator=1
-
-**Another Version to Mu'adh and Abu Musa:**
-"Treat the people with ease and don't be hard on them; give them glad tidings and don't fill them with aversion; and love each other, and don't differ."
-
----
-
-## ITEMS NOT FOUND FROM SALAFI SOURCES
-
-1. **Specific commentary on the hadith "The best of people is my generation"** from contemporary Salafi scholars - The hadith reference and grading were found, but specific Salafi commentary was not located.
-2. **Ibn al-Qayyim's specific list of major sins from "Ighathah al-Lahfan"** - The book exists and was referenced, but the specific list was not accessible.
-3. **Specific grading by al-Albani of the Fitrah hadith** - The hadith is in Sahih Muslim and is authentic by consensus, but al-Albani's specific grading was not found.
-4. **Specific commentary on the hadith "Make things easy, not difficult"** from contemporary Salafi scholars - The hadith reference and grading were found, but specific Salafi commentary was not located.
-5. **Statements from Shaykh Muqbil ibn Hadi al-Wadi'i** on guiding new Muslims - No statements were found.
-6. **Statements from Imam Ibn Kathir** specifically on guiding new Muslims - Tafsir references on Tawheed were found, but specific guidance for new Muslims was not located.
+**Conclusion:** The Salafi methodology for guiding a new Muslim is to begin with Tawheed and the meaning of the two testifications, then to teach the prayer and the five pillars, and to do this gradually and with wisdom, while warning the new Muslim against innovations and directing him to the Book, the authentic Sunnah, and the understanding of the Salaf.

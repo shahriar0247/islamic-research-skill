@@ -1,613 +1,230 @@
-# Research Report: Kitab at-Tawheed and Al-Aqeedah al-Wasitiyyah
-## Athari/Salafi Perspective on Classical Islamic Texts
+# Kitab at-Tawheed and Al-Aqeedah al-Wasitiyyah — An Overview
+
+## 1. Introduction
+
+Two books occupy a central place in the Athari/Salafi tradition of creed and worship: *Kitab at-Tawheed* by Imam Muhammad ibn Abd al-Wahhab and *Al-Aqeedah al-Wasitiyyah* by Shaykh al-Islam Ibn Taymiyyah. Both works return the reader to the Qur'an and the authentic Sunnah as understood by the Salaf, and both address the most fundamental issue of the religion: the right of Allah alone to be worshipped and the correct belief in His Names and Attributes.
+
+Shaykh Muhammad ibn Salih al-Uthaymeen described the distinguishing mark of the saved group as "holding on to that which is proven by the Qur'aan and Sunnah from pure Tawheed pertaining to the Ruboobiyyah, Uloohiyyah, and al-Asmaa' was-Sifaat."[^1] These two books are practical expositions of exactly that.
 
 ---
 
-## TABLE OF CONTENTS
+## 2. Kitab at-Tawheed by Muhammad ibn Abd al-Wahhab
 
-1. Kitab at-Tawheed (كتاب التوحيد)
-   - Author and Date
-   - Purpose and Historical Context
-   - Main Subject and Structure
-   - Key Themes and Theological Points
-   - Major Commentaries (Shuruh)
-   - Significance in Athari/Salafi Tradition
-   - Recommended English Translations
+### 2.1 Author and historical context
 
-2. Al-Aqeedah al-Wasitiyyah (العقيدة الواسطية)
-   - Author and Date
-   - Purpose and Historical Context
-   - Main Subject and Structure
-   - Key Themes and Theological Points
-   - Major Commentaries (Shuruh)
-   - Significance in Athari/Salafi Tradition
-   - Recommended English Translations
+Imam Muhammad ibn Abd al-Wahhab (1115–1206 AH / 1703–1792 CE) was born in al-'Uyaynah in Najd into a family of Hanbali scholars. He memorised the Qur'an by the age of ten, studied fiqh, tafsir and hadith, then travelled to Makkah, Madinah, Basra and elsewhere. In Najd and the Hijaz he found people invoking the dead, seeking blessings from trees and stones, visiting domed graves, and practising many of the pre-Islamic errors of Jahiliyyah.[^2]
 
-3. Athari/Salafi Theological Methodology
-   - Tawhid and Its Three Categories
-   - Affirmation of Allah's Names and Attributes (Bil Kayf)
-   - Rejection of Bid'ah
-   - Opposition to Ta'weel, Tahreef, Tamtheel, Tashbeeh
-   - The Wasatiyyah (Middle Path)
+> "By way of whom, Allaah revived the 'aqeedah of Tawheed, Allaah revived the belief of Tawheed, in the region of Najd... in the 12th century after the Hijrah. He composed Kitaab at-Tawheed into sixty six chapters..."  
+> — Shaykh Ahmad al-Najmi, from Abu Khadeejah's transcript[^2]
 
----
+His call was aided first by the Ameer of 'Uyaynah, then by Muhammad ibn Sa'ud in Dir'iyyah. With their support he demolished the structure over the grave of Zayd ibn al-Khattab, levelled raised graves, cut down a tree that women would embrace seeking a husband, and wrote a series of treatises on Tawheed, including *Kitab at-Tawheed*, *Al-Usool ath-Thalaathah*, *Kashf ash-Shubuhaat* and *Qawa'id al-Arba'*.[^3]
 
-## KITAB AT-TAWHEED (كتاب التوحيد)
+### 2.2 Purpose and method
 
-### 1. Author and Date
+The author's aim was to recall his people to the Tawheed of Allah alone and to expose every form of major and minor shirk. He begins the book with the author's words:
 
-**Author:** Imam Muhammad ibn Abdul Wahhab ibn Sulayman ibn Ali ibn Muhammad ibn Ahmad ibn Rashid al-Tamimi al-Najdi (1703-1792 CE / 1115-1206 AH)
+> "Tawheed is a principle of Islaam, upon which Islaam is built, it is the condition of its acceptance, by way of it, the good deeds are accepted and the evil deeds are forgiven, by it the servant enters into Jannah, and he is saved from the Hellfire. Due to it, the Messengers of God and the polytheists fell into disputes, and due to it, the swords of Jihaad clashed and due to it both Hellfire and Paradise were created. The opposite of at Tawheed is Shirk... which is to set up rivals unto Allaah in worship. Shirk nullifies the good deeds..."[^2]
 
-**Date Written:** Composed in Huraymila, Najd (modern-day Saudi Arabia) during the mid-12th century AH (approximately 1740s CE) after the author returned from his travels to Basra, Baghdad, Kurdistan, Hamadan, Isfahan, Damascus, and Cairo.
+The entire book is built on the Qur'an and the authentic Sunnah. Chapter after chapter gives the relevant verses and hadiths, then summarises the "important issues of the chapter." This method is itself a Salafi method: the foundations of creed must be taken from the Book and the authentic Sunnah, not from philosophical speculation.
 
-**Sources:**
-- https://en.wikipedia.org/wiki/Muhammad_ibn_Abd_al-Wahhab
-- https://en.wikipedia.org/wiki/The_Book_of_Tawhid:_The_Right_of_Allah_Upon_His_Servants
-- https://abukhadeejah.com/kitab-at-tawhid-an-amazing-authorship-and-journey-into-the-history-of-saudi-arabia-and-muhammad-ibn-abdul-wahhab-part-1/
+### 2.3 Structure
 
-### 2. Purpose and Why It Was Written
+The edition used for this research contains sixty-seven short chapters (some printings count the final section as part of chapter 66). The opening chapters establish Tawheed and the testimony *Laa ilaaha ill-Allaah*, then move through the major forms of shirk, including:
 
-Imam Muhammad ibn Abdul Wahhab wrote Kitab at-Tawheed to revive and purify Islam from what he perceived as non-Islamic popular religious beliefs and practices that had crept into Muslim communities over centuries. He witnessed:
+- amulets, rings and talismans (ch. 7–8);
+- seeking blessings from trees, stones and graves (ch. 9, 20–21);
+- slaughtering, vowing and seeking refuge with other than Allah (ch. 10–14);
+- sorcery, soothsaying, astrology and omens (ch. 24–30);
+- showing off and seeking worldly gain through acts of worship (ch. 36–37);
+- obeying scholars or rulers in making halal what Allah made haram (ch. 38–39);
+- denial of the Divine Decree (ch. 60);
+- the Prophet's own safeguarding of Tawheed and closing the paths to shirk (ch. 66–67).[^4]
 
-- Religious veneration of historical sites and graves
-- Supplications made for the intercession of deceased saints
-- Belief in omens and superstitions
-- Distortions of the meanings of Allah's names and attributes
-- Use of expressions contradicting belief in Allah's Oneness
-- Practices akin to the pre-Islamic Jahiliyya period in Najd
+The book ends, fittingly, with the affirmation that Allah will grasp the heavens and the earth in His Hand on the Day of Resurrection, refuting every failure to give Allah His due measure (Quran 39:67).[^4]
 
-The author was influenced by the writings of Hanbali theologian Ibn Rajab (d. 1393 CE / 795 AH), particularly "Kalimat al-Ikhlas," which inspired his seminal treatise. He sought to return to what he believed were the fundamental principles of the Islamic religion, following the teachings of Ibn Taymiyya on Tawhid.
+### 2.4 Key themes
 
-**Sources:**
-- https://en.wikipedia.org/wiki/The_Book_of_Tawhid:_The_Right_of_Allah_Upon_His_Servants
-- https://kitaabun.com/shopping3/kitab-tawheed-abdul-wahhab-explained-sameh-strauch-p-2548.html
-- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3614819
+#### (a) The three categories of Tawheed
 
-### 3. Main Subject and Structure (Chapters/Sections)
+The Salaf divided Tawheed into three categories:
 
-**Main Subject:** Islamic monotheism (Tawhid) - the core belief that Allah is one and should be worshipped alone without any partners or intermediaries.
+1. **Tawheed ar-Rububiyyah**: Allah alone creates, owns and administers creation. The Quraysh affirmed this but it did not save them: "Say: To whom belongs the Earth and whatever is therein? ... They will say: It is Allah's. Say: Will you then not remember?" (Quran, Surah al-Mu'minun 23:84–89).[^5]
+2. **Tawheed al-Uluhiyyah**: every act of worship — supplication, fear, hope, sacrifice, vow — is for Allah alone. "And your Lord said: Call upon Me, I will respond to your (invocation). Verily! Those who scorn My worship shall surely enter Hell in humiliation." (Quran, Surah Ghafir 40:60).[^5]
+3. **Tawheed al-Asma' wa as-Sifat**: affirming whatever Allah and His Messenger affirmed of Allah's Names and Attributes, without Tahreef, Ta'teel, Takyeef or Tamtheel.[^5]
 
-**Structure:** The book is organized into 66 chapters (باب), each addressing specific aspects of Tawhid and forms of shirk (polytheism). Key chapters:
+The Prophet (peace and blessings be upon him) made the right of Allah the foundation of his call:
 
-1. Introduction: At-Tawheed (The Oneness of Allah)
-2. The superiority of Tawheed and what it removes of sins
-3. Who purifies Tawheed will enter Paradise without giving an Account
-4. Fear of Shirk (Polytheism)
-5. The Call to Testimony that "None has the right to be worshipped except Allah"
-6. Explanation of Tawheed and the Testimony: Laa ilaaha illa Allah
-7. To wear a ring, twine, or anything similar for prevention or lifting of harm is an act of Shirk
-8. What has been reported concerning ar-Ruqaa (exorcism) and at-Tama'im (amulets)
-9. Whoever seeks blessings through a tree, stone, or the like
-10. What is mentioned about slaughtering for other than Allah
-11. No sacrifice for Allah at a place where sacrifice is made for other than Allah
-12. To vow to other than Allah is an act of Shirk
-13. To seek refuge with other than Allah is from Shirk
-14. To seek assistance from other than Allah or supplicate to other than Him is from Shirk
-15-66. Additional chapters covering intercession, magic, soothsayers, astrology, showing off, taking scholars and rulers as lords, and many other forms of shirk and bid'ah
+> "The Prophet said, 'O Mu'adh! Do you know what Allah's Right upon His slaves is?' I said, 'Allah and His Apostle know best.' The Prophet said, 'To worship Him (Allah) Alone and to join none in worship with Him (Allah).'"  
+> — Sahih al-Bukhari 7373; Sahih Muslim 30c[^6]
 
-**Sources:**
-- https://www.deensahih.com/kitaab-at-tawheed-chapters/
-- https://archive.org/stream/commentary-on-kitab-at-tawheed-vol.-1-sh.-al-uthaymeen-high-quality-1/Commentary-on-Kitab-At-Tawheed-Vol.-1-Sh.-Al-Uthaymeen-High-Quality-1_djvu.txt
-- http://www.islamicweb.com/beliefs/creed/abdulwahab/index.htm
+#### (b) Shirk and bid'ah
 
-### 4. Key Themes and Theological Points (Athari/Salafi Perspective)
+Shaykh Salih al-Fawzan wrote:
 
-**The Three Categories of Tawhid:**
+> "The greatest issue that Allah and His Messenger clarified in this Qur'an is the issue of tawhid and shirk, because tawhid is the foundation of Islam and the religion. It is what all deeds are based upon, whereas shirk invalidates and corrupts this foundation and renders it non-existent."[^7]
 
-1. **Tawheed al-Rububiyyah (Oneness of Lordship):** Allah is the only Lord, Creator, Sustainer, Provider, and the One who brings life and causes death. No one shares in these actions.
+The book distinguishes major shirk (worshipping other than Allah, even a small amount) from minor shirk (such as showing off and slight oaths) and from bid'ah, which weakens or corrupts Tawheed. It is the reason the Prophet commanded raised graves to be levelled:
 
-2. **Tawheed al-Uluhiyyah (Oneness of Worship):** Allah alone has the sole right to be worshipped. No one shares in this right - not the highest angels, prophets, or righteous people. All acts of worship (du'a, fear, hope, trust, sacrifice, vow, etc.) must be directed solely to Allah.
+> "Ali said to me... 'Do not leave any raised grave without levelling it, or any image without erasing it.'"  
+> — Musnad Ahmad 1064; also reported in Sahih Muslim[^8]
 
-3. **Tawheed al-Asma wa al-Sifat (Oneness of Names and Attributes):** Allah has the Most Beautiful and Perfect Names and Attributes. None share in them. We affirm whatever Allah has affirmed for Himself and whatever His Messenger affirmed for Him, without distortion, denial, asking "how," or likening to creation.
+### 2.5 Major commentaries
 
-**Major Shirk (Shirk al-Akbar):**
-- Worship of graves, saints, and righteous people
-- Seeking intercession from the dead
-- Sacrificing for other than Allah
-- Vowing to other than Allah
-- Seeking refuge or assistance from other than Allah
-- Wearing amulets and charms for protection
+- **Fath al-Majid** by Imam Abd al-Rahman ibn Hasan (the author's grandson), one of the most important explanations.
+- **Tayseer al-Aziz al-Hameed** by Shaykh Sulayman ibn Abdullah (another grandson), the first explanation, left incomplete at his death.
+- **Al-Qawl al-Mufid 'ala Kitab at-Tawheed** by Shaykh Muhammad ibn Salih al-Uthaymeen, a large two-volume explanation.
+- **I'anat al-Mustafid bi Sharh Kitab at-Tawhid** by Shaykh Salih al-Fawzan.
+- **Al-Qawl as-Sadid fi Maqasid at-Tawhid** by Shaykh Abd al-Rahman al-Sa'di.
+- **Sharh al-Moojaz al-Mumahhad** by Shaykh Ahmad al-Najmi.
+- **Ibtaal at-Tandeed** by Shaykh Hamad ibn Ateeq, a summary of Sulayman's explanation.[^9]
 
-**Minor Shirk (Shirk al-Asghar):**
-- Showing off (riya') in acts of worship
-- Performing deeds for worldly reasons
-- Slight oaths by other than Allah
+### 2.6 Salafi significance
 
-**Bid'ah (Religious Innovation):**
-- All innovations in religion are rejected
-- Only what is proven from Qur'an and authentic Sunnah is accepted
+Ibn Baz summarised the religion's two foundations in words that echo the whole purpose of *Kitab at-Tawheed*:
 
-**Sources:**
-- https://dar-us-salam.com/english/aqidah-creed/007-kitab-at-tauhid.html
-- https://www.islamweb.net/en/fatwa/16146/categories-of-tawheed-islamic-monotheism
-- https://www.troid.org/wp-content/uploads/pdf/MR_kitaabattawheed.pdf
-- https://www.askislampedia.com/documents/10157/200600/tawheed+by+uthaymeen.pdf
+> "The religion of Islam is built upon two foundations: The first: that none is worshipped except Allah alone. The second: that Allah is not worshipped except in the way legislated by Allah and His Messenger... And this is the meaning of the testimony: 'There is no god worthy of worship except Allah, and Muhammad is the Messenger of Allah.'"[^10]
 
-### 5. Major Commentaries/Explanations (Shuruh) by Contemporary Salafi Scholars
-
-**1. Al-Qawl al-Mufid 'ala Kitab at-Tawheed (القول المفيد على كتاب التوحيد)**
-- **Author:** Shaykh Muhammad ibn Salih al-Uthaymin (d. 1421 AH / 2001 CE)
-- **Description:** A comprehensive two-volume commentary (1,163 pages) known for its clarity, depth, and evidence-based approach. Originally delivered as lectures.
-- **English Translation:** Available from Dar-us-Salam (translated by Abu Naasir Ibrahim Abdur-Rauf)
-- **Source:** https://dar-us-salam.com/english/aqidah-creed/312-commentary-on-kitab-at-tawheed-2-vol-set.html
-
-**2. I'anat al-Mustafid bi Sharh Kitab at-Tawhid (إعانة المستفيد بشرح كتاب التوحيد)**
-- **Author:** Shaykh Salih al-Fawzan (b. 1354 AH / 1935 CE)
-- **Description:** A detailed two-volume explanation (672 pages) by the eminent Saudi scholar and member of the Permanent Committee for Scholarly Research and Ifta.
-- **Source:** https://www.sifatusafwa.com/en/explanations-of-the-books-of-muhammad-ibn-abdil-wahhab/i-anatul-mustafid-bi-sharh-kitab-at-tawhid-sheikh-al-fawzan.html
-
-**3. Fath al-Majid bi Sharh Kitab at-Tawheed (فتح المجيد بشرح كتاب التوحيد)**
-- **Author:** Shaykh Abd al-Rahman ibn Hasan ibn Muhammad ibn Abdul Wahhab
-- **Description:** One of the earliest and most important commentaries by the author's grandson
-
-**4. Al-Qawl al-Sadid fi Maqasid at-Tawhid (القول السديد في مقاصد التوحيد)**
-- **Author:** Shaykh Abd al-Rahman ibn Nasir al-Sa'di (d. 1376 AH / 1956 CE)
-- **Description:** A brief but concise explanation bringing helpful points on Tawhid and shirk
-- **English Translation:** Available from Al-Hidaayah Publishing (translated by Abu Khaliyl)
-- **Source:** https://kitaabun.com/shopping3/explanation-muhammad-wahhabs-kitab-tawhid-p-2304.html
-
-**5. Sharh Kitab at-Tawheed by Shaykh Abd al-Razzaq al-Badr**
-- **Author:** Shaykh Abd al-Razzaq ibn Abd al-Muhsin al-Badr (b. 1397 AH / 1977 CE)
-- **Source:** https://midad.com/collection/463570
-
-**6. Explanation by Shaykh Abdul Aziz ibn Baz (d. 1420 AH / 1999 CE)**
-- **Source:** https://binbaz.org.sa/audios/1596/1--%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%AA%D9%88%D8%AD%D9%8A%D8%AF
-
-**7. Explanation by Shaykh Ahmad al-Najmi (d. 1429 AH / 2008 CE)**
-- **Description:** "Sharhul Moojaz al-Mumahhad li Tawheed Al-Khaaliq Al-Mumajjad"
-- **Source:** https://abukhadeejah.com/kitab-at-tawhid-an-amazing-authorship-and-journey-into-the-history-of-saudi-arabia-and-muhammad-ibn-abdul-wahhab-part-1/
-
-### 6. Significance in Athari/Salafi Tradition
-
-Kitab at-Tawheed is:
-
-- **The primary source for Salafi beliefs on monotheism** in the Athari school of thought
-- Considered "one of the best books on the subject of Tawheed" and ranks high in authenticity
-- A landmark work that has guided generations of Muslims back to the pure, unadulterated Tawhid of the Quran and Sunnah
-- Unique in its organization - no other book had preceded it in this systematic arrangement
-- The magnum opus of Muhammad ibn Abdul Wahhab and foundational to the Salafi reform movement in Najd
-- The basis for the designation "Al-Muwahhidun" (Unitarians) by followers of Ibn Abdul Wahhab
-- Instrumental in shaping the Saudi state and global Salafi influence
-- Highly praised by scholars like Shaykh Abdullah al-Jarallah and Shaykh Abdul Aziz ibn Baz
-
-**Sources:**
-- https://en.wikipedia.org/wiki/The_Book_of_Tawhid:_The_Right_of_Allah_Upon_His_Servants
-- https://daralathari.com/products/kitab-at-tauhid-the-book-of-monotheism
-- https://www.troid.org/wp-content/uploads/pdf/MR_kitaabattawheed.pdf
-- https://publications.cuni.cz/bitstream/handle/20.500.14178/3415/WDI_Advance_Tupek-2.pdf
-
-### 7. Recommended English Translations/Editions
-
-**1. Kitab At-Tawheed Explained**
-- **Translator:** Sameh Strauch
-- **Publisher:** International Islamic Publishing House (IIPH)
-- **Pages:** 399 (hardcover)
-- **ISBN:** 9786035010788
-- **Source:** https://darussalam.com/kitab-at-tawheed-explained/
-
-**2. Kitab At-Tauhid (The Book of Monotheism)**
-- **Publisher:** Dar-us-Salam Publications
-- **Pages:** 192
-- **Source:** https://dar-us-salam.com/english/aqidah-creed/007-kitab-at-tauhid.html
-
-**3. Kitab At-Tauhid Full Color Edition**
-- **Publisher:** Dar-us-Salam Publications
-- **Pages:** 215
-- **Source:** https://dar-us-salam.com/english/aqidah-creed/007b-kitab-at-tauhid-full-color-edition.html
-
-**4. The Book of Tawhid: The Right of Allah Upon His Servants**
-- **Translator:** Abu Abdur-Rahmaan Uwais Taweel
-- **Publisher:** Hikmah Publications
-- **Source:** https://salafibookstore.com/product/the-book-of-tawheed-the-right-of-allah-upon-his-servants/
-
-**5. Commentary on Kitab At-Tawheed (2 Volume Set)**
-- **Author:** Muhammad ibn Salih al-Uthaymin
-- **Translator:** Abu Naasir Ibrahim Abdur-Rauf
-- **Publisher:** Dar-us-Salam
-- **Pages:** 1,163
-- **Source:** https://dar-us-salam.com/english/aqidah-creed/312-commentary-on-kitab-at-tawheed-2-vol-set.html
-
-**6. An Explanation of Muhammad ibn Abd al-Wahhab's Kitab Al-Tawhid**
-- **Commentary by:** Abd al-Rahman al-Sa'di
-- **Translator:** Abu Khaliyl
-- **Publisher:** Al-Hidaayah Publishing
-- **Pages:** 288
-- **Source:** https://kitaabun.com/shopping3/explanation-muhammad-wahhabs-kitab-tawhid-p-2304.html
+The book is studied throughout the Salafi world as a practical manual of Tawheed, shirk and the correct implications of the testimony of faith.
 
 ---
 
-## AL-AQEEDAH AL-WASITIYYAH (العقيدة الواسطية)
+## 3. Al-Aqeedah al-Wasitiyyah by Ibn Taymiyyah
 
-### 1. Author and Date
+### 3.1 Author
 
-**Author:** Shaykh al-Islam Taqi al-Din Ahmad ibn Abd al-Halim ibn Taymiyyah (661-728 AH / 1263-1328 CE)
+Shaykh al-Islam Taqi al-Din Abu al-Abbas Ahmad ibn Abd al-Halim ibn Taymiyyah (661–728 AH / 1263–1328 CE) was a Hanbali scholar of Harran. He defended the Qur'an and Sunnah against the philosophers, the Jahmiyyah, extreme Sufis, and the Tatars, and was repeatedly imprisoned for his stance. He died in Damascus, having produced hundreds of works on tafsir, hadith, fiqh, creed and refutation.[^11]
 
-**Date Written:** 1297 CE (697 AH) during the reign of Ghazan (Ilkhanate Mongol ruler)
+### 3.2 Reason for writing
 
-**Sources:**
-- https://en.wikipedia.org/wiki/Al-Aqidah_Al-Waasitiyyah
-- https://en.wikipedia.org/wiki/Ibn_Taymiyya
+Ibn Taymiyyah himself explains the occasion:
 
-### 2. Purpose and Why It Was Written
+> "A Shafi'ite judge from Wasit (in Iraq) whose name is Radiy ad-Din al-Wasiti, visited me on his way to Hajj. This Sheikh was a man of goodness and faith. He complained to me of the people's situation in that country... under the Tatars (Mongols) rule of ignorance, injustice, and loss of faith and knowledge. He asked me to write him an 'Aqidah (creed) as a reference to him and his family. But I declined saying: Many creeds have been written. Refer to the scholars of the Sunnah. However, he persisted in his request, saying: I do not want any creed but one you write. So I wrote this one for him while I was sitting one afternoon. Many copies of it are dispersed throughout Egypt, Iraq and other provinces."[^12]
 
-**Historical Context:** A Shafi'i judge from the city of Wasit in Iraq, named Radiyyuddeen al-Wasitee, approached Ibn Taymiyyah during Hajj in Damascus. He complained about the people in his land under Tartar (Mongol) government - the prevalence of ignorance, oppression, loss of religion and knowledge, and the influence of the "Yassa creed" (Mongol legal code) among neo-Muslim Tatars.
+*Al-Wasitiyyah* is therefore not an abstract treatise; it was written to give a household a creed it could rely on in a time of widespread ignorance and tyranny.
 
-**Purpose:** The judge requested Ibn Taymiyyah to write a concise creed (aqidah) that he and his household could rely upon. Ibn Taymiyyah initially declined, stating that many credal texts already existed by Imams of the Sunnah. The judge persisted, insisting that only Ibn Taymiyyah should write it. Ibn Taymiyyah then composed this creed while sitting after midday. Many copies were subsequently distributed in Egypt, Iraq, and elsewhere.
+### 3.3 The text and structure
 
-**In Ibn Taymiyyah's Own Words:**
-> "This is the reason I wrote it: A man approached me from the land of Wāsiṭ, one of the judges of its regions, a Sheikh named Raḍī al-Dīn al-Wāsiṭī, who was a scholar of Shāfi'ī school. He approached us during the Hajj pilgrimage and he was among the people of virtue and religion. He complained of the people among him in that land under the Tartar government, of the prevalence of ignorance and oppression, the loss of religion and knowledge. He asked me to write a creed for him that he and his household could rely upon."
+The treatise is brief — it can be read in a single sitting — yet it covers the creed of Ahl al-Sunnah wal-Jama'ah. Its opening states:
 
-**Sources:**
-- https://en.wikipedia.org/wiki/Al-Aqidah_Al-Waasitiyyah
-- https://salafidawahmanchester.com/2021/08/26/two-stories-one-about-al-aqeedah-al-waasitiyyah-and-the-other-about-kitaab-at-tawheed/
-- https://grokipedia.com/page/Al-Aqidah_Al-Waasitiyyah
+> "This is the belief of the saved group, the victorious ones to the Day of Judgment, the people of the Sunnah and the Jama'ah (i.e., The belief in Allah, His angels, His books, His messengers, the resurrection after death, the belief in Divine Decree (qadar), be it good or bad). Part of the belief in Allah is the belief in how He has described Himself in His Book (the Qur'an) and in how His Messenger Muhammad (peace be upon him) has described Him. Believe without distorting or denying and without questioning or shaping."[^13]
 
-### 3. Main Subject and Structure (Chapters/Sections)
+It is commonly organised into the following sections:
 
-**Main Subject:** A concise treatise on the core doctrines of Ahl al-Sunnah wal-Jama'ah (the Saved Sect), summarizing the Athari creed of the Salaf al-Salih (pious predecessors).
+1. **Allah's Names and Attributes in the Qur'an** — beginning with Surah al-Ikhlas and Ayat al-Kursi, then listing attributes such as Life, Knowledge, Might, Hearing, Seeing, Will, Love, Mercy, Pleasure, Anger, Coming, Face, Hand, Eyes, Forgiveness, Oneness, Istiwa, Highness, Ma'iyyah and Speech.
+2. **Allah's Names and Attributes in the Sunnah** — hadiths such as Allah's descent, His laughter, His marvel, placing His Foot over Hell, speaking to each person directly, the Throne above the water, and the slave-girl's answer that Allah is in the heaven.
+3. **Belief in the Hereafter** — the trial of the grave, the Records, the Hawd, the Sirat and intercession by Allah's permission.
+4. **Divine Decree (Qadar)** — belief in its good and evil.
+5. **Iman** — its reality, increase and decrease.
+6. **The Companions, the Family and the Wives of the Prophet**.
+7. **The Karamat of the Awliya'**.
+8. **The path of Ahl al-Sunnah wal-Jama'ah**.[^14]
 
-**Structure:**
+The text repeatedly brings Qur'anic and hadith evidence for each attribute. For example, the divine attributes in the Sunnah include:
 
-**Chapter One: Allah's Names and Attributes in the Qur'an**
-- Discussion of Surah al-Ikhlas (equals one-third of the Qur'an)
-- Affirmation and negation of attributes in single verses (e.g., Ayat al-Kursi)
-- Specific attributes: Knowledge, Might, Hearing, Seeing, Will, Love, Mercy, Pleasure, Anger, Coming, Face, Hand, Eyes, Forgiveness, Oneness, Settling on the Throne (Istiwa), Highness (Uluww), Omnipresence (Ma'iyyah), Speech
+> "Our Lord descends during the last third of each night to the lower heaven, and says: 'Is there anyone who calls on Me that I may respond to him?...'" — agreed upon (Bukhari & Muslim).  
+> "The Throne is above the water, and Allah is on the Throne." — good, reported by Abu Dawud and others.  
+> "Where is Allah?" And she answering: "In the heaven." And he saying: "Free her; she is a believer." — Muslim.[^15]
 
-**Chapter Two: Allah's Names and Attributes in the Sunnah**
-- Additional attributes affirmed in authentic hadith
-- The methodology of belief in these attributes
+### 3.4 Key themes
 
-**Chapter Three: Belief in the Hereafter**
-- The trial of the grave and resurrection
-- The Records of deeds
-- Al-Hawd (the Prophet's Pool)
-- As-Sirat (the Bridge over Hell)
-- Ash-Shafa'ah (Intercession)
+#### (a) The six pillars of Iman
 
-**Chapter Four: Divine Decree (Al-Qadar)**
-- Belief in Qadar, its good and evil
+The opening lists the six well-known pillars: belief in Allah, His angels, His books, His messengers, the Last Day, and Divine Decree, good and evil.[^13]
 
-**Chapter Five: Iman (Faith)**
-- Definition and components of faith
-- Increase and decrease of faith
+#### (b) The Names and Attributes without Tahreef, Ta'teel, Takyeef or Tamtheel
 
-**Chapter Six: The Companions, Family, and Wives of the Prophet**
-- Status of As-Sahabah (Companions)
-- Ahl al-Bait (Prophet's Family)
-- Ummahat al-Mu'minin (Mothers of the Believers)
+Shaykh Salih al-Fawzan, in his explanation of *Al-Wasitiyyah*, summed up the Salafi method:
 
-**Chapter Seven: Karamat al-Awliya (Miracles of Saints)**
-- Correct belief regarding the friends of Allah
+> "And it is from eemaan in Allaah to have eemaan in what Allaah has described Himself with in His Book and in what His Messenger (sallallaahu alayhi wasallam) has described Him with, without changing the original meaning [of these texts] (Tahreef), without denying such attributes for Allaah (Ta'teel), without enquiring into their true nature (Takyeef) and without likening [His attributes] to those of the creation (Tamtheel)."[^16]
 
-**Chapter Eight: The Path of Ahl as-Sunnah wal-Jama'ah**
-- Brotherhood among Muslims
-- Enjoining good and forbidding evil
-- Jihad
-- Stance on rulers and governors
+Imam Malik's famous reply is recorded by al-Fawzan: "The ascending (istawaa) is known, its reality is unknown, having eemaan in it is obligatory and asking about it is an innovation."[^16]
 
-**Sources:**
-- https://www.emaanlibrary.com/wp-content/uploads/2017/11/AqeedahAl-wasitiyya-by-Ibn-Taimiyah.pdf
-- https://www.abuaminaelias.com/al-aqeedah-al-wasitiyyah-by-ibn-taymiyyah/
-- https://wajibad.wordpress.com/2013/02/19/al-aqidah-al-wasitiyah/
+Ibn Baz likewise explained:
 
-### 4. Key Themes and Theological Points (Athari/Salafi Perspective)
+> "Ahl-ul-Sunnah wal-Jama`ah believe in the Names and Attributes of Allah and understand their meanings but do not know their manner. Only Allah knows the exact manner of assuming His Attributes, as He alone knows His Dhat (Essence)."[^17]
 
-**The Six Pillars of Iman (Faith):**
-1. Belief in Allah
-2. Belief in His Angels
-3. Belief in His Books
-4. Belief in His Messengers
-5. Belief in the Last Day (Resurrection)
-6. Belief in Divine Decree (Qadar), its good and evil
+#### (c) The middle path
 
-**Methodology Regarding Allah's Names and Attributes:**
-- Affirm whatever Allah has affirmed for Himself in His Book
-- Affirm whatever His Messenger has affirmed for Him
-- **WITHOUT:**
-  - Tahreef (distortion/changing the words or meanings)
-  - Ta'teel (negation/denial of attributes)
-  - Takyeef (asking "how" the attributes are)
-  - Tamtheel (likening Allah's attributes to creation)
+The treatise avoids both the denial of the Jahmiyyah/Mu'tazilah (ta'teel) and the anthropomorphism of the Mushabbihah (tamtheel). It is the *wasatiyyah* — the middle way — between two extremes.
 
-**Key Textual Principle:**
-> "Part of the belief in Allah is the belief in how He has described Himself in His Book (the Qur'an) and in how His Messenger Muhammad (peace be upon him) has described Him. Believe without distorting or denying and without questioning or shaping."
+### 3.5 Major commentaries
 
-**The Middle Path (Wasatiyyah):**
-- Between the Jahmiyyah/Mu'tazilah (who deny attributes - ta'teel)
-- And the Mushabbihah (who liken Allah to creation - tamtheel)
-- Affirmation of the reality of attributes without resemblance to creation
+- **Sharh al-Aqeedah al-Wasitiyyah** by Shaykh Muhammad ibn Salih al-Uthaymeen, a detailed two-volume work.[^18]
+- **Sharh al-Aqeedah al-Wasitiyyah** by Shaykh Salih al-Fawzan.[^16]
+- **Sharh al-Aqeedah al-Wasitiyyah** by Shaykh Abd al-Razzaq al-Badr.
+- **Sharh al-Aqeedah al-Wasitiyyah** by Shaykh Muhammad Khalil al-Harras (available from IslamHouse).[^19]
+- Explanations by Shaykh Abd al-Muhsin al-Qasim, Shaykh Abd al-Rahman al-Barrak, Shaykh Yusuf al-Ghafis, and Shaykh Muhammad ibn Ibrahim Al-Sheikh.
+- Historical works: *Al-Tanbihat as-Sunniyyah* by Abd al-Aziz al-Rashid and *The System of Al-Aqidah Al-Wasitiyyah* by Ibn Adwan al-Ruzayni.[^14]
 
-**Other Key Doctrines:**
-- The Qur'an is the uncreated Speech of Allah
-- Allah is above His Throne (Istiwa) in a way that befits His Majesty
-- Allah is above the heavens, separate from His creation
-- Belief in seeing Allah in the Hereafter (Ru'yah)
-- Intercession (Shafa'ah) is only by Allah's permission
-- The Companions are all trustworthy and righteous
-- Love for the Prophet's family without exaggeration
-- Rejection of innovations (bid'ah) in religion
+### 3.6 Salafi significance
 
-**Sources:**
-- https://spubs.com/sps/sp.cfm?articleID=AQD040003&articlePages=3&subsecID=AQD04
-- https://openmaktaba.com/aqeedah-wasitiyyah/
-- http://spubs.com/SPS/sp.cfm?articleID=AQD040004&articlePages=3&subsecID=AQD04
+Shaykh al-Islam's book received immediate recognition. Al-Dhahabi said: "There was an agreement... that Al-Aqeedah Al-Waasitiyyah is a book of Salafi Creed and a good book." Ibn Rajab said: "There was agreement that the book is a Sunni Salafi Aqeedah book."[^20]
 
-### 5. Major Commentaries/Explanations (Shuruh) by Contemporary Salafi Scholars
+Ibn Taymiyyah himself was so confident that the book was purely the creed of the Salaf that he challenged his opponents:
 
-**1. Sharh al-Aqeedah al-Wasitiyyah**
-- **Author:** Shaykh Muhammad ibn Salih al-Uthaymin (d. 1421 AH / 2001 CE)
-- **Description:** A comprehensive explanation known for clarity and systematic approach
-- **English Translation:** Available from Sunnah Sak and other publishers
-- **Source:** https://sunnahsak.com/product/explanation-of-al-aqidah-al-wasitiyyah-sheikh-muhammad-salih-ibn-al-uthaymin/
+> "I give you three years to read this book and bring out from it a single letter that is not from the speech of the pious predecessors... if one brings a single letter from anyone amongst the first three generations, I will recant."[^20]
 
-**2. Sharh al-Aqeedah al-Wasitiyyah**
-- **Author:** Shaykh Salih al-Fawzan (b. 1354 AH / 1935 CE)
-- **Description:** A simplified and comprehensive explanation based on the methodology of the righteous predecessors
-- **Publisher:** Dar-us-Salam, Dar Makkah International
-- **Pages:** 173 (Arabic)
-- **Source:** https://salafibookstore.com/product/sharh-al-aqeedah-al-wasitiyyah-fawzan/
-
-**3. Sharh al-Aqeedah al-Wasitiyyah**
-- **Author:** Shaykh Abd al-Razzaq ibn Abd al-Muhsin al-Badr (b. 1397 AH / 1977 CE)
-- **Source:** https://alfiqh.net/%d8%b4%d8%b1%d8%ad-%d8%a7%d9%84%d9%88%d8%a7%d8%b3%d8%b7%d9%8a%d8%a9-%d8%b9%d8%a7%d9%85-1432%d9%87%d9%80-%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b1%d8%b2%d8%a7%d9%82-%d8%a7%d9%84%d8%a8%d8%af%d8%b1/
-
-**4. Explanation by Shaykh Muhammad Khalil Harras**
-- **Source:** https://www.noor-book.com/en/ebook-%D8%B4%D8%B1%D8%AD-%D8%A7%D9%84%D8%B9%D9%82%D9%8A%D8%AF%D9%87-%D8%A7%D9%84%D9%88%D8%A7%D8%B3%D8%B7%D9%8A%D9%87--pdf
-
-**5. Explanation by Shaykh Abdul Muhsin al-Qasim**
-
-**6. Explanation by Shaykh Abdul Rahman al-Barrak**
-
-**7. Explanation by Shaykh Yusuf al-Ghafis**
-
-**8. Explanation by Shaykh Muhammad ibn Ibrahim Al-Sheikh**
-
-**Historical Commentaries:**
-- Al-Tanbihat al-Sunniyyah by Abdul Aziz al-Rashid
-- The System of Al-Aqidah Al-Wasitiyyah by Ibn Adwan al-Ruzayni
-
-**Sources:**
-- https://en.wikipedia.org/wiki/Al-Aqidah_Al-Waasitiyyah
-- https://www.noor-book.com/en/ebook-%D8%B4%D8%B1%D8%AD-%D8%A7%D9%84%D8%B9%D9%82%D9%8A%D8%AF%D9%87-%D8%A7%D9%84%D9%88%D8%A7%D8%B3%D8%B7%D9%8A%D9%87--pdf
-
-### 6. Significance in Athari/Salafi Tradition
-
-Al-Aqeedah al-Wasitiyyah is:
-
-- **A foundational primer for orthodox Sunni creed** and Athari/Salafi theology
-- Considered relatively easy to understand compared to Ibn Taymiyyah's other works on creed
-- Highly praised by scholars throughout history:
-  - **Imam al-Dhahabi:** "A consensus has established that this creed is Salafi, good" (al-'Uqood ad-Durriyyah, pg. 262)
-  - **Hafidh Ibn Rajab:** "A consensus has established that this Aqidah is Sunni, Salafi" (adh-Dhayl 'ala Tabaqaat al-Hanaabilah, 2/396)
-  - **Shaykh as-Sa'di:** "Despite its conciseness and clarity, it includes all of what is obligatory to believe in from the foundations of Iman and the sound creed" (at-Tanbihaat al-Lateefah, pg. 6)
-- Ibn Taymiyyah stated: "I was eager in this Aqidah to follow the Quran and Sunnah" and "I did not bring forth except the Aqidah of the Salaf, all of them"
-- He challenged opponents: "I gave everyone who opposed me in anything of the Aqidah three years. If anyone came with a single letter from the three generations which the Prophet praised, which opposes what I mentioned, then I would retract from that"
-- Small in size (roughly 600 words) but blessed, encompassing most Aqidah issues a person needs to know
-- Has exerted enduring influence on Hanbali and later Salafi thought
-- Serves as a bulwark against speculative theology (kalam) in favor of unadulterated prophetic teachings
-- Commentaries by figures like Muhammad ibn Abdul Wahhab have amplified its role in reformist movements
-
-**Sources:**
-- https://torontodawah.com/the-value-of-shaykh-al-islaam-ibn-taymiyyahs-book-al-aqeedah-al-waasitiyyah-imaam-al-dhahabi-ibn-rajab-shaykh-abdur-rahmaan-as-sadee-and-shaykh-ahmed-al-najmee/
-- https://grokipedia.com/page/Al-Aqidah_Al-Waasitiyyah
-- https://worlddawah.com/aqeedah-al-wasitiyyah/
-
-### 7. Recommended English Translations/Editions
-
-**1. The Creed of Al-Wasitiyyah**
-- **Translator:** Abu Rumaysah
-- **Publisher:** Dar as-Sunnah Publishers
-- **Pages:** 176
-- **Source:** https://darassunnah.com/products/the-creed-of-al-wasitiyyah-by-shaykhu-l-islam-ibn-taymiyyah-d-728h
-
-**2. The Creed of Al-Wāsitiyyah**
-- **Translator:** Abu Rumaysah
-- **Publisher:** Dar Al Athari
-- **Pages:** 176
-- **Source:** https://daralathari.com/products/the-creed-of-al-wasitiyyah
-
-**3. Al Aqeedah Al Wasitiyyah - With English Translation (2 Volumes)**
-- **Translator:** Aisha Altaf
-- **Publisher:** Al Huda Publications
-- **Pages:** 111
-- **ISBN:** 978-969-690-027-6
-- **Source:** https://dawahbooks.com.pk/products/al-aqeedah-al-wasitiyyah-with-english-translation-2-volumes
-
-**4. Waasitiyyah: The Classic Text on Basic Islamic Beliefs**
-- **Translator:** Moosaa Richardson
-- **Publisher:** Sunnah Publishing Store
-- **Description:** Workbook with fully-voweled Arabic text, English translation, split over 100 lessons, complete Arabic manuscript, isnaad (chain of transmission)
-- **Source:** https://store.sunnahpublishing.net/product/waasitiyyah-the-classic-text-on-basic-islamic-beliefs/
-
-**5. Principles of Islamic Faith (Al-Aqidah Al-Wasitiyah)**
-- **Translator:** Assas Nimer Busool
-- **Source:** https://www.emaanlibrary.com/wp-content/uploads/2017/11/AqeedahAl-wasitiyya-by-Ibn-Taimiyah.pdf
-
-**6. Sharh Al-Aqeedat Wasitiyah (Creed Explained)**
-- **Author:** Ibn Taymiyyah (with commentary)
-- **Translator:** Muhammad Rafiq Khan
-- **Publisher:** Dar-us-Salam
-- **Pages:** 222
-- **Source:** https://dar-us-salam.com/english/aqidah-creed/010-sharh-al-aqeedat-wasitiyah-explanation-of-the-creed.html
+The work remains a standard text for the creed of Ahl al-Sunnah wal-Jama'ah.
 
 ---
 
-## ATHARI/SALAFI THEOLOGICAL METHODOLOGY
+## 4. The Common Athari/Salafi Methodology
 
-### Tawhid and Its Three Categories
+Both books teach the same methodology:
 
-The Athari/Salafi methodology divides Tawhid into three fundamental categories, derived from inductive study (istiqra') of Qur'anic verses and prophetic hadith:
-
-**1. Tawheed al-Rububiyyah (Lordship)**
-- Definition: Singling out Allah with His actions (creating, sustaining, giving life, causing death, disposing of affairs)
-- Most people, including polytheists of Makkah, affirmed this type
-- Alone is insufficient for salvation - must be combined with Tawheed al-Uluhiyyah
-
-**2. Tawheed al-Uluhiyyah (Worship)**
-- Definition: Singling out Allah with the servants' actions (worship acts: du'a, sacrifice, vow, trust, fear, hope, etc.)
-- This is the type with which the Messengers were sent
-- Most of what the Messengers focused on correcting was this type
-- The polytheists went astray specifically in this category
-
-**3. Tawheed al-Asma wa al-Sifat (Names and Attributes)**
-- Definition: Singling out Allah with what He has named Himself or described Himself with in His Book or upon the tongue of His Messenger
-- Affirming whatever Allah has affirmed without distortion, denial, or asking "how"
-- Not believing His attributes are like the attributes of His creatures
-
-**Sources:**
-- https://www.islamweb.net/en/fatwa/16146/categories-of-tawheed-islamic-monotheism
-- https://www.askislampedia.com/documents/10157/200600/tawheed+by+uthaymeen.pdf
-- https://www.troid.org/wp-content/uploads/pdf/MR_kitaabattawheed.pdf
-- https://bookslibrary.com/read/523850069
-
-### Affirmation of Allah's Names and Attributes (Bil Kayf)
-
-**The Salafi Methodology:**
-> "And it is from Eeman in Allaah to have Eeman in what Allaah has described Himself with in His Book and in what His Messenger (sallallaahu alayhi wasallam) has described Him with, without changing the original meaning [Tahreef], without denying such attributes for Allaah [Ta'teel], without enquiring into their true nature [Takyeef] and without likening [His attributes] to those of the creation [Tamtheel]."
-
-**Meaning of "Bila Kayf" (Without How):**
-- The Salaf affirm the apparent meanings of the texts
-- They delegate knowledge of the modality (kayfiyya) to Allah alone
-- They do not ask "how" the attributes are
-- This does not mean denying the reality of the attributes
-- Imam al-Bukhari's theological methodology is described as "Ithbat bilā Kayf" (affirmation without how)
-
-**Statements of the Salaf:**
-- Malik ibn Anas, Sufyan al-Thawri, Ibn Uyaynah, and Abdullah ibn al-Mubarak said: "Pass them as they have come, without asking how (bila kayfa)"
-- Imam Ahmad said: "We believe in the hadiths regarding this matter, and we affirm them, and we pass them on as they have come without asking how (bi-lā kayf)"
-
-**Sources:**
-- https://thewayofsalafiyyah.com/2015/12/02/the-meaning-of-the-pious-salafs-saying-bila-kayf-in-regards-to-allahs-attributes/
-- https://iqs.org.in/blog/2025/03/28/understanding-salaf/
-- https://salafipublications.com/sps/sp.cfm?subsecID=AQD03&articleID=AQD030009&articlePages=1
-- http://journal.uinsgd.ac.id/index.php/Diroyah/article/view/54296
-
-### Rejection of Bid'ah (Religious Innovation)
-
-**Athari/Salafi Position:**
-- All innovations in religion (bid'ah) are rejected
-- Only what is proven from Qur'an and authentic Sunnah is accepted
-- The Prophet said: "Every innovation is misguidance, and every misguidance is in the Fire"
-- Kitab at-Tawheed extensively warns against bid'ah alongside shirk
-- Bid'ah impairs perfect or desirable belief even if not major shirk
-
-**Sources:**
-- Kitab at-Tawheed (various chapters on bid'ah)
-- http://spubs.com/SPS/sp.cfm?loadpage=displaysection.cfm&secID=TAW
-
-### Opposition to Ta'weel, Tahreef, Tamtheel, Tashbeeh
-
-**Definitions:**
-
-**1. Tahreef (Distortion)**
-- Linguistically: To change, alter, or turn something away from its true position
-- Technically: Two types:
-  - Changing the words themselves
-  - Changing the meaning - refraining from accepting the established meaning and giving the word a different meaning
-- Example: Interpreting Allah's "Hand" metaphorically to mean "power" or "blessing"
-
-**2. Ta'teel (Negation/Vacating)**
-- Linguistically: To leave and vacate
-- Technically: Negation of Allah's attributes and denial of their reality
-- Two types:
-  - Complete Ta'teel: Like the Jahmiyyah who deny the attributes and some deny the names
-  - Partial Ta'teel: Like the Ash'ariyyah who deny some of the attributes
-- Tahreef includes Ta'teel, but Ta'teel does not necessarily include Tahreef
-
-**3. Takyeef (Asking "How")**
-- To try to describe "how" an Attribute is
-- To say: "How Allah's Hand is, is like this and that"
-- Differs from Tamtheel: Takyeef is describing how something is (with or without resemblance), while Tamtheel specifically indicates likeness
-
-**4. Tamtheel (Likening/Resemblance)**
-- To believe that the Attributes of Allah are like the attributes of His creatures
-- To make a likeness between Allah and creation
-- Synonymous with Tashbeeh in many contexts
-
-**The Salafi Position:**
-- Affirm whatever Allah affirmed for Himself without Tahreef, Ta'teel, Takyeef, or Tamtheel
-- Negate whatever Allah negated from Himself
-- When negating attributes of deficiency, affirm the opposite in the most perfect sense
-- This is the middle course between the People of Ta'teel (negators) and the People of Tamtheel (likeners)
-
-**Sources:**
-- http://spubs.com/SPS/sp.cfm?articleID=AQD040004&articlePages=3&subsecID=AQD04
-- http://www.spubs.com/sps/sp.cfm?articleID=AQD070003&articlePages=1&subsecID=AQD07
-- https://openmaktaba.com/aqeedah-wasitiyyah/
-- https://www.asharis.com/creed/articles/uhskr-an-introduction-to-the-methodology-of-ahl-us-sunnah-towards-allaahs-names-and-at.cfm
-
-### The Wasatiyyah (Middle Path)
-
-**The Middle Path in Aqidah:**
-The Athari/Salafi methodology is described as the "middle path" (wasatiyyah) between two extremes:
-
-**1. Between Ta'teel and Tamtheel:**
-- Ta'teel (extreme negation): The Jahmiyyah and Mu'tazilah who deny Allah's attributes
-- Tamtheel (extreme likening): Those who liken Allah to His creation
-- The middle path: Affirm the attributes without resemblance to creation
-
-**2. Between Hulooliyyah/Ittihadiyyah and Jahmiyyah:**
-- Hulooliyyah/Ittihadiyyah: Assert that Allah is everywhere, merged with His creation
-- Jahmiyyah: Deny Allah's existence within or outside the universe
-- The middle path: Affirm Allah is above the Throne, separate from His creation
-
-**3. Between Ghuluw (Excess) and Jafw (Neglect):**
-- In love of the Prophet and righteous people
-- In matters of religion generally
-
-**Ibn Taymiyyah on the Middle Path:**
-> "Their approach is to negate whatever Allah has negated... This approach is the required path to take. It is the middle course between the People of Ta'teel and the People of Tamtheel."
-
-**Sources:**
-- https://d1.islamhouse.com/data/en/ih_books/single/en_Explanation_of_a_Summary_of_Aqeedat_Hamawiyyah.pdf
-- https://doi.org/10.47191/ijsshr/v7-i07-133
-- https://spubs.com/sps/sp.cfm?articleID=AQD040003&articlePages=3&subsecID=AQD04
+1. **Return to the Qur'an and the authentic Sunnah** as the only sources of creed and worship.
+2. **Follow the understanding of the Salaf** in the three categories of Tawheed.
+3. **Affirm Allah's Names and Attributes** without Tahreef, Ta'teel, Takyeef or Tamtheel.
+4. **Avoid the extremes**: the ta'teel of the Jahmiyyah and the tamtheel of the Mushabbihah.
+5. **Reject shirk and bid'ah**, whether in belief or practice.
+6. **Hold to the middle path** (*wasatiyyah*) in every matter of creed.
 
 ---
 
-## CONCLUSION
+## 5. Conclusion
 
-Both Kitab at-Tawheed by Imam Muhammad ibn Abdul Wahhab and Al-Aqeedah al-Wasitiyyah by Shaykh al-Islam Ibn Taymiyyah represent foundational texts in the Athari/Salafi tradition. They teach a methodology of:
-
-1. **Strict adherence to Qur'an and authentic Sunnah**
-2. **Following the understanding of the Salaf al-Salih (pious predecessors)**
-3. **Affirming Allah's Names and Attributes without distortion, denial, asking how, or likening to creation**
-4. **Categorizing Tawhid into Rububiyyah, Uluhiyyah, and Asma wa Sifat**
-5. **Rejecting all forms of shirk (major and minor) and bid'ah (innovation)**
-6. **Following the middle path (wasatiyyah) between theological extremes**
-
-These texts continue to be studied extensively through the commentaries of contemporary Salafi scholars such as Ibn Uthaymin, Salih al-Fawzan, Abd al-Razzaq al-Badr, and others, preserving the Athari creed for new generations of Muslims.
+*Kitab at-Tawheed* and *Al-Aqeedah al-Wasitiyyah* are two pillars of Salafi creed. The first exposes the many forms of shirk that enter into Tawheed; the second gives a concise, evidence-based creed of Ahl al-Sunnah wal-Jama'ah. Both are built on the Qur'an and Sunnah, both call to the pure Tawheed of Allah in His Lordship, His right to worship, and His Names and Attributes, and both continue to be explained by the major scholars of Ahl al-Sunnah.
 
 ---
 
-## BIBLIOGRAPHY OF KEY SOURCES
+## Sources
 
-**Salafi/Athari Scholarly Sites:**
-- Salafi Publications (spubs.com): http://spubs.com/
-- Salafi Publications (salafipublications.com): https://salafipublications.com/
-- SalafiTalk.Net: https://www.salafitalk.net/
-- IslamWeb: https://www.islamweb.net/
-- TROID: https://www.troid.org/
-- Abu Khadeejah: https://abukhadeejah.com/
-- Dar Al Athari: https://daralathari.com/
-- Salafi Bookstore UK: https://salafibookstore.com/
+[^1]: AbdurRahman.org, "The Characteristics of the Saved Group — Shaykh Ibn Uthaymeen," https://abdurrahman.org/2015/01/09/most-distinguished-qualities-of-the-saved-group-shaykh-ibn-uthaymeen/
 
-**Publisher Sites:**
-- Dar-us-Salam: https://dar-us-salam.com/
-- International Islamic Publishing House (IIPH): https://iiph.com/
-- Dar as-Sunnah: https://darassunnah.com/
-- Sunnah Publishing: https://store.sunnahpublishing.net/
+[^2]: Abu Khadeejah, "Part 1. Kitab at-Tawhid: An amazing authorship and journey into the history of Saudi Arabia and Muhammad Ibn Abdul-Wahhab," https://abukhadeejah.com/kitab-at-tawhid-an-amazing-authorship-and-journey-into-the-history-of-saudi-arabia-and-muhammad-ibn-abdul-wahhab-part-1/
 
-**Academic Sources:**
-- Wikipedia articles on both texts and authors
-- Academic papers on Salafism and Tawhid
-- Journal articles on Athari methodology
+[^3]: Abu Khadeejah, "Part 2: Kitab at-Tawhid... the Saudi link with Muhammad Ibn Abdul-Wahhab," https://abukhadeejah.com/kitab-at-tawhid-an-amazing-authorship-and-journey-into-the-history-of-the-saudi-link-with-muhammad-ibn-abdul-wahhab-part-2/
 
-**Audio/Video Resources:**
-- EmaanLibrary: https://www.emaanlibrary.com/
-- Midad: https://midad.com/
-- BinBaz.org.sa: https://binbaz.org.sa/
+[^4]: AbdurRahman.org, "Kitaab at-Tawheed" English PDF, https://abdurrahman.org/wp-content/uploads/2019/06/kt-english.pdf
 
----
+[^5]: Salafi Publications, "A Primer on Tawheed," http://spubs.com/SPS/sp.cfm?subsecID=TAW01&articleID=TAW010002&pfriend=
 
-*Report compiled based on authoritative Athari/Salafi sources as requested. All claims are cited to their source URLs.*
+[^6]: Sunnah.com, Sahih al-Bukhari 7373, https://hadithunlocked.com/bukhari:7373; Sahih Muslim 30c, https://hadithunlocked.com/muslim:30c
+
+[^7]: darpdfs.org, Salih al-Fawzan, *An Explanation of the Six Principles*, https://darpdfs.org/wp-content/uploads/2023/12/An-Explanation-Of-The-Six-Principles-Sh.-Salih-al-Fawzan.pdf
+
+[^8]: Sunnah.com, Musnad Ahmad 1064, https://hadithunlocked.com/ahmad:1064; Sahih Muslim 2115, https://hadithcollection.com/sahihmuslim/sahih-muslim-book-04-prayer/sahih-muslim-book-004-hadith-number-2115
+
+[^9]: Abu Khadeejah, "The First Explanation of Kitaab at-Tahweed by Shaikh Sulaimaan b. Abdullaah Aal ash-Shaikh," https://abukhadeejah.com/the-first-explanation-of-kitaab-at-tahweed-by-shaikh-sulaimaan-b-abdullaah-aal-ash-shaikh/
+
+[^10]: AbdurRahman.org, "Tawheed" category, Ibn Baz on the foundations of Islam, https://abdurrahman.org/category/islam/tawheed/
+
+[^11]: Salafi Publications, "Aqeedatul-Waasitiyyah - The Text," page 1, http://spubs.com/SPS/sp.cfm?subsecID=AQD04&articleID=AQD040003&articlePages=1
+
+[^12]: Salafi Publications, "Aqeedatul-Waasitiyyah - The Text," page 2, http://spubs.com/SPS/sp.cfm?subsecID=AQD04&articleID=AQD040003&articlePages=2
+
+[^13]: Salafi Publications, "Aqeedatul-Waasitiyyah - The Text," page 3, http://spubs.com/SPS/sp.cfm?subsecID=AQD04&articleID=AQD040003&articlePages=3
+
+[^14]: Salafi Dawah Manchester, "Two Stories – One About Al-Aqeedah Al-Waasitiyyah and The Other About Kitaab At-Tawheed," https://salafidawahmanchester.com/2021/08/26/two-stories-one-about-al-aqeedah-al-waasitiyyah-and-the-other-about-kitaab-at-tawheed/
+
+[^15]: Salafi Publications, "Aqeedatul-Waasitiyyah - The Text," page 7, http://spubs.com/SPS/sp.cfm?subsecID=AQD04&articleID=AQD040003&articlePages=7
+
+[^16]: Salafi Publications, "How to Believe in the Attributes of Allaah" (Sharh Aqeedat ul-Waasitiyyah by Salih al-Fawzan), http://spubs.com/SPS/sp.cfm?articleID=AQD030009&articlePages=1&subsecID=AQD07
+
+[^17]: AbdurRahman.org, "Explanation of the Ma'iyyah of Allah — Ibn Baaz," https://abdurrahman.org/2011/06/24/explanation-of-the-maiyyah-i-e-allaah-being-with-the-creation-of-allaah/
+
+[^18]: AbdurRahman.org, "Aqeedah al-Wasitiyyah" category, https://abdurrahman.org/category/book-study/aqeedah-al-wasitiyyah/
+
+[^19]: IslamHouse, "Explaining AlAqida Al-Wasitiyah" by Muhammad Khaleel Al-Harras, https://islamhouse.com/en/books/956/
+
+[^20]: Salafi Dawah Manchester, "Two Stories..." (al-Dhahabi, Ibn Rajab, Ibn Taymiyyah), https://salafidawahmanchester.com/2021/08/26/two-stories-one-about-al-aqeedah-al-waasitiyyah-and-the-other-about-kitaab-at-tawheed/

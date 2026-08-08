@@ -1,505 +1,628 @@
 # How to Pray Salah — A Short, Easy Guide
 
-> Salah is the meeting between you and Allah. Five times a day, the King of all kings invites you to stand before Him. Treat it the way you would treat a meeting with the president of your country — except Allah is greater than any president, any king, anyone. You would not slouch, yawn, or scroll your phone in front of a president. So how about in front of the Lord of the worlds? That focus and reverence is called **khushu'**, and it is the soul of the prayer.
-
-This guide is based primarily on the book **"Sifat Salat an-Nabi ﷺ" (The Prophet's Prayer Described)** by **Shaykh Muhammad Nasir al-Din al-Albani** (may Allah have mercy on him), and the fiqh of **Shaykh Muhammad ibn Salih al-Uthaymin**, **Shaykh Abd al-Aziz ibn Baz**, and **Shaykh Salih al-Fawzan**.
+> This guide is based on the works of Imaam Muhammad bin ‘Abdil-Wahhaab (*Shuroot as-Salaat wa Arkaanuhaa wa Waajibaatuhaa*), Shaykh Muhammad Naasirud-Deen al-Albaani (*Sifat Salat an-Nabi* and *The Abridgement of the Prophet’s Prayer Described*), Shaykh ‘Abd al-‘Azeez ibn Baaz, Shaykh Muhammad ibn Saalih al-‘Uthaymeen, and Shaykh Saalih al-Fawzaan.
 
 ---
 
-## First: Three Terms You Need to Know
+## 1. Why Salah Matters
 
-Every action in salah falls into one of three categories:
+The Prophet (peace and blessings be upon him) said:
+
+> “Pray as you have seen me praying.”
+
+**References:** Sahih al-Bukhari (631, 6008, 7246); Sahih Muslim (674) — Sahih. (See https://hadithunlocked.com/bukhari:6008)
+
+The prayer is the first pillar of Islam after the testimony of faith. IslamQA states:
+
+> “The importance of the prayer in Islam cannot be understated. It is the first pillar of Islam that the Prophet (peace and blessings be upon him) mentioned after mentioning the testimony of faith, by which one becomes a Muslim. It was made obligatory upon all the prophets and for all peoples.”
+
+**Source:** IslamQA, Fatwa 12305 — https://islamqa.info/en/answers/12305
+
+The Messenger of Allah (peace and blessings be upon him) also said:
+
+> “The first matter that the slave will be brought to account for on the Day of Judgment is the prayer. If it is sound, then the rest of his deeds will be sound. And if it is bad, then the rest of his deeds will be bad.”
+
+**Source:** Recorded by al-Tabarani; classed as sahih by al-Albani, *Sahih al-Jami’*, 1/503.
+
+And Imaam Ibn Baaz reported:
+
+> “The Prophet (peace be upon him) said, ‘Verily, between a man and Shirk and Kufr is the negligence of prayer.’ (Muslim). He also said, ‘The covenant that distinguishes between us and them (the hypocrites) is Salah. Anyone who abandons it is a Kafir.’ (Ahmad, Abu Dawud, al-Tirmidhi, al-Nasa’i and Ibn Majah with a sahih chain).”
+
+**Source:** https://abdurrahman.org/category/islam/kufr-disbelief/
+
+Allah says in the Qur’an:
+
+> “Indeed, prayer has been decreed upon the believers at specified times.” *(Quran, Surah An-Nisa 4:103)*
+
+> “Verily, the prayer keeps one from the great sins and evil deeds.” *(Quran, Surah Al-‘Ankabut 29:45)*
+
+> “Guard strictly your prayers, especially the middle prayer…” *(Quran, Surah Al-Baqarah 2:238)*
+
+---
+
+## 2. Three Terms You Need to Know
+
+Shaykh al-Albaani defined these terms in *The Abridgement of the Prophet’s Prayer Described*:
+
+> “**The pillar (rukn)** is that which is essential for completion of the affair that it falls within, being such that its absence necessitates that the action depending upon it is nullified. An example is the bowing (rukoo’) in the Prayer – it is a pillar of it, and if it is absent then the Prayer is nullified.”
+
+> “**The condition (shart)** is like the pillar except that it is something outside the action that is dependent upon it. An example is the ablution (wudoo) for the Prayer. Prayer is not correct without it.”
+
+> “**The obligation (waajib)** is that which has an established command in the Book or the Sunnah, but there is no proof that it is a pillar or a condition. One who carries it out is rewarded, and one who leaves it without valid excuse is punished.”
+
+> “**The sunnah** is an action of worship that the Prophet (peace and blessings be upon him) continually performed, either always doing it or usually doing it, but which he did not command in a manner causing it to be an obligation. It is such that one who carries it out is rewarded, but one who leaves it out is not punished or blameworthy.”
+
+**Source:** https://abdurrahman.org/2016/07/23/the-abridgement-of-the-prophets-prayer-described/
 
 | Term | Meaning | If you miss it |
 |------|---------|----------------|
-| **Fard / Rukn (فرض / ركن)** | Pillar — the prayer is invalid without it. | The prayer must be repeated. |
-| **Wajib (واجب)** | Obligatory — serious, but slightly below a pillar. | Fixed by performing *Sujud as-Sahw* (the forgetfulness prostration). |
-| **Sunnah (سنة)** | Recommended — the way the Prophet ﷺ did it. | The prayer is still valid, but you lose reward. |
-
-**Don't panic about the differences at first.** Learn the prayer first. The distinctions become natural with practice.
+| **Pillar (rukn / fard)** | The prayer is invalid without it. | The prayer must be repeated. |
+| **Obligation (waajib)** | Required; serious. | Fixed by performing *Sujud as-Sahw* (the forgetfulness prostration). |
+| **Sunnah** | The way the Prophet (peace be upon him) did it. | The prayer is still valid, but you lose reward. |
 
 ---
 
-## Second: The Rule About Arabic
+## 3. Conditions (Shurut) of Salah
 
-**The Quran and the prescribed adhkar of salah must be recited in Arabic.** This is not optional, and it is the same for every Muslim on earth, whether they are in Tokyo, Lagos, or Buenos Aires. This unity is one of the beauties of Islam.
+A condition is something required *before* the prayer begins for it to be valid. Imaam Muhammad bin ‘Abdil-Wahhaab lists **nine conditions** in *Shuroot as-Salaat wa Arkaanuhaa wa Waajibaatuhaa*:
 
-**Shaykh al-Albani** stated in *"The Abridgement of the Prophet's Prayer Described"* (Section 50):
-> "It is obligatory upon even those who do not know Arabic that they memorize [Surah al-Fatihah]."
+1. **Islam**
+2. **Sanity and consciousness**
+3. **Reaching the age of maturity / discernment**
+4. **Having wudoo’ (ablution), and ghusl if required**
+5. **Removal of impurities from body, clothes and place of prayer**
+6. **Covering the ‘awrah**
+7. **The prayer time having entered**
+8. **Facing the Qiblah**
+9. **Intention in the heart**
 
-**On supplications (du'a) in a language other than Arabic:**
-According to the scholars (Islamweb, Fatwa 90869), based on the Shafi'i and Hanbali schools:
-> "The most correct opinion is that it is permissible to say the authentic supplications in prayer in a language other than Arabic for whoever is unable to supplicate in Arabic. However, it is not permissible to do so for someone who is able to supplicate in Arabic."
+**Source:** https://abdurrahman.org/2011/12/03/the-conditionsshuroot-pillarsarkaan-and-requirementswaajibaat-of-the-prayer/
 
-**On the Tashahhud and Salawat in another language:**
-> "The Fuqaha differ about the reading of Tashahud and the prayers upon the Prophet while in prayer in language other than Arabic. Some of them say that it is permissible to say them in another language for whoever is unable to say them in Arabic, but it is not allowed for someone who can... If one is able to say them in Arabic, then it is better and safer. If not, then there is no harm to say them in English." (Islamweb, Fatwa 88268)
+### The intention
 
-**Summary:**
-- The **Quran (Al-Fatihah and any surah)** MUST be recited in Arabic — this is consensus.
-- The **adhkar of ruku', sujud, etc.** should be learned in Arabic.
-- The **Tashahhud and Salawat** should be in Arabic if able; if genuinely unable, some scholars permit another language temporarily.
-- **No Salafi scholar has stated that the entire prayer can be performed in English translation.** The goal is to learn the Arabic as quickly as possible.
+Shaykh al-Albaani said:
 
-**However:**
-- **It is about effort, not perfection.** Allah does not demand that you recite flawlessly on day one. He demands that you try. The Prophet ﷺ said: *"The most beloved deeds to Allah are those done consistently, even if small."* (Sahih al-Bukhari, Hadith 6464; Sahih Muslim, Hadith 783)
-- A stumbling prayer said with a sincere heart is more beloved to Allah than a flawless prayer said with an absent mind.
-- Over time, you will memorize everything. But until then, **do your best and keep praying.**
+> “The person who is going to pray must have in his heart the intention to pray that particular Prayer, be it the Obligatory Zuhr or ‘Asr Prayer, or the sunnah Prayer’s for them, for example. This is a condition or a pillar. As for expressing that upon the tongue, then it is an innovation (bid’ah), contrary to the sunnah.”
 
----
+**Source:** https://abdurrahman.org/2016/07/23/the-abridgement-of-the-prophets-prayer-described/
 
-## Third: Before You Pray — The Conditions (Shurut)
+IslamQA also notes:
 
-According to **Shaykh Salih al-Fawzan** in *"Al-Mulakhkhas al-Fiqhi"* and **Shaykh Ibn Baz**, the conditions of salah are:
+> “According to the consensus of scholars, the intention of doing wudu or ghusl, of praying, fasting, paying zakah, and other acts of worship does not need to be uttered verbally. Rather the place of intention is the heart.”
 
-1. **Wudu (ablution)**
-   - Proof: *"O you who believe, when you rise up for prayer, wash your faces and your hands up to the elbows, wipe over your heads, and wash your feet up to the ankles."* (Quran, Surah Al-Ma'idah 5:6)
-   - Proof: The Prophet ﷺ said: *"No prayer is accepted without purification."* (Jami at-Tirmidhi — graded Sahih by al-Albani)
-
-2. **Facing the Qibla**
-   - Proof: *"So turn your face toward al-Masjid al-Haram."* (Quran, Surah Al-Baqarah 2:144)
-   - Proof: *"When you stand for prayer, perform ablution perfectly, then face the qiblah."* (Sahih al-Bukhari, Hadith 756)
-
-3. **Covering the awrah**
-   - Proof: *"O children of Adam, take your adornment at every masjid."* (Quran, Surah Al-A'raf 7:31)
-   - Proof: The Prophet ﷺ said: *"None of you should pray in a single garment that does not cover his shoulders."* (Sahih al-Bukhari; Sahih Muslim)
-   - **Man's awrah:** from navel to knees. The shoulders must also be covered during prayer (majority of scholars).
-
-4. **Intention (niyyah)**
-   - Proof: *"Actions are but by intentions, and every man shall have only that which he intended."* (Sahih al-Bukhari, Hadith 1; Sahih Muslim, Hadith 1907 — agreed upon)
-   - **Intention is in the heart, not spoken aloud** (al-Albani, Ibn Baz).
-
-5. **Time (the prayer time must have entered)**
-   - Proof: *"Indeed, prayer has been decreed upon the believers at specified times."* (Quran, Surah An-Nisa 4:103)
-   - Proof: The Prophet ﷺ said: *"The time of Zuhr is when the sun passes its zenith..."* (Sahih Muslim, Hadith 610-613)
-
-### Wudu (Ablution) — Steps
-1. Make the intention in the heart ("I intend to make wudu").
-2. Say **"Bismillah"** (بسم الله).
-3. Wash both hands up to the wrists (3x).
-4. Rinse the mouth (3x).
-5. Rinse the nose (3x).
-6. Wash the entire face (3x).
-7. Wash the right arm up to and including the elbow (3x), then the left arm (3x).
-8. Wipe the head with wet hands once (front to back, then back to front).
-9. Wipe the inside of the ears with the index fingers and the outside with the thumbs.
-10. Wash the right foot up to and including the ankle (3x), then the left foot (3x).
-
-**Things that break wudu:** using the bathroom, passing gas, deep sleep, vomiting a substantial amount.
+**Source:** https://islamqa.info/en/answers/13337
 
 ---
 
-## Fourth: The Prayer Itself — Step by Step
+## 4. Wudoo’ (Ablution)
 
-Below is one **rak'ah** (unit) of prayer. Most prayers are 2 or 4 rak'ahs. You repeat the core cycle for each rak'ah, with small differences at the end.
+The Qur’an says:
 
-### Position 1: Standing (Qiyam)
+> “O you who believe! When you intend to offer As-Salah, wash your faces and your hands (forearms) up to the elbows, rub (by passing wet hands over) your heads, and (wash) your feet up to the ankles…” *(Quran, Surah Al-Ma’idah 5:6)*
 
-```
-        (you)
-         |
-        /|\
-       / | \
-         |
-        / \
-```
+### Pillars of wudu
 
-Stand upright, facing the qibla, feet slightly apart, hands resting on the chest (right hand over left hand on the chest).
+IslamQA lists the six essential pillars:
 
-**Raise your hands to your ears (or shoulders) and say the opening Takbir:**
+1. Washing the face (including rinsing the mouth and nose).
+2. Washing the arms up to the elbows.
+3. Wiping the head.
+4. Washing the feet up to the ankles.
+5. Washing these parts in the proper order.
+6. Doing these actions consecutively, with no lengthy interruption.
 
-> **Arabic:** اللَّهُ أَكْبَر
-> **Transliteration:** *Allahu Akbar*
-> **Meaning:** Allah is the Greatest.
+**Source:** https://islamqa.info/en/answers/226422
 
-This is called **Takbirat al-Ihram** — the opening takbir. Once you say it, you have entered the prayer.
+### The complete Sunnah way of wudu
 
-**Proof:** The Prophet ﷺ said: *"The key to the prayer is Purification. That which makes outside actions forbidden is the takbeer, and that which causes outside actions to become permissible is the tasleem."* (Sunan Abi Dawud, Hadith 61; Jami at-Tirmidhi, Hadith 3; Sunan Ibn Majah, Hadith 275 — **graded Sahih by Shaykh al-Albani**, Sahih al-Jami' no. 576)
+IslamQA describes it as follows:
 
-**Raising the hands is a Sunnah:**
-Ibn Umar narrated: *"I saw the Messenger of Allah ﷺ when he said the opening takbir of the prayer, raise his hands until they were level with his shoulders."* (Sunan an-Nasa'i, Hadith 876; Sunan Abi Dawud, Hadith 761 — Sahih)
+> “With regard to how wudu is to be done, there are two ways; the complete and the acceptable way.
+>
+> 1 – Obligatory parts of wudu: washing the face completely once, which includes rinsing the mouth and nose; washing the arms up to the elbows, once; wiping the entire head, including the ears; washing the feet up to the ankles, once.
+>
+> 2 – Mustahabb parts of wudu: having the intention in the heart; saying Bismillah; washing the hands three times; rinsing the mouth three times; rinsing the nose three times; washing the face three times; washing the arms up to the elbows three times; wiping the head and ears once with fresh water; washing the feet three times up to the ankles.”
 
-**Placing the right hand over the left on the chest is a Sunnah:**
-*"He used to place his right hand on his left hand."* (Sahih Muslim; Sunan Abi Dawud — Sahih)
+**Source:** https://islamqa.info/en/answers/11497
 
-**Then recite the opening supplication (du'a al-istiftah) — this is Sunnah:**
+### What to say after wudu
 
-According to Shaykh al-Albani, there are several authentic versions. The most common one (from Aishah, may Allah be pleased with her):
+The Prophet (peace and blessings be upon him) said:
 
-> **Arabic:** سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، وَتَبَارَكَ اسْمُكَ، وَتَعَالَى جَدُّكَ، وَلَا إِلَهَ غَيْرُكَ
+> “Whoever does wudu and does it properly and does it well, then he says, ‘Ashhadu an la ilaha ill-Allah wahdahu la sharika lah, wa ashhadu anna Muhammadan ‘abduhu wa rasuluhu,’ the gates of Paradise will be opened to him…”
+
+**Reference:** Muslim, al-Taharah, 345.
+
+### Things that nullify wudu
+
+Imaam Muhammad bin ‘Abdil-Wahhaab lists eight nullifiers:
+
+> “The things that nullify the ablution are eight: (1) Whatever comes out from the two private parts; (2) Any foul impure substance that comes out from the body; (3) Loss of consciousness (i.e. sleep/insanity); (4) Touching a woman with sexual desire; (5) Touching one’s private part with the hand, whether it is the frontal or rear private part; (6) Eating the meat of camels; (7) Bathing a deceased person; and (8) Apostating from Islam, may Allah protect us from that!”
+
+**Source:** https://abdurrahman.org/2014/10/01/the-conditions-pillars-and-requirements-of-the-prayer-imaam-muhammad-bin-abdil-wahhaab/
+
+Ibn Baaz also stated:
+
+> “كل ما يخرج من الفرجين من السوائل فهو ينقض الوضوء، بحق الرجل والمرأة… every liquid that exits from the two private parts nullifies wudu, for both men and women.”
+
+**Source:** https://binbaz.org.sa/categories/fiqhi/15?page=1
+
+### Ghusl (full bath)
+
+If you are in a state of major ritual impurity (janabah), you must perform ghusl before praying. Allah says:
+
+> “If you are in a state of Janabah, purify yourselves (bathe your whole body).” *(Quran, Surah Al-Ma’idah 5:6)*
+
+**Source:** https://islamqa.info/en/answers/10672
+
+---
+
+## 5. The Pillars (Arkan), Obligations (Wajibat) and Sunan of Salah
+
+### The 14 pillars
+
+Imaam Muhammad bin ‘Abdil-Wahhaab states in *Shuroot as-Salaat*:
+
+> “The pillars are that which if one fails to perform any of them out of forgetfulness or intentionally, his prayer is rendered invalid because of his abandoning it. Sujud as-Sahw will not make up for someone neglecting one of these pillars – even out of forgetfulness.”
+
+The **14 pillars** are:
+
+1. Standing, if one has the ability to do so
+2. The opening Takbeer
+3. Reciting Surah al-Fatihah in every rak’ah
+4. Bowing
+5. Rising from bowing
+6. Prostrating on all seven limbs
+7. Erecting oneself from prostration
+8. Sitting between the two prostrations
+9. Remaining tranquil in each pillar
+10. Maintaining the correct sequence
+11. The final Tashahhud
+12. Sitting for the final Tashahhud
+13. Sending Salaat upon the Prophet
+14. The final two Tasleems
+
+**Source:** https://abdurrahman.org/2011/12/03/the-conditionsshuroot-pillarsarkaan-and-requirementswaajibaat-of-the-prayer/
+
+### The 8 obligations
+
+> “The requirements are that which if one fails to perform any of them intentionally, his prayer is rendered invalid due to his abandoning it, but if he leaves any of them due to forgetfulness, he is obligated to perform the extra prostrations for forgetfulness.”
+
+The **8 obligations** are:
+
+1. All the takbeers except the opening one
+2. Saying “Subhaana Rabbiy al-‘Adheem” when bowing
+3. Saying “Sami’a Allaahu liman hamidah” (for the imam and one praying alone)
+4. Saying “Rabbanaa wa lakal-Hamd”
+5. Saying “Subhaana Rabbiy al-A’alaa” when prostrating
+6. Saying “Rabb Ighfir Lee” between the two prostrations
+7. The first Tashahhud
+8. Sitting for the first Tashahhud
+
+**Source:** https://abdurrahman.org/2011/12/03/the-conditionsshuroot-pillarsarkaan-and-requirementswaajibaat-of-the-prayer/
+
+### Main Sunan
+
+From *The Abridgement of the Prophet’s Prayer Described*:
+
+1. Raising the hands at the opening takbeer
+2. Placing right hand over left on the chest
+3. Looking at the place of prostration
+4. Reciting the opening supplication (du’aa al-istiftaah)
+5. Saying “Ameen” after al-Fatihah
+6. Reciting a surah after al-Fatihah in the first two rak’ahs
+7. Saying takbeers when moving between positions
+8. Repeating the tasbeeh three or more times in rukoo’ and sujood
+9. Placing hands on the knees with the back straight in rukoo’
+10. Sitting muftarishan (left foot flat, right foot upright) in tashahhud and between prostrations
+
+**Source:** https://abdurrahman.org/2016/07/23/the-abridgement-of-the-prophets-prayer-described/
+
+---
+
+## 6. The Prayer Step by Step
+
+This section walks through the actual performance of one rak’ah, based on *The Abridgement of the Prophet’s Prayer Described* by Shaykh al-Albaani (translated by Dawud Burbank) and IslamQA’s *Description of the Prophet’s Prayer*.
+
+### Before you begin
+
+Make wudu, cover your ‘awrah, face the Qiblah, and form the intention in your heart for the specific prayer you are about to pray.
+
+### Stand facing the Qiblah
+
+Shaykh al-Albaani said:
+
+> “If you stand, O Muslim, to pray – then face the direction of the Ka’bah, wherever you are, in obligatory Prayers and optional Prayers. This is one of the pillars of the Prayer, such that the Prayer is not valid without it.”
+
+**Source:** https://abdurrahman.org/2016/07/23/the-abridgement-of-the-prophets-prayer-described/
+
+### The opening takbeer
+
+Say **“Allahu Akbar”** to enter the prayer.
+
+> “He begins the Prayer by saying: Allaahu Akbar – Allaah is Greater. This is a pillar (rukn), due to his saying, ‘The key to the Prayer is Purification. That which makes outside actions forbidden is the takbeer, and that which causes outside actions to become permissible is the tasleem.’”
+
+**Source:** https://abdurrahman.org/2016/07/23/the-abridgement-of-the-prophets-prayer-described/
+
+### Raising the hands and placing them
+
+It is Sunnah to raise your hands with or around the takbeer up to the shoulders or ears, then place your right hand over your left hand on your chest.
+
+> “He should raise his hands whilst saying the takbeer or before it, or after it… He should raise his palms up to the level of his shoulders, and sometimes he should raise them even further, up to the level of his ear lobes. Then after the takbeer he should place his right hand upon his left hand… He should only place his hands upon his chest. This applies equally to men and women.”
+
+**Source:** https://abdurrahman.org/2016/07/23/the-abridgement-of-the-prophets-prayer-described/
+
+### Opening supplication (du’aa al-istiftaah) — Sunnah
+
+The most well-known authentic version:
+
+> **Arabic:** سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، وَتَبَارَكَ اسْمُكَ، وَتَعَالَىٰ جَدُّكَ، وَلَا إِلَٰهَ غَيْرُكَ
+>
 > **Transliteration:** *Subhanaka Allahumma wa bihamdik, wa tabarak asmuk, wa ta'ala jadduk, wa la ilaha ghayruk.*
+>
 > **Meaning:** Glory be to You, O Allah, and praise be to You. Blessed is Your name, exalted is Your majesty, and there is no god but You.
 
-**Reference:** Sunan Abi Dawud, Hadith 775; Jami at-Tirmidhi, Hadith 243; Sunan Ibn Majah — **graded Sahih by Shaykh al-Albani** (Sahih al-Jami')
+**Source:** IslamQA, Fatwa 242032 — https://islamqa.info/en/answers/242032
 
-**Another authentic version (from Abu Hurayrah):**
-> *Allahumma ba'id bayni wa bayna khatayaya kama ba'adta bayna al-mashriqi wal-maghrib. Allahumma naqqini min al-khataya kama yunaqqa ath-thawb al-abyad min ad-danas. Allahumma ighsil khatayaya bil-ma'i wath-thalji wal-barad.*
-> (Sunan Abi Dawud, Hadith 775; Jami at-Tirmidhi, Hadith 243 — **graded Sahih by al-Albani**)
+### Seeking refuge and Bismillah — Sunnah
 
-**Then recite Ta'awwudh (seeking refuge) — Sunnah, recited silently:**
+> “Then he must seek refuge with Allaah, the Most High, and it is an obligation, he will be sinful if he leaves it… Then he should say quietly, in both loud and silent Prayers: Bismillaahir-Rahmaanir-Raheem.”
 
-> **Arabic:** أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ
-> **Transliteration:** *A'udhu billahi min ash-shaytan ir-rajim.*
-> **Meaning:** I seek refuge in Allah from the accursed Satan.
+**Source:** https://abdurrahman.org/2016/07/23/the-abridgement-of-the-prophets-prayer-described/
 
-**Then Bismillah:**
-> **Arabic:** بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-> **Transliteration:** *Bismillahir-Rahmanir-Rahim.*
-> **Meaning:** In the name of Allah, the Most Gracious, the Most Merciful.
+### Reciting Surah al-Fatihah — PILLAR
 
-**Note from al-Albani:** Bismillah is part of Surah al-Fatihah (the stronger opinion) and should be recited as part of it. Anas narrated: *"The Prophet ﷺ, Abu Bakr and Umar used to begin the Salat with 'Al-hamdu lillahi Rabbil-'alamin' and they would not recite Bismillah aloud."* (Sahih al-Bukhari; Sahih Muslim — meaning they recited it silently)
+The Prophet (peace and blessings be upon him) said:
 
----
+> “There is no prayer for the one who does not recite the Opening of the Book (Fatihat al-Kitab).”
 
-### Reciting Al-Fatihah — THIS IS A PILLAR (FARD)
+**References:** Sahih al-Bukhari (756); Sahih Muslim (394); an-Nasa’i (911); Ibn Majah (841) — Sahih, agreed upon.
 
-The prayer is invalid without Al-Fatihah.
-
-**Proof:** The Prophet ﷺ said: *"There is no prayer for the one who does not recite the Opening of the Book (Fatihat al-Kitab)."* (Sahih al-Bukhari, Hadith 756; Sahih Muslim, Hadith 394; Sunan an-Nasa'i, Hadith 911; Sunan Ibn Majah, Hadith 841 — **Sahih, agreed upon**)
-
-**Additional:** *"Every prayer in which Fatihat al-Kitab is not recited is deficient, deficient."* (Sunan Ibn Majah, Hadith 840 — **graded Sahih by al-Albani**)
-
-> **Arabic:** الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ ۝ الرَّحْمَٰنِ الرَّحِيمِ ۝ مَالِكِ يَوْمِ الدِّينِ ۝ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ۝ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ ۝ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ
+> **Arabic:**
+>
+> الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ ۝ الرَّحْمَٰنِ الرَّحِيمِ ۝ مَالِكِ يوْمِ الدِّينِ ۝ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ۝ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ ۝ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ
 >
 > **Transliteration:**
-> *Al-hamdu lillahi rabbil-'alamin.*
-> *Ar-Rahmanir-Rahim.*
-> *Maliki yawmid-din.*
-> *Iyyaka na'budu wa iyyaka nasta'in.*
-> *Ihdinas-siratal-mustaqim.*
-> *Siratal-ladhina an'amta 'alayhim ghayril-maghdubi 'alayhim wa lad-dallin.*
 >
-> **At the end, say:** *Ameen* (آمين)
+> *Al-hamdu lillahi rabbil-'alamin. Ar-Rahmanir-Rahim. Maliki yawmid-din. Iyyaka na'budu wa iyyaka nasta'in. Ihdinas-siratal-mustaqim. Siratal-ladhina an'amta 'alayhim ghayril-maghdubi 'alayhim wa lad-dallin.*
+>
+> **Say:** *Ameen* (آمين).
 
-**Saying Ameen is Sunnah:** The Prophet ﷺ said: *"When the Imam says 'Amin', then you should all say 'Amin'."* (Sahih al-Bukhari, Hadith 782; Sahih Muslim, Hadith 410 — Sahih)
+If you cannot yet recite al-Fatihah, it is obligatory to learn it as soon as possible. Shaykh al-Albaani said:
 
----
+> “Then he recites the whole of Soorah al-Faatihah… This is a pillar (rukn), and the Prayer will not be correct without it. So it is obligatory upon even those who do not know Arabic that they memorize it.”
 
-### Reciting a Surah after Fatihah — This is SUNNAH (not obligatory)
+**Source:** https://abdurrahman.org/2016/07/23/the-abridgement-of-the-prophets-prayer-described/
 
-**Shaykh al-Uthaymin** said:
-> "According to the majority of scholars, reciting another surah (after al-Fatihah) is Sunnah and is not obligatory, because it is obligatory to recite only al-Fatihah." *(Al-Sharh al-Mumti')*
+### Reciting another surah — Sunnah
 
-**Proof:** Abu Hurayrah said: *"In every prayer there is recitation. What we heard the Prophet ﷺ say, we tell you, and what he did not tell us about we cannot tell you. Whoever recites Umm al-Kitab (i.e., Surat al-Fatihah) has done enough, and whoever does more than that, that is better."* (Sahih al-Bukhari, Hadith 738; Sahih Muslim, Hadith 396 — Sahih, agreed upon)
+In the first two rak’ahs, it is Sunnah to recite a short surah or some ayahs after al-Fatihah. In the third and fourth rak’ahs, you recite only al-Fatihah.
 
-**Application:** Recite a surah in the first two rak'ahs. In the third and fourth rak'ahs, recite only Al-Fatihah. If you cannot memorize a full surah, reciting even one ayah is sufficient (per al-Uthaymin).
+Shaykh al-‘Uthaymeen said:
 
-**Start with Surah Al-Ikhlas:**
+> “According to the majority of scholars, reciting another surah (after al-Fatihah) is Sunnah and is not obligatory, because it is obligatory to recite only al-Fatihah.”
 
+**Source:** *Al-Sharh al-Mumti’*
+
+A good surah to start with is:
+
+> **Surah Al-Ikhlas:**
+>
 > **Arabic:** قُلْ هُوَ اللَّهُ أَحَدٌ ۝ اللَّهُ الصَّمَدُ ۝ لَمْ يَلِدْ وَلَمْ يُولَدْ ۝ وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ
 >
-> **Transliteration:**
-> *Qul huwa-Allahu ahad.*
-> *Allahus-samad.*
-> *Lam yalid wa lam yulad.*
-> *Wa lam yakun lahu kufuwan ahad.*
->
-> **Meaning:** Say: He is Allah, the One. Allah, the Eternal Refuge. He neither begets nor is born. And there is none comparable to Him.
+> **Transliteration:** *Qul huwa-Allahu ahad. Allahus-samad. Lam yalid wa lam yulad. Wa lam yakun lahu kufuwan ahad.*
 
----
+### Bowing (rukoo’) — PILLAR
 
-### Position 2: Bowing (Ruku')
-
-```
-        (you)
-         |
-        /|\
-       / | \  <- back straight, parallel to ground
-         |
-        / \
-```
-
-Say **Allahu Akbar** and bow. Place your hands on your knees, keep your back straight and level.
-
-**Proof:** *"When he bowed, he placed his hands on his knees and made his back straight."* (Sunan an-Nasa'i; Sunan Abi Dawud — Sahih)
-
-**Say (3 times) — saying it once is Wajib, more is Sunnah:**
+Say **“Allahu Akbar”** and bow. Place your hands on your knees, keep your back straight and level, and say:
 
 > **Arabic:** سُبْحَانَ رَبِّيَ الْعَظِيم
+>
 > **Transliteration:** *Subhana rabbiyal-'Azim.*
-> **Meaning:** Glory to my Lord, the Mighty.
+>
+> **Meaning:** Glory be to my Lord, the Mighty.
 
-**Proof:** *"When one of you bows, let him say in his bowing: 'Subhana Rabbiyal-'Azim' three times, then he has completed his bowing. And that is the least of it."* (Sunan Ibn Majah, Hadith 888; Jami at-Tirmidhi, Hadith 261 — **graded Hasan by al-Albani**)
+Say it at least once; three times is better.
 
-**Additional:** *"When the verse 'So exalt the name of your Lord, the Most Great' was revealed, the Prophet ﷺ said: 'Put it in your ruku'.'"* (Sunan Abi Dawud, Hadith 869 — **graded Sahih by al-Albani**)
+**Source:** https://abdurrahman.org/2016/07/23/the-abridgement-of-the-prophets-prayer-described/
 
-**Then rise back to standing, saying:**
+### Rising from rukoo’
+
+Rise and say:
 
 > **Arabic:** سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ
+>
 > **Transliteration:** *Sami'a-Allahu liman hamidah.*
+>
 > **Meaning:** Allah hears the one who praises Him.
 
-**Proof:** *"When the Imam says: 'Sami' Allahu liman hamidah,' then say: 'Rabbana wa lakal-hamd.'"* (Sahih al-Bukhari, Hadith 796; Sahih Muslim, Hadith 409 — Sahih, agreed upon)
-
-**Note:** The imam and one praying alone say both "Sami'a-Allahu liman hamidah" and "Rabbana wa lakal-hamd." The follower (ma'mum) says only "Rabbana wa lakal-hamd."
-
-**Once standing upright, say:**
+Then, once standing upright, say:
 
 > **Arabic:** رَبَّنَا وَلَكَ الْحَمْد
+>
 > **Transliteration:** *Rabbana wa lakal-hamd.*
+>
 > **Meaning:** Our Lord, and to You is all praise.
 
----
+The imam and one praying alone say both phrases; the follower says only *“Rabbana wa lakal-hamd.”*
 
-### Position 3: Prostration (Sujud)
+**Source:** Sahih al-Bukhari (796); Sahih Muslim (409) — Sahih, agreed upon.
 
-```
-        (you, face down)
-        /|\
-       / | \
-         |
-        / \  <- forehead, nose, palms, knees, toes on the ground
-```
+### Prostration (sujud) — PILLAR
 
-Say **Allahu Akbar** and go down into prostration. Seven body parts touch the ground.
+Say **“Allahu Akbar”** and go down into prostration. Seven body parts touch the ground:
 
-**Proof:** *"I have been ordered to prostrate on seven bones: the forehead (along with the tip of nose), both hands, both knees, and the toes of both feet."* (Sahih al-Bukhari, Hadith 809; Sahih Muslim, Hadith 490 — **Sahih, agreed upon**)
+> “I have been ordered to prostrate on seven bones: the forehead (along with the tip of nose), both hands, both knees, and the toes of both feet.”
 
-**Note:** The forehead and nose are counted as one part (hence "seven" not eight).
+**References:** Sahih al-Bukhari (809); Sahih Muslim (490) — Sahih, agreed upon.
 
-**Say (3 times) — saying it once is Wajib, more is Sunnah:**
+Say:
 
 > **Arabic:** سُبْحَانَ رَبِّيَ الْأَعْلَى
+>
 > **Transliteration:** *Subhana rabbiyal-a'la.*
-> **Meaning:** Glory to my Lord, the Most High.
+>
+> **Meaning:** Glory be to my Lord, the Most High.
 
-**Proof:** *"When one of you prostrates, let him say in his prostration: 'Subhana Rabbiyal-A'la' three times, then he has completed his prostrations, and that is the least of it."* (Sunan Ibn Majah, Hadith 890; Jami at-Tirmidhi, Hadith 261 — **graded Hasan by al-Albani**; also Sahih per Nasa'i 1047)
+Say it at least once; three times is better.
 
-**Additional:** *"When the verse 'Glorify the name of your Lord, the Most High' was revealed, the Prophet ﷺ said: 'Put it in your sujud.'"* (Sunan Abi Dawud, Hadith 869 — **graded Sahih by al-Albani**)
+**Source:** https://abdurrahman.org/2016/07/23/the-abridgement-of-the-prophets-prayer-described/
 
----
+### Sitting between prostrations
 
-### Position 4: Sitting Between the Two Prostrations (Jalsa)
+Say **“Allahu Akbar”** and sit on your left foot with your right foot upright.
 
-```
-        (you, sitting)
-        /|\
-       / | \
-         |
-        / \  <- sit on left foot, right foot upright
-```
-
-Say **Allahu Akbar** and sit up. Sit on your left foot with your right foot upright (toes pointing toward the qibla). This is called *muftarishan*.
-
-**Proof:** Abu Humaid described the Prophet's sitting this way. (Sunan Abi Dawud; Jami at-Tirmidhi — Sahih)
-
-**Say:**
+Say:
 
 > **Arabic:** رَبِّ اغْفِرْ لِي
+>
 > **Transliteration:** *Rabbi-ghfir li.*
+>
 > **Meaning:** My Lord, forgive me.
 
-**Proof:** *"The Prophet ﷺ used to say between the two prostrations: 'Rabbighfir li, Rabbighfir li.'"* (Sunan Ibn Majah, Hadith 897; Sunan an-Nasa'i, Hadith 1145 — **graded Sahih by al-Albani**, Sifat as-Salah 3/118)
+A longer version (recommended):
 
-**Extended version (recommended, Hasan per al-Albani):**
-> *Allahumm ighfir li warhamni wajburni wahdini warzuqni wa 'aafini warfa'ni.*
-> "O Allah, forgive me, have mercy on me, console me, guide me, grant me provision, grant me wellbeing and raise me in status."
-> (Jami at-Tirmidhi, Hadith 284 — **graded Hasan by al-Albani**)
+> **Arabic:** اللَّهُمَّ اغْفِرْ لِي وَارْحَمْنِي وَاجْبُرْنِي وَاهْدِنِي وَارْزُقْنِي وَعَافِنِي وَارْفَعْنِي
+>
+> **Transliteration:** *Allahumma ighfir li warhamni wajburni wahdini warzuqni wa 'aafini warfa'ni.*
 
----
+**Source:** al-Albaani, *Sifat as-Salah* 3/118; at-Tirmidhi (284), classed as hasan by al-Albaani.
 
-### Position 5: Second Prostration
+### Second prostration
 
-Say **Allahu Akbar** and go back down into prostration. Say *Subhana rabbiyal-a'la* three times, just as before.
-
-**This completes ONE rak'ah (unit).**
+Say **“Allahu Akbar”** and prostrate again, just as before. This completes one rak’ah.
 
 ---
 
-## Fifth: Continuing the Prayer
+## 7. Continuing the Prayer (2, 3 and 4 Rak’ahs)
 
-### For a 2-rak'ah prayer (Fajr):
-- After the second prostration of the **second rak'ah**, do NOT stand up. Instead, sit for the **final Tashahhud** (see below).
-- Fajr is complete after 2 rak'ahs + Tashahhud + Salam.
+### For a 2-rak’ah prayer (Fajr)
 
-### For a 3-rak'ah prayer (Maghrib):
-- After the second rak'ah, sit for the **first Tashahhud** (short version).
-- Stand up for the third rak'ah (recite Al-Fatihah only — no extra surah).
-- After the third rak'ah's second prostration, sit for the **final Tashahhud** (full version) + Salam.
+After the second prostration of the second rak’ah, sit for the **final Tashahhud** and then say the salam.
 
-### For a 4-rak'ah prayer (Dhuhr, Asr, Isha):
-- After the second rak'ah, sit for the **first Tashahhud** (short version).
-- Stand up for the third and fourth rak'ahs (recite Al-Fatihah only — no extra surah in the 3rd and 4th).
-- After the fourth rak'ah's second prostration, sit for the **final Tashahhud** (full version) + Salam.
+### For a 3-rak’ah prayer (Maghrib)
+
+After the second rak’ah, sit for the **first Tashahhud** (short version), then stand for the third rak’ah. Recite only al-Fatihah in the third rak’ah. After the third rak’ah’s second prostration, sit for the **final Tashahhud** and then say the salam.
+
+### For a 4-rak’ah prayer (Dhuhr, ‘Asr, ‘Isha)
+
+After the second rak’ah, sit for the **first Tashahhud** (short version), then stand for the third and fourth rak’ahs. Recite only al-Fatihah in the last two rak’ahs. After the fourth rak’ah’s second prostration, sit for the **final Tashahhud** and then say the salam.
 
 ---
 
-## Sixth: The Tashahhud (Sitting)
+## 8. The Tashahhud and the Salam
 
-### Which version is most authentic?
+### The Tashahhud
 
-According to **Shaykh al-Albani**, the most authentic version is **Ibn Mas'ud's version**. Imam Ahmad and Abu Hanifah chose this version because its chain is most confirmed. The Prophet ﷺ taught it *"just as a surah of the Qur'an is taught."* (Sahih al-Bukhari, Hadith 6265)
+Shaykh al-Albaani said the most authentic version is that of Ibn Mas’ud:
 
-### First Tashahhud (after the 2nd rak'ah in 3- and 4-rak'ah prayers)
-
-Sit on your left foot, right foot upright. Raise your **right index finger** (point it toward the qibla as a testimony of Allah's oneness).
-
-> **Arabic:** التَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ، السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، السَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ، أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ
+> **Arabic:**
+>
+> التَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ، السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، السَّلَامُ عَلَيْنَا وَعَلَىٰ عِبَادِ اللَّهِ الصَّالِحِينَ، أَشْهَدُ أَنْ لَا إِلَٰهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ
 >
 > **Transliteration:**
-> *At-tahiyyatu lillahi was-salawatu wat-tayyibat.*
-> *As-salamu 'alayka ayyuhan-nabiyyu wa rahmatullahi wa barakatuh.*
-> *As-salamu 'alayna wa 'ala 'ibadillahis-salihin.*
-> *Ashhadu an la ilaha illa-Allah, wa ashhadu anna Muhammadan 'abduhu wa rasuluh.*
+>
+> *At-tahiyyatu lillahi was-salawatu wat-tayyibat. As-salamu 'alayka ayyuhan-nabiyyu wa rahmatullahi wa barakatuh. As-salamu 'alayna wa 'ala 'ibadillahis-salihin. Ashhadu an la ilaha illa-Allah, wa ashhadu anna Muhammadan 'abduhu wa rasuluh.*
 >
 > **Meaning:** All compliments, prayers and good words are for Allah. Peace be upon you, O Prophet, and the mercy of Allah and His blessings. Peace be upon us and upon the righteous servants of Allah. I bear witness that there is no god but Allah, and I bear witness that Muhammad is His servant and messenger.
 
-**Reference:** Sahih al-Bukhari, Hadith 835, 6265; Sahih Muslim, Hadith 402; Sunan Abi Dawud, Hadith 969; Sunan Ibn Majah, Hadith 899 — **Sahih, agreed upon**
+**References:** Sahih al-Bukhari (835, 6265); Sahih Muslim (402); Sunan Abi Dawud (969); Sunan Ibn Majah (899) — Sahih, agreed upon.
 
-**After the first Tashahhud, stand up saying "Allahu Akbar" for the next rak'ah(s).**
+In the final sitting, sit with your left hip resting on the ground (at-tawarruk), point your right index finger toward the Qiblah, and keep your gaze on it.
 
-### Final Tashahhud (at the end of the prayer)
+**Source:** https://abdurrahman.org/2016/07/23/the-abridgement-of-the-prophets-prayer-described/
 
-Recite the same Tashahhud as above, then **add the Salawat al-Ibrahimiyyah:**
+### Salawat al-Ibrahimiyyah
 
-> **Arabic:** اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ، اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ
+After the final Tashahhud, say:
+
+> **Arabic:**
+>
+> اللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَعَلَىٰ آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَىٰ إِبْرَاهِيمَ وَعَلَىٰ آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ، اللَّهُمَّ بَارِكْ عَلَىٰ مُحَمَّدٍ وَعَلَىٰ آلِ مُحَمَّدٍ، كَمَا بَارَكْتَ عَلَىٰ إِبْرَاهِيمَ وَعَلَىٰ آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ
 >
 > **Transliteration:**
-> *Allahumma salli 'ala Muhammad, wa 'ala aali Muhammad.*
-> *Kama sallayta 'ala Ibrahim, wa 'ala aali Ibrahim.*
-> *Innaka hamidun majid.*
-> *Allahumma barik 'ala Muhammad, wa 'ala aali Muhammad.*
-> *Kama barakta 'ala Ibrahim, wa 'ala aali Ibrahim.*
-> *Innaka hamidun majid.*
 >
-> **Meaning:** O Allah, send blessings upon Muhammad and upon the family of Muhammad, as You sent blessings upon Ibrahim and upon the family of Ibrahim. Indeed, You are praiseworthy and glorious. O Allah, bless Muhammad and the family of Muhammad, as You blessed Ibrahim and the family of Ibrahim. Indeed, You are praiseworthy and glorious.
+> *Allahumma salli 'ala Muhammad, wa 'ala aali Muhammad. Kama sallayta 'ala Ibrahim, wa 'ala aali Ibrahim. Innaka hamidun majid. Allahumma barik 'ala Muhammad, wa 'ala aali Muhammad. Kama barakta 'ala Ibrahim, wa 'ala aali Ibrahim. Innaka hamidun majid.*
+>
+> **Meaning:** O Allah, send blessings upon Muhammad and the family of Muhammad, as You sent blessings upon Ibrahim and the family of Ibrahim. Indeed, You are praiseworthy and glorious. O Allah, bless Muhammad and the family of Muhammad, as You blessed Ibrahim and the family of Ibrahim. Indeed, You are praiseworthy and glorious.
 
-**Reference:** Sahih al-Bukhari (multiple); Sahih Muslim, Hadith 405; Sunan an-Nasa'i, Hadith 1291; Sunan Ibn Majah, Hadith 904 — **Sahih, agreed upon**
+**References:** Sahih al-Bukhari; Sahih Muslim (405); Sunan an-Nasa’i (1291); Sunan Ibn Majah (904) — Sahih, agreed upon.
 
-**Hadith:** Ka'b ibn 'Ujrah narrated that a man asked: "We have come to know about how to greet you, but how should we send blessings upon you?" The Prophet ﷺ taught him this. (Sahih Muslim, Hadith 405)
+### The salam
 
----
-
-## Seventh: Ending the Prayer — Salam
-
-**Turn your head to the right and say:**
+Turn your head to the right and say:
 
 > **Arabic:** السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللَّه
-> **Transliteration:** *As-salamu 'alaykum wa rahmatullah.*
-> **Meaning:** Peace be upon you and the mercy of Allah.
-
-**Then turn your head to the left and say the same:**
-
+>
 > **Transliteration:** *As-salamu 'alaykum wa rahmatullah.*
 
-**Proof of two salaams:**
-Ibn Mas'ud narrated: *"I saw the Messenger of Allah ﷺ saying the salam to his right and to his left: As-salamu 'alaykum wa rahmatullah, As-salamu 'alaykum wa rahmatullah."* (Sunan an-Nasa'i, Hadith 1319)
+Then turn to the left and say the same. The first salam to the right is a pillar; the second is Sunnah.
 
-**Al-Albani's position:** "The giving of one tasleem is obligatory, which must be done... And giving two tasleems is sunnah, and it is permissible to leave the second tasleem." *(The Authentic Base)*
+> “Then he should give salutations to his right side, and this is a pillar, turning his face such that the whiteness of his right cheek can be seen. He then gives salutations to his left side…”
 
-**Proof that the salam ends the prayer:**
-*"The key to the prayer is Purification. That which makes outside actions forbidden is the takbeer, and that which causes outside actions to become permissible is the tasleem."* (Sunan Abi Dawud, Hadith 61; Jami at-Tirmidhi, Hadith 3 — **graded Sahih by al-Albani**, Sahih al-Jami' 576)
-
-**The prayer is now complete.**
+**Source:** https://abdurrahman.org/2016/07/23/the-abridgement-of-the-prophets-prayer-described/
 
 ---
 
-## Eighth: Sujud as-Sahw (Forgetfulness Prostration)
+## 9. Sujud as-Sahw (Forgetfulness Prostration)
 
-### According to Shaykh al-Albani:
+If you make a mistake in the prayer out of forgetfulness, you perform two extra prostrations before or after the salam.
 
-**General rule:**
-> "(It is due upon a person) under any circumstances if (something was done or not done in prayer) out of forgetfulness, even if it is a sunnah." *(Silsilat al-Huda wa al-Nur, tape 183)*
+Shaykh al-Albaani said:
 
-**When to do it (before or after salam):**
-Al-Albani's position:
-> "Regarding every sujud us-sahw, its doer has a choice between prostrating before the salam or after the salam. And the detailed explanation that is mentioned in some books, especially the Hanbali ones, that (the sujud us-sahw) is before the salam for making additions (in the prayer), and after the salam for omissions, this is baseless."
+> “(It is due upon a person) under any circumstances if (something was done or not done in prayer) out of forgetfulness, even if it is a sunnah.”
 
-> "The one who forgets in prayer has a choice: if he wants, he makes the taslim (first) and that is absolutely better; and if he wants, he does not make the taslim except after completing the two prostrations of forgetfulness."
+> “Regarding every sujud us-sahw, its doer has a choice between prostrating before the salam or after the salam. And the detailed explanation that is mentioned in some books, especially the Hanbali ones, that (the sujud us-sahw) is before the salam for making additions (in the prayer), and after the salam for omissions, this is baseless.”
 
-**Causes (three):**
-1. Doing something extra (adding rak'ah, sujud, etc.)
-2. Omitting something (leaving out a wajib or rukn)
-3. Being uncertain (doubt about number of rak'ahs)
+> “The one who forgets in prayer has a choice: if he wants, he makes the taslim (first) and that is absolutely better; and if he wants, he does not make the taslim except after completing the two prostrations of forgetfulness.”
 
-**What to say during sujud as-sahw:**
-> "The same as the usual dhikr said during prostrating and sitting in-between the prostrations; i.e., there isn't anything special."
+**Sources:** al-Albaani, *Silsilat al-Huda wa al-Nur*, tape 183; alalbani.info.
 
-**If intentionally left out:**
-> "If he intentionally leaves out the sujud us-sahw, the prayer does not become invalid. But, he will be a sinner because of his leaving out the two prostrations of forgetfulness."
+Common causes:
 
-*(Source: alalbani.info; IslamQA, Fatwa 77430, 12527)*
+1. Adding something extra (e.g. an extra rak’ah or sujood).
+2. Omitting something (e.g. a wajib or pillar).
+3. Doubt about the number of rak’ahs.
+
+**Important:** If you intentionally leave out Sujud as-Sahw, the prayer is still valid, but you are sinful for omitting it.
 
 ---
 
-## Quick Reference: The 14 Pillars (Arkan) of Salah
+## 10. Khushu’ — The Heart of the Prayer
 
-According to Shaykh al-Albani in *"Sifat Salat an-Nabi ﷺ"* (IslamQA, Fatwa 65847):
+Shaykh al-‘Uthaymeen said:
 
-1. **Standing** during obligatory prayers (if able) — Bukhari 756, Muslim 397
-2. **The opening takbeer** ("Allahu Akbar") — Abu Dawud 61, graded Sahih by al-Albani
-3. **Reciting Al-Fatihah** — Bukhari 756, Muslim 394
-4. **Ruku' (bowing)** — Bukhari 756
-5. **Rising from bowing** — Bukhari 756
-6. **Standing up straight (I'tidal)** after ruku' — Bukhari 756
-7. **Sujud (prostration)** on 7 body parts — Bukhari 809, Muslim 490
-8. **Rising from prostration** — Bukhari 756
-9. **Sitting between the two prostrations** — Bukhari 756
-10. **Being at ease (tuma'ninah)** in each physical pillar — Bukhari 756
-11. **The final tashahhud** — Tirmidhi, graded Sahih by al-Albani
-12. **Sitting for the final tashahhud** — Bukhari, Muslim
-13. **The two salaams** — Abu Dawud 61, graded Sahih by al-Albani
-14. **Doing the pillars in order** — Bukhari 756
+> “The most important affair is Khushoo and that one’s heart is attentive, which is the substance and essence of the prayer. If a person has Khushoo and his heart is attentive, this will have an effect after the prayer.”
 
-## Quick Reference: The 8 Wajibat of Salah
+> “How can it befit a believer that he pecks the ground like the pecking of a crow whilst he knows that he is standing before his Lord? How can it befit a believer that he pecks the ground in his prayer whilst he knows that he will not be rewarded for it? He has not discharged his obligation with this kind of prayer. This type of prayer is the same as if he had not prayed at all.”
 
-According to Shaykh al-Albani (IslamQA, Fatwa 65847):
+**Sources:** *The Etiquette of the Congregational Prayer*; Maktabah Ibn ‘Uthaymeen.
 
-1. **Takbeers other than the opening** (transitional takbirs) — Bukhari, Muslim
-2. **"Sami'a Allahu liman hamidah"** (imam and one praying alone) — Bukhari 796, Muslim 409
-3. **"Rabbana wa lakal-hamd"** — Bukhari 796, Muslim 409
-4. **"Subhana rabbiyal-'Azim"** (once minimum in ruku') — Ibn Majah 888, graded Hasan by al-Albani
-5. **"Subhana rabbiyal-A'la"** (once minimum in sujud) — Ibn Majah 890, graded Hasan by al-Albani
-6. **"Rabbi-ghfir li"** (between the two prostrations) — Ibn Majah 897, graded Sahih by al-Albani
-7. **The first tashahhud** — Bukhari, Muslim
-8. **Sitting for the first tashahhud** — Bukhari, Muslim
+Ibn al-Qayyim said:
 
-## Quick Reference: Main Sunan of Salah
+> “Ibn al-Qayyim compared khushu’ in salah to the soul in the body. When the soul leaves the body, the body dies. Similarly, without khushu’ the salah lacks its soul, spirit and essence. Likewise, praying salah without khushu’ is like gifting a dead servant to a king. He then writes, ‘Allah will neither accept it nor reward him for it, even if the obligation (of salah) has been legally fulfilled.’”
 
-According to Shaykh al-Albani in *"Sifat Salat an-Nabi ﷺ"*:
+> “The khushoo’ or humility, therefore, is the standing of the heart before the Lord with humility and lowliness and with full concentration towards Him.”
 
-1. Raising hands at the opening takbir — Nasa'i 876, Sahih
-2. Placing right hand over left on chest — Muslim, Sahih
-3. Looking at the place of prostration — Bayhaqi, graded Sahih by al-Albani
-4. Reciting the opening supplication (du'a al-istiftah) — Abu Dawud 775, graded Sahih by al-Albani
-5. Saying "Amin" after Fatihah — Bukhari 782, Muslim 410
-6. Reciting a surah after Fatihah (first two rak'ahs) — Bukhari 762, Muslim 451
-7. Saying takbeers when going down and coming up — Bukhari, Muslim
-8. Making the supplications in ruku' and sujud more than once — Tirmidhi 261, Hasan
-9. Placing hands on knees during ruku' with back straight — Nasa'i, Sahih
-10. Sitting muftarishan (on left foot, right foot upright) — Abu Dawud, Tirmidhi, Sahih
+**Sources:** *Madarij as-Salikin*; *Ar-Ruh*.
+
+Al-Albaani reminds us:
+
+> “Then along with this it is upon you that you do not forget the importance to be given to praying with an attentive heart, and to praying with humility and submissiveness (khushoo’), since this is the major goal of the servant’s standing before Allaah, the Most High, in Prayer.”
+
+**Source:** https://abdurrahman.org/2016/07/23/the-abridgement-of-the-prophets-prayer-described/
 
 ---
 
-## Khushu' — The Heart of the Prayer
+## 11. Important Notes for Beginners
 
-### Ibn al-Qayyim (in Madarij as-Salikin and Ar-Ruh):
+### The rule about Arabic
 
-> "Ibn al-Qayyim compared khushu' in salah to the soul in the body. When the soul leaves the body, the body dies. Similarly, without khushu' the salah lacks its soul, spirit and essence. Likewise, praying salah without khushu' is like gifting a dead servant to a king. He then writes, 'Allah will neither accept it nor reward him for it, even if the obligation (of salah) has been legally fulfilled.'"
+- **Al-Fatihah and any Qur’an recited in prayer must be in Arabic.**
+- **The fixed adhkar (tasbeehat, tashahhud, salawat) must be in Arabic.**
+- Shaykh al-Albaani said: “It is obligatory upon even those who do not know Arabic that they memorize [Surah al-Fatihah].”
+- Supplications made *in addition* to the fixed texts may, according to some scholars, be said in another language only by one genuinely unable to do so in Arabic.
+- **No Salafi scholar has stated that the entire prayer can be performed in English translation.**
 
-**Definition of khushu':**
-> "The khushoo' or humility, therefore, is the standing of the heart before the Lord with humility and lowliness and with full concentration towards Him." *(Madarij as-Salikin)*
+**Sources:** https://abdurrahman.org/2016/07/23/the-abridgement-of-the-prophets-prayer-described/ ; https://islamweb.net/en/fatwa/90869 ; https://islamweb.net/en/fatwa/88268
 
-**On true khushu':**
-> "The khushoo' of true faith is when the heart feels aware and humble before the greatness and glory of Allah, and is filled with awe, fear and shyness, so that the heart is utterly humbled before Allah and broken, as it were, with fear, shyness, love and the recognition of the blessings of Allah and its own sins." *(33 Ways of Developing Khushoo')*
+### What if you make a mistake?
 
-### Shaykh al-Uthaymin:
+The Prophet (peace and blessings be upon him) said:
 
-> "The most important affair is Khushoo and that one's heart is attentive, which is the substance and essence of the prayer. If a person has Khushoo and his heart is attentive, this will have an effect after the prayer."
+> “The most beloved deeds to Allah are those done consistently, even if small.” *(Sahih al-Bukhari, 6464; Sahih Muslim, 783)*
 
-**On those who pray without khushu':**
-> "How can it befit a believer that he pecks the ground like the pecking of a crow whilst he knows that he is standing before his Lord? How can it befit a believer that he pecks the ground in his prayer whilst he knows that he will not be rewarded for it? He has not discharged his obligation with this kind of prayer. This type of prayer is the same as if he had not prayed at all." *(The Etiquette of the Congregational Prayer)*
+If you forget a step, make Sujud as-Sahw. If you cannot recite a full surah, recite what you know. If your mind wanders, bring it back. The prayer is about effort, not perfection.
 
-**On achieving khushu':**
-> "Khushoo' is a matter of great importance in the salaah. It can be achieved by contemplating, remembrance, humility to Allah and the rewards with Him." *(Maktabah Ibn Uthaymeen)*
+### Can a beginner hold a phone or book?
+
+**NOT FOUND FROM SALAFI SOURCE specifically addressing holding a phone or book for learning purposes during prayer.**
+
+The general principle is to avoid anything that causes distraction or excessive movement, because the Prophet (peace and blessings be upon him) said about a patterned garment:
+
+> “The pattern on this distracted me.” *(Ibn Qudaamah, Al-Mughni)*
+
+**Source:** Islamweb (202426); *Al-Mughni* by Ibn Qudaamah.
+
+---
+
+## 12. Quick Reference
+
+### 14 Pillars of Salah
+
+1. Standing, if able
+2. The opening takbeer
+3. Reciting Surah al-Fatihah in every rak’ah
+4. Bowing
+5. Rising from bowing
+6. Prostrating on all seven limbs
+7. Erecting oneself from prostration
+8. Sitting between the two prostrations
+9. Remaining tranquil in each pillar
+10. Maintaining the correct sequence
+11. The final Tashahhud
+12. Sitting for the final Tashahhud
+13. Sending Salaat upon the Prophet
+14. The final two tasleems
+
+### 8 Obligations of Salah
+
+1. All takbeers except the opening one
+2. “Subhaana Rabbiy al-‘Adheem” in rukoo’
+3. “Sami’a Allaahu liman hamidah” (imam and one praying alone)
+4. “Rabbanaa wa lakal-Hamd”
+5. “Subhaana Rabbiy al-A’alaa” in sujood
+6. “Rabb Ighfir Lee” between prostrations
+7. The first Tashahhud
+8. Sitting for the first Tashahhud
+
+### Main Sunan of Salah
+
+1. Raising hands at the opening takbeer
+2. Placing right hand over left on the chest
+3. Looking at the place of prostration
+4. Du’aa al-istiftaah
+5. Saying “Ameen” after al-Fatihah
+6. Reciting a surah after al-Fatihah in the first two rak’ahs
+7. Saying takbeers between positions
+8. Repeating tasbeeh three or more times in rukoo’ and sujood
+9. Hands on knees with a level back in rukoo’
+10. Sitting muftarishan in tashahhud and between prostrations
 
 ---
 
 ## A Final Word
 
-**The prayer is about effort, not perfection.** If you stumble on the words, keep going. If you forget a step, keep going. If your mind wanders, bring it back and keep going. If you make a mistake, there is a remedy (Sujud as-Sahw). If you miss something, there is a way to make it up.
+The prayer is about effort, not perfection. If you stumble on the words, keep going. If you forget a step, make Sujud as-Sahw. If your mind wanders, bring it back. Allah does not ask for a flawless recitation on day one; He asks for a sincere heart that shows up five times a day.
 
-Allah does not ask you to be perfect. He asks you to show up — five times a day, with a sincere heart, doing your best. The Prophet ﷺ said: *"The most beloved deeds to Allah are those done consistently, even if small."* (Sahih al-Bukhari, Hadith 6464; Sahih Muslim, Hadith 783)
+The Prophet (peace and blessings be upon him) said:
 
-So pray. Even if it is messy. Even if your Arabic is broken. Even if your khushu' is weak. **Pray.** Because the one who prays with a stumbling tongue and a sincere heart is closer to Allah than the one who prays with a perfect tongue and an absent heart.
+> “The most beloved deeds to Allah are those done consistently, even if small.” *(Sahih al-Bukhari, 6464; Sahih Muslim, 783)*
 
-And Allah knows best. May Allah make our prayers a light for us in this world and the next. Ameen.
+So pray — even if it is messy, even if your Arabic is broken, even if your khushu’ is weak. Because the one who prays with a stumbling tongue and a sincere heart is closer to Allah than the one who prays with a perfect tongue and an absent heart.
+
+And Allah knows best.
+
+---
+
+## Sources
+
+1. Imaam Muhammad bin ‘Abdil-Wahhaab, *Shuroot as-Salaat wa Arkaanuhaa wa Waajibaatuhaa* (Al-Ibaanah translation) — https://abdurrahman.org/2011/12/03/the-conditionsshuroot-pillarsarkaan-and-requirementswaajibaat-of-the-prayer/
+2. Imaam Muhammad bin ‘Abdil-Wahhaab, *The Conditions, Pillars and Requirements of the Prayer* — https://abdurrahman.org/2014/10/01/the-conditions-pillars-and-requirements-of-the-prayer-imaam-muhammad-bin-abdil-wahhaab/
+3. Shaykh al-Albaani, *The Abridgement of the Prophet’s Prayer Described*, translated by Dawud Burbank — https://abdurrahman.org/2016/07/23/the-abridgement-of-the-prophets-prayer-described/
+4. IslamQA, “Importance of Prayer” — https://islamqa.info/en/answers/12305
+5. IslamQA, “How to Make Wudu” — https://islamqa.info/en/answers/11497
+6. IslamQA, “What Are the Pillars of Wudu?” — https://islamqa.info/en/answers/226422
+7. IslamQA, “Can You Touch or Read the Quran without Wudu?” — https://islamqa.info/en/answers/10672
+8. IslamQA, “Do You Need to Utter Intention for Acts of Worship?” — https://islamqa.info/en/answers/13337
+9. IslamQA, “The opening supplication (du‘a’ al-istiftah)” — https://islamqa.info/en/answers/242032
+10. IslamQA, “Description of the Prophet’s Prayer” — https://islamqa.info/en/answers/13340
+11. Ibn Baaz, “Difference between Kufr and Shirk” — https://abdurrahman.org/category/islam/kufr-disbelief/
+12. Ibn Baaz, “Nullifiers of Wudu” — https://binbaz.org.sa/categories/fiqhi/15?page=1
+13. Ibn Baaz, “Sujud as-Sahw” — https://binbaz.org.sa/categories/fiqhi/43/fatwa?page=10
+14. Islamweb, “Supplications in another language” — https://islamweb.net/en/fatwa/90869
+15. Islamweb, “Tashahhud in another language” — https://islamweb.net/en/fatwa/88268
+16. Hadith Unlocked, Sahih al-Bukhari 6008 — https://hadithunlocked.com/bukhari:6008
+17. Shaykh al-‘Uthaymeen, *Al-Sharh al-Mumti’*
+18. Ibn al-Qayyim, *Madarij as-Salikin* and *Ar-Ruh*
+19. Ibn Qudaamah, *Al-Mughni*
