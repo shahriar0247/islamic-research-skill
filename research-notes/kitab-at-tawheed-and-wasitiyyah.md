@@ -199,11 +199,11 @@ Both books teach the same methodology:
 
 [^5]: Salafi Publications, "A Primer on Tawheed," http://spubs.com/SPS/sp.cfm?subsecID=TAW01&articleID=TAW010002&pfriend=
 
-[^6]: Sunnah.com, Sahih al-Bukhari 7373, https://hadithunlocked.com/bukhari:7373; Sahih Muslim 30c, https://hadithunlocked.com/muslim:30c
+[^6]: Sahih al-Bukhari 7373 — https://hadithunlocked.com/bukhari:7373 ; Sahih Muslim 30c — https://hadithunlocked.com/muslim:30c
 
 [^7]: darpdfs.org, Salih al-Fawzan, *An Explanation of the Six Principles*, https://darpdfs.org/wp-content/uploads/2023/12/An-Explanation-Of-The-Six-Principles-Sh.-Salih-al-Fawzan.pdf
 
-[^8]: Sunnah.com, Musnad Ahmad 1064, https://hadithunlocked.com/ahmad:1064; Sahih Muslim 2115, https://hadithcollection.com/sahihmuslim/sahih-muslim-book-04-prayer/sahih-muslim-book-004-hadith-number-2115
+[^8]: Musnad Ahmad 1064 — https://hadithunlocked.com/ahmad:1064 ; Sahih Muslim 2115 — https://hadithcollection.com/sahihmuslim/sahih-muslim-book-04-prayer/sahih-muslim-book-004-hadith-number-2115
 
 [^9]: Abu Khadeejah, "The First Explanation of Kitaab at-Tahweed by Shaikh Sulaimaan b. Abdullaah Aal ash-Shaikh," https://abukhadeejah.com/the-first-explanation-of-kitaab-at-tahweed-by-shaikh-sulaimaan-b-abdullaah-aal-ash-shaikh/
 

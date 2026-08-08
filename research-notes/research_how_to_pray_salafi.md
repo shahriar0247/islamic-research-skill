@@ -433,7 +433,7 @@ Related rulings:
 - https://abdurrahman.org
 - https://binbaz.org.sa
 - https://alalbani.info
-- https://sunnah.com
+- https://hadithunlocked.com
 - https://islamweb.net
 
 ---

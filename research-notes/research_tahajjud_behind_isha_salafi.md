@@ -511,16 +511,16 @@ And he also said: 'For it is established — the prayer of the one praying volun
     - https://en.tohed.com/hadith/musnad-ahmad/21324/
 
 24. **Sunnah.com — Sahih Muslim 465a:** (Hadith of Mu'adh)
-    - https://sunnah.com/muslim:465a
+    - https://hadithunlocked.com/muslim:465a
 
 25. **Sunnah.com — Sahih al-Bukhari 1198:** (Hadith of Ibn Abbas joining night prayer)
-    - https://sunnah.com/bukhari:1198
+    - https://hadithunlocked.com/bukhari:1198
 
 26. **Sunnah.com — Sahih al-Bukhari 698:** (Hadith of Ibn Abbas — 13 rak'ahs)
-    - https://sunnah.com/bukhari:698
+    - https://hadithunlocked.com/bukhari:698
 
 27. **Sunnah.com — Sunan al-Nasa'i 835:** "Chapter: Difference in the intention of the Imam and the one following him" (باب اختلاف نية الإمام والمأموم)
-    - https://sunnah.com/nasai:835
+    - https://hadithunlocked.com/nasai:835
 
 ### Ibn Taymiyyah Sources
 
