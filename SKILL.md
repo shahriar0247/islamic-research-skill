@@ -120,28 +120,33 @@ Before opening the article in a markdown preview app, you MUST verify every sing
 
 **This step is MANDATORY.** Never skip it. Every single link must be verified before the article is considered complete.
 
-### Step 5: Preview the article and offer to push to GitHub
-After the research is fully done, the article is written, all links are verified and fixed (Step 4), and the file is saved:
+### Step 5: Publish the article (auto-push to GitHub, website, and Vercel)
+After the research is fully done, the article is written, all links are verified and fixed (Step 4), and the file is saved, do **NOT** ask whether to publish. The user has chosen to publish every article automatically. Proceed directly with the following steps:
 
-1. **Open the final article in a markdown preview app** (NOT VS Code, NOT Devin's built-in viewer — use a real dedicated markdown preview application). The default app is **MarkText**, installed at:
-   `C:\Users\ahmed\AppData\Local\Programs\marktext\marktext.exe`
-   - Launch it with: `Start-Process "C:\Users\ahmed\AppData\Local\Programs\marktext\marktext.exe" -ArgumentList "<path-to-article.md>"`
-   - If MarkText is not installed, install it first: `winget install --id MarkText.MarkText -e --accept-source-agreements --accept-package-agreements`
-   - If winget fails, fall back to any other dedicated markdown preview app available on the system.
+1. **Push the final article to the research GitHub repo**
+   - Repo: `https://github.com/shahriar0247/islamic-research-skill` (the working copy is at `C:\Users\ahmed\OneDrive\Desktop\all\islamic-research-skill`; git credentials are configured for `shahriar0247`)
+   - Copy only the final article `.md` file (not background research files) into `research-notes/`.
+   - Commit and push to `main`.
 
-2. **Ask the user if they want to push the article to GitHub** using the `ask_user_question` tool, with exactly 2 options:
-   - **Option 1: "Yes, push to GitHub"** — Push the final article (only the article `.md` file, not the background research files) to the repository: `https://github.com/shahriar0247/islamic-research-skill`
-   - **Option 2: "No, keep it local"** — Do not push anything; the file stays only in the local `research-notes` folder.
+2. **Add the article to the Scholars & Their Opinions website**
+   - Website repo: `C:\Users\ahmed\OneDrive\Desktop\all\scholars-opinions`
+   - Edit `prisma/import-all-articles-firebase.ts` and add an `ARTICLE_META` entry for the article filename with title, category, excerpt, tags, scholar slugs, and `featured: true`.
+   - Ensure the article file is present in the working copy of `islamic-research-skill` that the website repo reads from (`C:\Users\ahmed\OneDrive\Desktop\all\islamic-research-skill\research-notes\`).
+   - Run `npx tsx prisma/import-all-articles-firebase.ts` to import/update the article in Firestore.
 
-3. **If the user chooses to push:**
-   - The GitHub repo is: `https://github.com/shahriar0247/islamic-research-skill` (git credentials are already configured for `shahriar0247`)
-   - Clone or fetch the repo to a temp location, copy the article `.md` file into it, commit, and push.
-   - Use the standard commit message format with the Devin co-author trailer.
-   - Confirm to the user with the URL where the file can be viewed on GitHub.
+3. **Push the website repo to GitHub**
+   - Repo: `https://github.com/shahriar0247/Scholars-and-their-opinons`
+   - Commit the updated `prisma/import-all-articles-firebase.ts` and push to `main`.
 
-4. **If the user chooses not to push:** Simply confirm the file is saved locally and end.
+4. **Open the live article in the browser from Vercel**
+   - The site is hosted at `https://scholars-opinions.vercel.app`.
+   - The article slug is derived from the article title by the import script's `slugify()` function.
+   - Build the article URL as `https://scholars-opinions.vercel.app/articles/<slug>`.
+   - Open it with `Start-Process <url>`.
 
-**Important:** Only the final article/guide/document is pushed — NOT the background `research_<topic>_salafi.md` files, unless the user explicitly asks for those too.
+**Do NOT open the article in MarkText or any markdown preview app.** MarkText has been uninstalled and should not be installed again.
+
+**Important:** Only the final article/guide/document is pushed to the research repo and imported to the website — NOT the background `research_<topic>_salafi.md` files, unless the user explicitly asks for those too.
 
 ## What to NEVER Do
 
@@ -190,6 +195,6 @@ When the user asks to update or improve an existing document, **read it first**,
 5. Save the article to `C:\Users\ahmed\research-notes\importance_of_dua.md`.
 6. Tell the user where both files were saved.
 7. **Verify and fix ALL source links** — extract every URL from the article and research files, visit each one with webfetch to confirm it works, fix any broken URLs (especially binbaz.org.sa links must have the full Arabic slug), and report the results to the user.
-8. Open the article in MarkText (the markdown preview app) for the user to review.
-9. Ask the user: "Do you want to push this article to GitHub?" with 2 options: "Yes, push to GitHub" or "No, keep it local".
-10. If yes, push `importance_of_dua.md` to `https://github.com/shahriar0247/islamic-research-skill` and confirm with the GitHub URL.
+8. Copy `importance_of_dua.md` into `C:\Users\ahmed\OneDrive\Desktop\all\islamic-research-skill\research-notes\`, commit and push to `https://github.com/shahriar0247/islamic-research-skill`.
+9. Add the article metadata to `C:\Users\ahmed\OneDrive\Desktop\all\scholars-opinions\prisma\import-all-articles-firebase.ts`, run `npx tsx prisma/import-all-articles-firebase.ts` to import it to Firestore, then commit and push the website repo.
+10. Open `https://scholars-opinions.vercel.app/articles/importance-of-dua-in-islam` (or the actual slug) in the browser.
