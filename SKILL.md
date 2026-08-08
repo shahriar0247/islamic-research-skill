@@ -198,3 +198,37 @@ When the user asks to update or improve an existing document, **read it first**,
 8. Copy `importance_of_dua.md` into `C:\Users\ahmed\OneDrive\Desktop\all\islamic-research-skill\research-notes\`, commit and push to `https://github.com/shahriar0247/islamic-research-skill`.
 9. Add the article metadata to `C:\Users\ahmed\OneDrive\Desktop\all\scholars-opinions\prisma\import-all-articles-firebase.ts`, run `npx tsx prisma/import-all-articles-firebase.ts` to import it to Firestore, then commit and push the website repo.
 10. Open `https://scholars-opinions.vercel.app/articles/importance-of-dua-in-islam` (or the actual slug) in the browser.
+
+## Arabic / Primary Fatwa and Scholar Sites (Additional)
+
+For fusha Arabic research, prefer these verified primary sources over English translations:
+
+| Website | URL | Notes |
+|---------|-----|-------|
+| **Bin Baz** | binbaz.org.sa | Fatawa of Shaykh Ibn Baz. Always use the full Arabic slug URL. |
+| **Ibn Uthaymeen Foundation** | binothaimeen.net/ar/ | Fatawa, books, lessons. |
+| **Al-Uthaymeen Archive** | aluthaymeen.net/ | Another archive. |
+| **Al-Fawzan Official** | alfawzan.af.org.sa/ar/ | Fatawa and lessons. |
+| **Al-Albani Heritage Portal** | al-albany.com/ | Books, audio, fatawa. |
+| **Al-Albani Archive** | alalbani.info | Books, tapes, fatawa. |
+| **Al-Fatawa al-Albany** | fatawa-alalbany.com/ | Fatawa of al-Albani. |
+| **Permanent Committee / Ifta** | alifta.gov.sa | Official Saudi fatwa body. |
+| **Al-Ifta KSA** | aliftaksa.com/ | Archive of Permanent Committee fatawa. |
+| **Al-Fatawa.com** | al-fatawa.com/ | Curated fatawa from major scholars. |
+| **Midad** | midad.com/ | Lessons and fatawa of Salih Aali Shaikh and others. |
+| **IslamWeb** | islamweb.net | Qatar-based; verify scholar. |
+| **Fatawaa.com** | fatawaa.com/ | Senior scholars' fatawa; verify scholar. |
+| **Saa'id.net** | saaid.net/ | Salafi articles and books. |
+| **Salaf Voice** | salafvoice.com/ | Use with care; supervised by Yasir Burhami. |
+| **Shamela.ws** | shamela.ws/ | Book library; verify author. |
+| **Dorar.net** | dorar.net/ | Hadith and fatwa search; verify source. |
+
+## Websites to Avoid for Future Research
+
+| Website | Reason |
+|---------|--------|
+| **IslamQA (islamqa.info)** | User has instructed not to use this site for future research due to reliability concerns. Do not cite it in new articles. |
+
+### Important note on IslamQA
+
+The user has explicitly allowed IslamQA to be used **only for the existing Arabic fusha variant of the "taking notes in seeking knowledge" article**. For all other future research, do NOT use IslamQA. If a needed quote can only be found on IslamQA, search for an equivalent on one of the approved Arabic sites above before using it.
