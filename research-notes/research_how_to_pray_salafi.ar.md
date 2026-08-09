@@ -6,7 +6,7 @@
 
 **المصادر الأساسية:**
 - *شروط الصلاة وأركانها وواجباتها* للإمام محمد بن عبد الوهاب، ترجمة دار الإبانة (منشور على AbdurRahman.org)
-- *The Abridgement of the Prophet’s Prayer Described* للشيخ الألباني، ترجمة داوود بربنك (منشور على AbdurRahman.org)
+- *تلخيص صفة صلاة النبيﷺ* للشيخ الألباني، ترجمة داوود بربنك (منشور على AbdurRahman.org)
 - IslamQA.info (فتاوى: 11497، 226422، 12305، 242032، 13340، 65847، 77430، 12527)
 - BinBaz.org.sa
 - Sunnah.com
@@ -18,43 +18,43 @@
 
 ### IslamQA (الفتوى 12305)
 
-> “The importance of the prayer in Islam cannot be understated. It is the first pillar of Islam that the Prophet (peace and blessings be upon him) mentioned after mentioning the testimony of faith, by which one becomes a Muslim. It was made obligatory upon all the prophets and for all peoples.”
+> «لا يمكن التقليل من أهمية الصلاة في الإسلام. فهي أول أركان الإسلام التي ذكرها النبي ﷺ بعد ذكر شهادة التوحيد التي يدخل بها الإنسان في الإسلام. وقد فُرضت على جميع الأنبياء ولجميع الأمم.»
 
-> “Once a man asked the Prophet (peace and blessings be upon him) about the most virtuous deed. The Prophet (peace and blessings be upon him) stated that the most virtuous deed is the prayer. The man asked again and again. The first three times, the Prophet (peace and blessings be upon him) again answered, ‘The prayer,’ then on the fourth occasion he stated, ‘Jihad in the way of Allah.’ [Recorded by Ahmad and Ibn Hibban; classed as hasan by al-Albani, Sahih al-Targhib wa’l-Tarhib, 1/150]”
+> «سأل رجلٌ النبي ﷺ عن أفضل الأعمال، فأخبره النبي ﷺ أن أفضل الأعمال هو الصلاة. فسأله الرجل مرةً بعد مرة، ففي المراحل الثلاث الأولى أجاب النبي ﷺ: «الصلاة»، ثم في المرة الرابعة قال: «الجهاد في سبيل الله». [رواه أحمد وابن حبان؛ وحسّنه الألباني في صحيح الترغيب والترهيب 1/150]»
 
-> “The Prophet (peace and blessings be upon him) said: ‘The first matter that the slave will be brought to account for on the Day of Judgment is the prayer. If it is sound, then the rest of his deeds will be sound. And if it is bad, then the rest of his deeds will be bad.’ [Recorded by al-Tabarani; classed as sahih by al-Albani, Sahih al-Jami’, 1/503]”
+> «قال النبي ﷺ: «إن أول ما يُحاسب عليه العبد يوم القيامة هو الصلاة، فإن صَلَحَت صلح سائر عمله، وإن فسدت فسد سائر عمله». [رواه الطبراني؛ وصحّحه الألباني في صحيح الجامع 1/503]»
 
-> “Allah has obligated five prayers. Whoever excellently performs their ablutions, prays them in their proper times, completes their bows, prostrations and khushu` has a promise from Allah that He will forgive him. And whoever does not do that has no promise from Allah. He may either forgive him or punish him. [Recorded by Malik, Ahmad, Abu Dawud, al-Nasa’i and others; classed as sahih by al-Albani, Sahih al-Jami’, 1/616]”
+> «إن الله قد فرض خمس صلوات، من أحسن وضوءها وصلّاها في مواقيتها وأتمّ ركوعها وسجودها وخشوعها، فله من الله عهدٌ أن يغفر له، ومن لم يفعل ذلك فلا عهد له من الله، إن شاء عذّبه وإن شاء غفر له. [رواه مالك وأحمد وأبو داود والنسائي وغيرهم؛ وصحّحه الألباني في صحيح الجامع 1/616]»
 
 **الرابط:** https://islamqa.info/en/answers/12305
 
 ### الإمام ابن باز في خطورة ترك الصلاة
 
-> “The Prophet (peace be upon him) said, ‘Verily, between a man and Shirk and Kufr is the negligence of prayer.’ (Related by Muslim in his Sahih on the authority of Jabir Ibn `Abdullah). He (peace be upon him) also said, ‘The covenant that distinguishes between us and them (the hypocrites) is Salah. Anyone who abandons it is a Kafir.’ (Related by Imam Ahmad, Abu Dawud, Al-Tirmidhy, Al-Nasa’y, and Ibn Majah with a Sahih chain of transmission on the authority of Buraydah ibn Al-Hasib).”
+> «قال النبي ﷺ: «إن بين الرجل وبين الشرك والكفر ترك الصلاة». (رواه مسلم في صحيحه عن جابر بن عبد الله رضي الله عنه). وقال ﷺ أيضاً: «العهد الذي بيننا وبينهم (المنافقين) الصلاة، فمن تركها فقد كفر». (رواه الإمام أحمد وأبو داود والترمذي والنسائي وابن ماجه بسند صحيح عن بريدة بن الحصيب رضي الله عنه).»
 
 **الرابط:** https://abdurrahman.org/category/islam/kufr-disbelief/
 
 ### أدلة قرآنية
 
-> “Verily, the prayer keeps one from the great sins and evil deeds” (Quran, Surah Al-‘Ankabut 29:45)
+> ﴿إِنَّ الصَّلَاةَ تَنْهَىٰ عَنِ الْفَحْشَاءِ وَالْمُنْكَرِ﴾ (القرآن، سورة العنكبوت 29:45)
 
-> “Indeed, prayer has been decreed upon the believers at specified times.” (Quran, Surah An-Nisa 4:103)
+> ﴿إِنَّ الصَّلَاةَ كَانَتْ عَلَى الْمُؤْمِنِينَ كِتَابًا مَوْقُوتًا﴾ (القرآن، سورة النساء 4:103)
 
-> “Guard strictly your prayers, especially the middle prayer…” (Quran, Surah Al-Baqarah 2:238)
+> ﴿حَافِظُوا عَلَى الصَّلَوَاتِ وَالصَّلَاةِ الْوُسْطَىٰ﴾ (القرآن، سورة البقرة 2:238)
 
 ---
 
 ## 2. تعريفات: الركن، الواجب، السنة، الشرط
 
-من *The Abridgement of the Prophet’s Prayer Described* للشيخ الألباني:
+من *تلخيص صفة صلاة النبيﷺ* للشيخ الألباني:
 
-> “So the pillar (rukn) is that which is essential for completion of the affair that it falls within, being such that its absence necessitates that the action depending upon it is nullified. An example is the bowing (rukoo’) in the Prayer – it is a pillar of it, and if it is absent then the Prayer is nullified.”
+> «فالركن هو ما يتوقف عليه تمام الأمر الذي هو داخل فيه، بحيث يقتضي عدمُه بطلانَ العمل الذي يتوقف عليه. ومثاله الركوع في الصلاة، فهو ركنٌ منها، وإذا انتفى بطلت الصلاة.»
 
-> “The condition (shart) is like the pillar (rukn) except that it is something outside the action that is dependant upon it. An example is the ablution (wudoo) for the Prayer. Prayer is not correct without it.”
+> «والشرط كالركن إلا أنه أمرٌ خارج عن العمل الذي يتوقف عليه، ومثاله الوضوء للصلاة، فلا تصح الصلاة بدونه.»
 
-> “The obligation (waajib) is that which has an established command in the Book or the Sunnah, but there is no proof that it is a pillar (rukn) or a condition (shart). One who carries it out is rewarded, and one who leaves it without valid excuse is punished.”
+> «والواجب هو ما ثبت الأمر به في الكتاب أو السنة، ولكن لا دليل على أنه ركن أو شرط، ففاعله يُؤجر وتاركه بغير عذر يُعاقب.»
 
-> “The sunnah is an action of worship that the Prophet (peace and blessings be upon him) continually performed, either always doing it or usually doing it, but which he did not command in a manner causing it to be an obligation. It is such that one who carries it out is rewarded, but one who leaves it out is not punished or blameworthy.”
+> «والسنة فعلُ عبادةٍ كان النبي ﷺ يواظب عليها، إما دائماً أو غالباً، ولكنه لم يأمر بها أمرَ إيجاب، ففاعلها يُؤجر وتاركها لا يُعاقب ولا يُلام.»
 
 **الرابط:** https://abdurrahman.org/2016/07/23/the-abridgement-of-the-prophets-prayer-described/
 
@@ -64,7 +64,7 @@
 
 من *شروط الصلاة وأركانها وواجباتها* للإمام محمد بن عبد الوهاب، ملخص على AbdurRahman.org:
 
-> “A condition (shart) is something that is required before the commencement of prayer in order for it to be valid.”
+> «الشرط هو أمرٌ مطلوب قبل الشروع في الصلاة لكي تصح.»
 
 **شروط الصلاة التسعة:**
 
@@ -82,13 +82,13 @@
 
 ### الإمام الألباني في النية
 
-> “The person who is going to pray must have in his heart the intention to pray that particular Prayer, be it the Obligatory Zuhr or ‘Asr Prayer, or the sunnah Prayer’s for them, for example. This is a condition (shart) or a pillar (rukn). As for expressing that upon the tongue, then it is an innovation (bid’ah), contrary to the sunnah. This was not upheld by any of the Imaams followed by the blindfollowers.”
+> «يجب على من يريد الصلاة أن ينوي في قلبه أداءَ تلك الصلاة المعينة، سواء كانت فريضة الظهر أو العصر، أو سنّتها مثلاً. وهذا شرط أو ركن. أما التلفظ بذلك على اللسان فهو بدعةٌ مخالفة للسنة، لم يقل به أحدٌ من الأئمة المتبوعين.»
 
 **الرابط:** https://abdurrahman.org/2016/07/23/the-abridgement-of-the-prophets-prayer-described/
 
 ### IslamQA في النية
 
-> “According to the consensus of scholars, the intention of doing Wudu or Ghusl, of praying, fasting, paying Zakah, and other acts of worship does not need to be uttered verbally. Rather the place of intention is the heart.”
+> «وباتفاق العلماء، فإن نية الوضوء أو الغسل أو الصلاة أو الصيام أو إخراج الزكاة وغيرها من العبادات لا يحتاج أن يُنطق بها باللسان، بل محل النية القلب.»
 
 **الرابط:** https://islamqa.info/en/answers/13337
 
@@ -98,58 +98,58 @@
 
 ### الفرائض الواجبة في الوضوء (من IslamQA 226422 و 11497)
 
-> “The pillars of wudu are: washing the face, washing the arms up to the elbows, wiping the head, washing the feet up to the ankles, washing these parts in order, doing these actions consecutively.”
+> «أركان الوضوء هي: غسل الوجه، وغسل اليدين إلى المرفقين، ومسح الرأس، وغسل القدمين إلى الكعبين، وترتيب هذه الأعضاء، والموالاة بينها.»
 
-> “There are six essential pillars of wudu:
-> 1. Washing the face, of which the mouth and nose are part.
-> 2. Washing the arms up to the elbows.
-> 3. Wiping the head.
-> 4. Washing the feet up to the ankles.
-> 5. Washing these parts of the body in the proper order.
-> 6. Doing these actions consecutively (that is, washing one after the other, with no lengthy lapse of time in between).”
+> «للوضوء ستة أركان واجبة:
+> 1. غسل الوجه، ومنه المضمضة والاستنشاق.
+> 2. غسل اليدين إلى المرفقين.
+> 3. مسح الرأس.
+> 4. غسل القدمين إلى الكعبين.
+> 5. ترتيب غسل هذه الأعضاء.
+> 6. الموالاة بين هذه الأفعال (أي غسل عضوٍ بعد آخر دون فاصل زمني طويل).»
 
 **الرابط:** https://islamqa.info/en/answers/226422
 
 ### وصف الوضوء الكامل (من IslamQA 11497)
 
-> “With regard to how wudu is to be done, there are two ways; the complete and the acceptable way.…
-> 1 – Obligatory parts of wudu: 1) Washing the face completely once, which includes rinsing the mouth and nose. 2) Washing the arms up to the elbows, once. 3) Wiping the entire head, including the ears. 4) Washing the feet up to the ankles, once.
-> This must be done in order, so one washes the face first, then the arms, then wipes the head, then washes the feet, because the Prophet (peace and blessings of Allah be upon him) did wudu in this order.
-> This must be done continuously, i.e., the parts of the body must be washed one after the other with no lengthy interruption between washing one part and the next.”
+> «أما كيفية الوضوء فله صفتان: الكاملة والكافية.…
+> 1 – أركان الوضوء: 1) غسل الوجه كاملاً مرةً واحدة، ومنه المضمضة والاستنشاق. 2) غسل اليدين إلى المرفقين مرةً واحدة. 3) مسح الرأس كاملاً بما في ذلك الأذنين. 4) غسل القدمين إلى الكعبين مرةً واحدة.
+> ويجب أن يكون ذلك مرتباً، فيغسل الوجه أولاً ثم اليدين ثم يمسح الرأس ثم يغسل القدمين، لأن النبي ﷺ توضأ بهذا الترتيب.
+> ويجب أن يكون ذلك متوالياً، أي يغسل الأعضاء واحداً بعد الآخر دون انقطاع طويل بين غسل عضو وآخر.»
 
-> “2 – Mustahabb parts of wudu: 1. You must have the intention of purifying yourself and removing impurity. The intention should not be spoken out loud for its place is in the heart. 2. You should say Bismillah. 3. Then you should wash your hands three times. 4. Then you should rinse your mouth three times… 5. You should wash your face three times, from the hairline to the jawbone and chin, and from ear to ear. 6. Then he should wash his arms up to the elbows three times… 7. Then after that he should wipe his head and ears once with fresh water… 8. Then you should wash your feet three times up to the ankles…”
+> «2 – المستحبات في الوضوء: 1. أن ينوي الطهارة وإزالة الحدث، والنية لا يُجهَر بها لأن محلها القلب. 2. أن يقول: بسم الله. 3. ثم يغسل كفيه ثلاثاً. 4. ثم يتمضمض ثلاثاً… 5. ثم يغسل وجهه ثلاثاً من منابت الشعر إلى ما تحت الذقن ومن الأذن إلى الأذن. 6. ثم يغسل يديه إلى المرفقين ثلاثاً… 7. ثم يمسح رأسه وأذنيه مرةً واحدة بماء جديد… 8. ثم يغسل قدميه ثلاثاً إلى الكعبين…»
 
 **الرابط:** https://islamqa.info/en/answers/11497
 
 ### شروط الوضوء
 
-> “The conditions of wudu are: being Muslim, being of sound mind, having reached the age of discernment and having the intention of doing wudu. Wudu is not valid on the part of a non-Muslim, an insane person, a small child who has not yet reached the age of discernment or one who does not have the intention of doing wudu… The water must also be pure (tahir)… One must also remove anything that could prevent water from reaching the skin and nails, such as nail polish.”
+> «شروط الوضوء هي: الإسلام، والعقل، والتمييز، والنية. فلا يصح الوضوء من كافر، ولا من مجنون، ولا من صغير لم يبلغ سن التمييز، ولا ممن لم ينوِ الوضوء… ويجب أن يكون الماء طاهراً… كما يجب إزالة كل ما يمنع وصول الماء إلى البشرة والأظافر، كطلاء الأظافر.»
 
 **الرابط:** https://islamqa.info/en/answers/11497
 
 ### نواقض الوضوء من الإمام محمد بن عبد الوهاب
 
-> “The things that nullify (nawaaqid) the ablution are eight: (1) Whatever comes out from the two private parts; (2) Any foul impure substance that comes out from the body; (3) Loss of consciousness (i.e. sleep/insanity); (4) Touching a woman with sexual desire; (5) Touching one’s private part with the hand, whether it is the frontal or rear (private part); (6) Eating the meat of camels; (7) Bathing a deceased person; and (8) Apostating from Islaam, may Allaah protect us from that!”
+> «النواقض للوضوء ثمانية: (1) ما يخرج من السبيلين؛ (2) كل نجسٍ فاحش يخرج من البدن؛ (3) زوال العقل (أي النوم أو الجنون)؛ (4) مسّ المرأة بشهوة؛ (5) مسّ الفرج باليد سواء كان القُبُل أو الدُبُر؛ (6) أكل لحم الإبل؛ (7) تغسيل الميت؛ (8) الردة عن الإسلام، نسأل الله العافية!»
 
 **الرابط:** https://abdurrahman.org/2014/10/01/the-conditions-pillars-and-requirements-of-the-prayer-imaam-muhammad-bin-abdil-wahhaab/
 
 ### ابن باز فيما يخرج من الفرجين
 
-> "كل ما يخرج من الفرجين من السوائل فهو ينقض الوضوء، بحق الرجل والمرأة؛ لقول الله سبحانه: وَإِنْ كُنْتُمْ مَرْضَىٰ أَوْ عَلَىٰ سَفَرٍ أَوْ جَاءَ أَحَدٌ مِنْكُمْ مِنَ الْغَائِطِ أَوْ لَامَسْتُمُ النِّسَاءَ فَلَمْ تَجِدُوا مَاءً فَتَيَمَّمُوا صَعِيدًا …"
+> «كل ما يخرج من الفرجين من السوائل فهو ينقض الوضوء، بحق الرجل والمرأة؛ لقول الله سبحانه: ﴿وَإِنْ كُنْتُمْ مَرْضَىٰ أَوْ عَلَىٰ سَفَرٍ أَوْ جَاءَ أَحَدٌ مِنْكُمْ مِنَ الْغَائِطِ أَوْ لَامَسْتُمُ النِّسَاءَ فَلَمْ تَجِدُوا مَاءً فَتَيَمَّمُوا صَعِيدًا﴾…»
 
 **الرابط:** https://binbaz.org.sa/categories/fiqhi/15?page=1
 
 ### ما يُقال بعد الوضوء
 
-> “It is mustahabb to say, when one has completed wudu: ‘Ashhadu an la ilaha ill-Allah wahdahu la sharika lah, wa ashhadu anna Muhammadan ‘abduhu wa rasuluhu…’ because the Prophet (peace and blessings of Allah be upon him) said: ‘Whoever does wudu and does it properly and does it well, then he says that, the gates of Paradise will be opened to him…’ (Narrated by Muslim, al-Taharah, 345)”
+> «يُستحب لمن فرغ من الوضوء أن يقول: «أشهد أن لا إله إلا الله وحده لا شريك له، وأشهد أن محمداً عبده ورسوله…» لأن النبي ﷺ قال: «من توضأ فأحسن الوضوء ثم قال ذلك، فُتحت له أبواب الجنة الثمانية…» (رواه مسلم، كتاب الطهارة، رقم 345)»
 
 **الرابط:** https://islamqa.info/en/answers/11497
 
 ### ملاحظة على الغُسل
 
-> “If you are in a state of Janabah (i.e. after a sexual discharge), purify yourselves (bathe your whole body).” (Quran, Surah Al-Ma’idah 5:6)
+> ﴿وَإِنْ كُنْتُمْ جُنُبًا فَاطَّهَّرُوا﴾ (القرآن، سورة المائدة 5:6)
 
-> “The point is that the one who is junub should not recite Quran either from the Mus-haf or from memory, until he has taken a bath (ghusl).”
+> «والخلاصة أن الجنب لا يقرأ القرآن لا من المصحف ولا عن ظهر قلب، حتى يغتسل.»
 
 **الرابط:** https://islamqa.info/en/answers/10672
 
@@ -159,7 +159,7 @@
 
 من *شروط الصلاة وأركانها وواجباتها* للإمام محمد بن عبد الوهاب:
 
-> “The pillars (arkaan) are that which if one fails to perform any of them out of forgetfulness or intentionally, his prayer is rendered invalid because of his abandoning it. Sujood as Sahuw will not make up for someone neglecting one of these pillars – even out of forgetfulness.”
+> «الأركان هي ما إذا تَرَكَها المصلي ولو سهواً أو عمداً بطلت صلاته لتركه إياها، ولا يُجبر سجودُ السهو تاركَ ركنٍ ولو كان عن سهو.»
 
 **أركان الصلاة الأربعة عشر:**
 
@@ -182,31 +182,31 @@
 
 ### الألباني في وجوب القيام
 
-> “It is obligatory that the person prays standing. This is a pillar (rukn) except for: (i) The one who is praying the Fear Prayer or during severe fighting… (ii) Also the one who is ill and the one who is unable to stand, he should pray sitting if he is able, or if not then whilst lying down. (iii) Also the person praying Optional (Nafl) Prayer, he may pray whilst riding or whilst sitting if he wishes…”
+> «يجب على المصلي أن يصلي قائماً، وهذا ركنٌ إلا في ثلاث حالات: (1) من يصلي صلاة الخوف أو في شدة القتال… (2) المريض والعاجز عن القيام يصلي جالساً إن قدر، وإلا فمضطجعاً. (3) المصلي للنافلة قد يصلي راكباً أو جالساً إن شاء…»
 
 **الرابط:** https://abdurrahman.org/2016/07/23/the-abridgement-of-the-prophets-prayer-described/
 
 ### الألباني في تكبيرة الإحرام
 
-> “He begins the Prayer by saying: Allaahu Akbar – Allaah is Greater. This is a pillar (rukn), due to his saying, ‘The key to the Prayer is Purification. That which makes outside actions forbidden is the takbeer, and that which causes outside actions to become permissible is the tasleem.’"
+> «يبدأ الصلاة بقول: «الله أكبر»، وهذا ركن، لقوله ﷺ: «مفتاح الصلاة الطهور، وتحريمها التكبير، وتحليلها التسليم».»
 
 **الرابط:** https://abdurrahman.org/2016/07/23/the-abridgement-of-the-prophets-prayer-described/
 
 ### الحديث في تكبيرة الإحرام
 
-> “The key to the prayer is Purification. That which makes outside actions forbidden is the takbeer, and that which causes outside actions to become permissible is the tasleem.”
+> «مفتاح الصلاة الطهور، وتحريمها التكبير، وتحليلها التسليم.»
 
 **المراجع:** أبو داود (61)، الترمذي (3)، ابن ماجه (275)؛ صحّحه الألباني (صحيح الجامع رقم 576)
 
 ### الحديث في قراءة الفاتحة
 
-> “There is no prayer for the one who does not recite the Opening of the Book (Fatihat al-Kitab).”
+> «لا صلاة لمن لم يقرأ بفاتحة الكتاب.»
 
 **المراجع:** صحيح البخاري (756)، صحيح مسلم (394)، النسائي (911)، ابن ماجه (841) — صحيح، متفق عليه.
 
 ### الحديث في أعضاء السجود السبعة
 
-> “I have been ordered to prostrate on seven bones: the forehead (along with the tip of nose), both hands, both knees, and the toes of both feet.”
+> «أُمرت أن أسجد على سبعة أعظم: الجبهة (مع الأنف)، والكفين، والركبتين، وأطراف القدمين.»
 
 **المراجع:** صحيح البخاري (809)، صحيح مسلم (490) — صحيح، متفق عليه.
 
@@ -216,7 +216,7 @@
 
 من *شروط الصلاة وأركانها وواجباتها*:
 
-> “The requirements (waajibaat) are that which if one fails to perform any of them intentionally, then his prayer is rendered invalid due to his abandoning it, but if he left it due to forgetfulness, then his prayer is not nullified, but he is obligated to perform the prostration of forgetfulness (sujood as-sahu).”
+> «الواجبات هي ما إذا تَرَكَها المصلي عمداً بطلت صلاته لتركه إياها، وإن تركها سهواً لم تبطل صلاته، ولكنه يلزمه سجود السهو.»
 
 **واجبات الصلاة الثمانية:**
 
@@ -233,65 +233,100 @@
 
 ### معنى سجود السهو
 
-> “Sujood as Sahuw is two prostrations that the one praying performs in order to make up for the forgetfulness or doubt that occurred in his prayer, such as forgetting a required act (waajib), or being uncertain as to whether he added or omitted something or whether it is the first time he is doing a particular act, or whether he is in the third or fourth rak'ah.”
+> «سجود السهو هو سجدتان يأتي بهما المصلي جبراً للسهو أو الشك الذي طرأ في صلاته، كنسيان واجب، أو الشك في زيادة أو نقص، أو الشك في عدد الركعات.»
 
 **الرابط:** https://abdurrahman.org/2014/10/01/the-conditions-pillars-and-requirements-of-the-prayer-imaam-muhammad-bin-abdil-wahhaab/
 
 ---
 
-## 8. خطوة بخطوة: ركعة واحدة
+## 7. سنن الصلاة
+
+من *تلخيص صفة صلاة النبيﷺ* للشيخ الألباني وفتوى IslamQA رقم 13340:
+
+> «السنن هي الأفعال التي كان النبي ﷺ يفعلها زيادةً على الأركان والواجبات والشروط، ويواظب عليها. ففاعلها مأجور، وتاركها غير آثم. لكن إن تركها دائماً فقد تَرَكَ السنة وأتى أمراً مذموماً.»
+
+**سنن الصلاة المذكورة في المصادر:**
+
+1. رفع اليدين عند تكبيرة الإحرام — إلى مستوى المنكبين أو أحياناً إلى شحمة الأذنين
+2. وضع اليد اليمنى على اليسرى على الصدر — وهذا للرجال والنساء سواء
+3. النظر إلى موضع السجود أثناء القيام
+4. الطمأنينة (استقرار الأعضاء قبل الانتقال إلى الركوع)
+5. دعاء الاستفتاح
+6. التعوذ
+7. قراءة البسملة
+8. قراءة سورة بعد الفاتحة في الركعتين الأوليين
+9. قول "آمين" بعد الفاتحة
+10. قول "ربنا ولك الحمد" بعد الاعتدال من الركوع
+11. قول "رب اغفر لي" بين السجدتين
+12. رفع اليدين مع التكبيرات
+13. الجلوس مفترشاً (القدم اليسرى مفروشة واليمنى منصوبة) بين السجدتين وفي التشهّد
+14. الإشارة بالسبابة في التشهّد
+
+**المصادر:** https://abdurrahman.org/2016/07/23/the-abridgement-of-the-prophets-prayer-described/ ؛ https://islamqa.info/en/answers/13340
+
+---
+
+## 8. خطوة بخطوة: وصف ركعة واحدة
+
+من *تلخيص صفة صلاة النبيﷺ* للشيخ الألباني (ترجمة داوود بربنك):
 
 ### أ. استقبال القبلة
 
-> “If you are praying in congregation, then you should stand in line with the congregation; if you are praying alone, you should stand facing the qiblah, and your entire body should be facing it as much as possible. If you are unable to stand, then you may pray sitting, and if you are unable to sit, you may pray lying down on your right side.”
+> «إذا قمت أيها المسلم لتصلي، فاستقبل الكعبة حيثما كنت، في الفرض والنفل، وهذا ركنٌ من أركان الصلاة لا تصح بدونه.»
 
-**الرابط:** https://islamqa.info/en/answers/10584
+### ب. القيام (القيام)
 
-### ب. النية ثم تكبيرة الإحرام
+> «يجب على المصلي أن يصلي قائماً، وهذا ركنٌ إلا في ثلاث حالات: (1) من يصلي صلاة الخوف أو في شدة القتال… (2) المريض والعاجز عن القيام يصلي جالساً إن قدر، وإلا فمضطجعاً. (3) المصلي للنافلة قد يصلي راكباً أو جالساً إن شاء…»
 
-> “He begins the Prayer by saying: Allaahu Akbar – Allaah is Greater. This is a pillar (rukn), due to his saying, ‘The key to the Prayer is Purification. That which makes outside actions forbidden is the takbeer, and that which causes outside actions to become permissible is the tasleem.’"
+### ج. رفع اليدين ووضعهما
 
-**الرابط:** https://abdurrahman.org/2016/07/23/the-abridgement-of-the-prophets-prayer-described/
+> «يرفع يديه مع التكبير أو قبله أو بعده… يرفع كفيه إلى مستوى منكبيه، وأحياناً يرفعهما أكثر إلى مستوى شحمة أذنيه.»
 
-### ج. رفع اليدين مع التكبير
+> «ثم بعد التكبير يضع يده اليمنى على اليسرى… يضع يده اليمنى على يده اليسرى والرسغ والساعد… ولا يضع يديه إلا على صدره، وهذا للرجال والنساء سواء.»
 
-> “He raises his hands with the takbeer. He raises them to the level of his shoulders or the top portion of the ears, saying, ‘Allaahu Akbar.’ This is a recommended action (sunnah).”
+### د. الخشوع والنظر إلى موضع السجود
 
-**الرابط:** https://abdurrahman.org/2016/07/23/the-abridgement-of-the-prophets-prayer-described/
+> «يجب أن يكون خاشعاً حاضر القلب في صلاته، وأن يتجنب كل ما يصرفه عن ذلك… وأثناء القيام ينظر إلى موضع سجوده، ولا يلتفت يميناً ولا شمالاً… ولا يجوز له أن يرفع بصره إلى السماء.»
 
-### د. الخشوع في الوقوف
+### هـ. دعاء الاستفتاح
 
-> “Then he stands and places his right hand over his left, clasping his right hand over the back of the left hand, wrist and forearm. This is a recommended action (sunnah). He does this in every rak'ah in which he is standing. He stands to the extent that all of his limbs are at rest, before going into rukoo` (bowing).”
+> «ثم يبدأ بقراءة أحد الأدعية الثابتة عن النبي ﷺ، وهي كثيرة. وأشهرها: «سبحانك اللهم وبحمدك، وتبارك اسمك، وتعالى جدك، ولا إله غيرك».»
 
-**الرابط:** https://abdurrahman.org/2016/07/23/the-abridgement-of-the-prophets-prayer-described/
+### و. القراءة
 
-### هـ. دعاء الاستفتاح (استفتاح)
+> «ثم يستعيذ بالله العلي، وهو واجب، يأثم بتركه. والسنة أن يقول أحياناً: «أعوذ بالله من الشيطان الرجيم [من همزه ونفخه ونفثه]». ثم يقول سراً في الصلاة الجهرية والسرية: «بسم الله الرحمن الرحيم».»
 
-> “Then if he wishes he may seek refuge with Allah (saying): A'oodhu billaahi min ash-shaytaanir-rajeem. Then he recites the opening supplication (du'a al-istiftah) silently, between himself and his Lord, saying: ‘Allaahumma baa'id baynee wa bayna khataayaaya kamaa baa'adta baynal-mashriqi wal-maghribi…’ He does this in the first rak'ah only. As for seeking refuge, then it is to be done in the first and second rak'ahs. As for the obligatory (fard) prayers, then he does so in the first two rak'ahs only.”
+> «ثم يقرأ سورة الفاتحة كاملة، و(بسم الله…) آيةٌ منها. وهذا ركن، لا تصح الصلاة بدونه. فيجب على من لا يعرف العربية أن يحفظها. ومن عجز عن قراءتها فله أن يقول: «سبحان الله، والحمد لله، ولا إله إلا الله، والله أكبر، ولا حول ولا قوة إلا بالله».»
 
-**الرابط:** https://abdurrahman.org/2016/07/23/the-abridgement-of-the-prophets-prayer-described/
+> «من السنة بعد قراءة الفاتحة أن يقرأ سورة أخرى — حتى في صلاة الجنازة — أو أن يقرأ بعض الآيات في الركعتين الأوليين… ويجب قراءة الفاتحة في كل ركعة.»
 
-### و. قراءة البسملة والفاتحة
+### ز. الركوع
 
-> “Then he recites the Opening of the Book (Surah al-Fatihah): Bismillaahir-rahmaanir-raheem. Al-hamdu lillaahi rabbil-'aalameen. Ar-rahmaanir-raheem. Maaliki yawmid-deen. Iyyaaka na'budu wa iyyaaka nasta'een. Ihdinas-siraatal-mustaqeem. Siraatal-lazeena an'amta 'alayhim ghayril-maghdoobi 'alayhim walad-daaalleen. Aameen. (We say it behind the imaam). Then he recites whatever is easy for him of the Qur'aan after Surah al-Fatihah, and the best is to recite a complete surah. The aameen is from the actions of the Prayer – if he says it, it is a sunnah. If he is praying behind an imaam, it is to be said when the imaam says it.”
+> «إذا فرغ من القراءة سكت لحظة… ثم رفع يديه… وكبّر (أي قال: الله أكبر)، وهذا واجب. ثم يركع بحيث تستقر جميع مفاصله ويطمئن كل عضو، وهذا ركن.»
 
-**الرابط:** https://abdurrahman.org/2016/07/23/the-abridgement-of-the-prophets-prayer-described/
+> «يضع يديه على ركبتيه بثبات، ويفرج بين أصابعه كأنه قابضٌ على ركبتيه، وكل هذا واجب. ويمدّ ظهره ويجعله مستوياً بحيث لو صُبّ عليه الماء لاستقر، وهذا واجب… ويقول في ركوعه: «سبحان ربي العظيم» ثلاث مرات أو أكثر.»
 
-### ز. الركوع والاعتدال منه
+### ح. الاعتدال من الركوع
 
-> “Then he says Allaahu Akbar, raising his voice for the one who is praying alone or the one leading others. Then he bends down for rukoo` and places his hands upon his knees, and puts his fingers together, as if he is grasping them. He stretches out his back, making it level and parallel with the ground, so much so that if water were poured upon it, it would settle there. It is not sufficient for him to merely bend his head lower than his back. He should make his back level and then say in his rukoo`: ‘Subhaana Rabbiyal-'Azeem. Subhaana Rabbiyal-'Azeem. Subhaana Rabbiyal-'Azeem.’ He says this three times or more. Then he raises his head saying: Sami'allaahu liman hamidah (Allaah listens to the one who praises Him). And the one following the imaam says this and the one praying alone also says it. Then he stands up straight, until every bone has returned to its place. Then he says: Rabbanaa wa lakal-hamd. The one following the imaam does not say this, since it is not confirmed from the Prophet (peace and blessings be upon him) for the one praying behind an imaam. As for the one praying alone, then he says it.”
+> «ثم يرفع ويعتدل من الركوع، وهذا ركن. ويقول أثناء رفعه: «سمع الله لمن حمده»، وهذا واجب… ثم يقوم معتدلاً حتى يستقر كل عظم في موضعه، وهذا ركن. ويقول في قيامه: «ربنا ولك الحمد»، وهذا واجب على كل مصلي ولو كان مأموماً.»
 
-**الرابط:** https://abdurrahman.org/2016/07/23/the-abridgement-of-the-prophets-prayer-described/
+### ط. السجود
 
-### ح. السجود على السبعة
+> «ثم يقول: الله أكبر، وهذا واجب… ثم يسجد، ويضع يديه على الأرض قبل ركبتيه… فإذا سجد — وهو ركن — يعتمد على كفيه ويبسطهما… ويجب أن يرفع مرفقيه عن الأرض، ولا يجوز له أن يفرشهما كالكلب. ويجب أن يضع أنفه وجبهته بثبات على الأرض، وهذا ركن. ويجب أن يضع ركبتيه بثبات على الأرض، وكذلك أطراف قدميه… ويكونا منصوبين على الأرض… وأطراف أصابعه إلى القبلة… وعقبيه ملتصقتان.»
 
-> “Then he says: Allaahu Akbar and prostrates, not putting his hands down before his knees. Then he prostrates upon the seven bones: the forehead (along with the tip of nose), both hands, both knees and the toes of both feet. These are the seven bones mentioned by the Prophet (peace and blessings of Allah be upon him) in the authentic hadeeth. He places his forehead upon the ground, and also the nose, in accordance with what he reported from the Prophet (peace and blessings be upon him). He should not rest upon the tip of the nose alone, nor upon the forehead alone. Then he says: Subhaana Rabbiyal-a'laa. Subhaana Rabbiyal-a'laa. Subhaana Rabbiyal-a'laa. (It is best to say it three or more times). Then he raises his head saying: Allaahu Akbar, and sits up for a moment, in a position that makes his legs comfortable. He does not sit upon the heels of his feet (like the jilsat al-istiraahah). Then he prostrates a second time saying Allaahu Akbar and does as he did in the first prostration. Then he raises his head saying Allaahu Akbar and stands up on the tips of his toes, supporting himself with his hands, unless he is unable due to weakness.”
+> «ويجب أن يطمئن في سجوده، وذلك باستوائه على كل الأعضاء التي تلامس الأرض في السجود، وهي: الجبهة والأنف معاً، والكفان، والركبتان، وأطراف القدمين… ويقول فيه: «سبحان ربي الأعلى» ثلاث مرات أو أكثر.»
 
-**الرابط:** https://abdurrahman.org/2016/07/23/the-abridgement-of-the-prophets-prayer-described/
+### ي. الجلوس بين السجدتين
 
-### ط. القيام إلى الركعة الثانية
+> «ثم يرفع رأسه مكبّراً (أي: الله أكبر)، وهذا واجب… ثم يجلس مطمئناً حتى يستقر كل عظم في موضعه، وهذا ركن. يفترش قدمه اليسرى ويجلس عليها، وهذا واجب، وينصب قدمه اليمنى… ويقول في جلوسه: «اللهم اغفر لي وارحمني واجبرني وارفعني وعافني وارزقني». وإن شاء قال: «رب اغفر لي، رب اغفر لي».»
 
-> “Then he stands up for the second rak'ah and does not sit, but prays the second rak'ah as he did the first one. Then he sits after the second prostration of the second rak'ah, upon his left foot, and places the right foot upright, pointing its toes towards the qiblah, due to the saying of the Prophet (peace and blessings of Allah be upon him): ‘When one of you sits in the Prayer, he should place his left foot between his thigh and shin, and place his right foot upright.’ If he is unable to sit in this manner, then he may sit in whatever way he is able.”
+### ك. السجدة الثانية
+
+> «ثم يقول: الله أكبر، وهذا واجب… ويسجد السجدة الثانية، وهي ركن أيضاً، يفعل فيها كما فعل في الأولى.»
+
+### ل. القيام إلى الركعة الثانية
+
+> «فإذا رفع رأسه من السجدة الثانية وأراد القيام للركعة الثانية، قال: الله أكبر، وهذا واجب. ويجلس لحظةً على قدمه اليسرى حتى يستقر كل عظم في موضعه قبل القيام. ثم يقوم معتمداً على الأرض بقبضتيه كالمعجن لعجينه.»
 
 **الرابط:** https://abdurrahman.org/2016/07/23/the-abridgement-of-the-prophets-prayer-described/
 
@@ -299,27 +334,29 @@
 
 ## 9. التشهّد والتسليم
 
-### التشهّد الأول
+### التشهّد
 
-> “Then he sits after the second prostration of the second rak'ah and recites the first tashahhud: ‘At-tahiyyaatu lillaahi was-salawaatu wat-tayyibaatu. As-salaamu 'alayka ayyuhan-nabiyyu wa rahmatullaahi wa barakaatuhu. As-salaamu 'alaynaa wa 'alaa 'ibaadillaahis-saalihin. Ash-hadu an laa ilaaha ill-allaah, wa ashhadu anna Muhammadan 'abduhu wa rasooluhu.’ He does this in the second rak'ah of every prayer in which there is more than two rak'ahs. As for the second rak'ah of the two-rak'ah prayers, then he recites the final tashahhud after it. As for the one following the imaam, then he does not recite any tashahhud in the first sitting, since the imaam will do that on his behalf. He merely remains silent and says the tasleem after the imaam says it.”
+> «فإذا فرغ من الركعة الثانية جلس للتشهّد، وهذا واجب. ويجلس على قدمه اليسرى مفروشة… ولا يجوز الجلوس على العقبين في هذا الجلوس. يقبض جميع أصابع يده اليمنى… ويشير بسبابته إلى القبلة… ويحدّق بصره في سبابته… ويحركها داعياً بها من أول التشهّد إلى آخره. ولا يشير بسبابة يده اليسرى. ويفعل هذا في كل تشهّد.»
 
-**الرابط:** https://abdurrahman.org/2016/07/23/the-abridgement-of-the-prophets-prayer-described/
-
-### التشهّد الأخير والصلاة على النبي
-
-> “Then he stands up for the third rak'ah, without sitting, in the prayers that are more than two rak'ahs. He does the third and fourth rak'ahs as he did the first and second. Then he sits for the final tashahhud after the second prostration of the final rak'ah. He recites the same tashahhud as the first tashahhud, and then he invokes blessings upon the Prophet (peace and blessings of Allah be upon him): ‘Allaahumma salli 'alaa Muhammadin wa 'alaa aali Muhammadin, kamaa sallayta 'alaa Ibraaheema wa 'alaa aali Ibraaheema, innaka Hameedun Majeed. Allaahumma baarik 'alaa Muhammadin wa 'alaa aali Muhammadin, kamaa baarakta 'alaa Ibraaheema wa 'alaa aali Ibraaheema, innaka Hameedun Majeed.’ Then he seeks refuge with Allah from four things: ‘Allaahumma innee a'oodhu bika min 'adhaabi jahannama, wa min 'adhaabil-qabr, wa min fitnatil-mahyaa wal-maamaati, wa min fitnatil-maseehid-dajjaal.’ Then he may supplicate with whatever has been reported from the Prophet (peace and blessings of Allah be upon him) from the supplications after the final tashahhud.”
+> «التشهّد واجب، فإن نسيه سجد للسهو سجدتين في آخر الصلاة. وصيغته: «التحيات لله، والصلوات، والطيبات. السلام على النبي ورحمة الله وبركاته. السلام علينا وعلى عباد الله الصالحين. أشهد أن لا إله إلا الله، وأشهد أن محمداً عبده ورسوله».»
 
 **الرابط:** https://abdurrahman.org/2016/07/23/the-abridgement-of-the-prophets-prayer-described/
+
+### الصلاة الإبراهيمية
+
+> «ثم يصلي على النبي ﷺ قائلاً: «اللهم صلِّ على محمد، وعلى آل محمد، كما صليت على إبراهيم، وعلى آل إبراهيم، إنك حميد مجيد. اللهم بارك على محمد، وعلى آل محمد، كما باركت على إبراهيم، وعلى آل إبراهيم، إنك حميد مجيد».»
+
+**المراجع:** صحيح البخاري؛ صحيح مسلم (405)؛ النسائي (1291)؛ ابن ماجه (904) — صحيح، متفق عليه.
 
 ### التسليم
 
-> “Then he turns his head to the right and says: As-salaamu 'alaykum wa rahmatullaah. Then he turns his head to the left and says: As-salaamu 'alaykum wa rahmatullaah. This is the final act of the prayer, and it is a pillar (rukn) of the prayer, due to the hadeeth: ‘The key to the Prayer is purification. That which makes outside actions forbidden is the takbeer, and that which causes outside actions to become permissible is the tasleem.’ The minimum that is sufficient for the tasleem is that he says it once, turning to the right. As for turning to the left, it is a sunnah, and the imaam, the one praying behind him, the one praying alone, and the woman all do this.”
+> «ثم يسلّم عن يمينه، وهو ركن، ملتفتاً حتى يُرى بياض خدّه الأيمن. ثم يسلّم عن يساره، ملتفتاً حتى يُرى بياض خدّه الأيسر… (أ) أن يقول: «السلام عليكم ورحمة الله وبركاته» عن يمينه، و«السلام عليكم ورحمة الله» عن يساره. (ب) أن يقول: «السلام عليكم ورحمة الله» عن يمينه ويساره. (ج) أن يقول: «السلام عليكم ورحمة الله» عن يمينه، و«السلام عليكم» عن يساره. (د) أن يسلّم تسليمةً واحدةً تلقاء وجهه ملتفتاً قليلاً إلى يمينه قائلاً: «السلام عليكم».»
 
 **الرابط:** https://abdurrahman.org/2016/07/23/the-abridgement-of-the-prophets-prayer-described/
 
 ### الاختلاف في جلوس التشهّد الأخير
 
-> “As for sitting, then he should sit on his left foot, keeping the right foot upright, or he may tuck both feet beneath him and sit on his buttocks — both are reported from the Prophet (peace and blessings of Allah be upon him). The scholars differed as to which is better; some said sitting on the left foot and keeping the right foot upright is better; others said tucking both feet under and sitting on the buttocks is better.”
+> «أما الجلوس، فيجلس على قدمه اليسرى وينصب اليمنى، أو يفرش قدميه ويجلس على وركيه — وكلاهما مرويٌ عن النبي ﷺ. واختلف العلماء أيهما أفضل؛ فقال بعضهم: الجلوس على اليسرى ونصب اليمنى أفضل، وقال آخرون: تفرش القدمين والجلوس على الوركين أفضل.»
 
 **الرابط:** https://islamqa.info/en/answers/65847
 
@@ -327,11 +364,35 @@
 
 ## 10. سجود السهو
 
+### الشيخ الألباني
+
+> «(يلزمه) في أي حالٍ إذا (صدر فعلٌ أو تُرك فعلٌ في الصلاة) عن سهو، ولو كان سنة.» *(سلسلة الهدى والنور، شريط 183)*
+
+> «في كل سجود سهو، لفاعله الخيار بين السجود قبل السلام أو بعده. والتفصيل المذكور في بعض الكتب — خاصة الحنبلية — بأن السجود قبل السلام للزيادة وبعده للنقص، لا أصل له.»
+
+> «من سها في صلاته فله الخيار: إن شاء سلّم (أولاً) وهذا أفضل مطلقاً، وإن شاء لم يسلّم إلا بعد إتمام سجدتي السهو.»
+
+> «نفس الذكر المعتاد في السجود والجلوس بين السجدتين؛ أي ليس هناك شيء خاص.»
+
+> «من ترك سجود السهو عمداً لا تبطل صلاته، ولكنه يأثم بتركه سجدتي السهو.»
+
+**المصادر:** الألباني، *سلسلة الهدى والنور* شريط 183؛ alalbani.info؛ IslamQA (77430، 12527).
+
+### ابن باز
+
+> «يسجد للسهو ولو في بيته، يسجد للسهو ولو في بيته، وإن كان إمامًا رجع وسجد بالحاضرين.»
+
+**الرابط:** https://binbaz.org.sa/categories/fiqhi/43/fatwa?page=10
+
+> «سجود السهو مشروع في جميع الصلوات نافلة، أو فريضة؛ لعموم الأحاديث.»
+
+**الرابط:** https://binbaz.org.sa/categories/fiqhi/43/fatwa?page=10
+
 ### متى يكون سجود السهو
 
-> “Sujood as Sahuw is performed if one omits one of the required acts (waajibaat) of the prayer, or if one doubts about the number of rak'ahs prayed, or adds something extra. If one omits a pillar (rukn), then sujood as Sahuw is not sufficient and the prayer is nullified, and he must repeat the prayer.”
+> «يشرع سجود السهو إذا ترك المصلي واجباً من واجبات الصلاة، أو شكّ في عدد الركعات، أو زاد شيئاً. أما إذا ترك ركناً فإن سجود السهو لا يكفي وتبطل الصلاة، فيجب إعادتها.»
 
-> “If the worshipper does something in prayer by mistake which is not one of its essential parts, then his prayer is not invalidated, and he should do the prostration of forgetfulness (sujood al-sahw) after the salaam.”
+> «إذا فعل المصلي شيئاً في الصلاة سهواً ليس من أركانها، فلا تبطل صلاته، ويسجد للسهو بعد السلام.»
 
 **المراجع:**
 - الإمام محمد بن عبد الوهاب، *شروط الصلاة وأركانها وواجباتها*
@@ -339,7 +400,7 @@
 
 ### وصف سجود السهو
 
-> “Sujood as Sahuw is two prostrations. He says in each prostration: Subhaana Rabbiyal-a'laa, as he does in the prostration of the prayer. He does this after the tasleem, or before the tasleem in some cases. If the omission is from the first part of the prayer, then the sujood is done before the tasleem. If the omission is from the latter part of the prayer, then the sujood is done after the tasleem. If the worshipper is in doubt as to whether he added or omitted something, then he should assume the lesser number and then do the sujood after the tasleem.”
+> «سجود السهو سجدتان، يقول في كل سجدة: «سبحان ربي الأعلى» كما في سجود الصلاة. يفعله بعد السلام أو قبله في بعض الحالات. فإن كان النقص في أول الصلاة فالسجود قبل السلام، وإن كان في آخرها فبعد السلام. وإن شكّ المصلي هل زاد أو نقص، بنى على الأقل ثم سجد بعد السلام.»
 
 **الرابط:** https://islamqa.info/en/answers/10584
 
@@ -347,62 +408,92 @@
 
 ## 11. الخشوع في الصلاة
 
-### تعريف الخشوع
+### ابن القيم
 
-> “Khushoo` is a state of the heart and body. It is the servitude and humility of the heart before the greatness of Allah. It is also the tranquility and composure of the limbs. If a person's heart is humble, the rest of his body parts will follow. The Prophet (peace and blessings of Allah be upon him) said: ‘I have been given permission to prostrate on seven bones, and I have been forbidden to fold my hair and clothing (in prayer).’ This shows that the body should be still and humble.”
+> «شبّه ابن القيم رحمه الله الخشوعَ في الصلاة بالروح في الجسد؛ فإذا خرجت الروح من الجسد مات الجسد، وكذلك الصلاة بلا خشوع تفقد روحها وجوهرها. وكأن المصلي بلا خشوع يُهدي عبداً ميتاً لملك. ثم كتب: «لا يقبلها الله ولا يثيبه عليها، وإن كان قد سقطت عنه الفريضة شرعاً».»
 
-**الرابط:** https://islamqa.info/en/answers/10584
+> «الخشوع إذاً هو وقوف القلب بين يدي الرب بالذل والانكسار والتوجه الكامل إليه.»
 
-### كيفية تحقيق الخشوع
+> «خشوع الإيمان الحقيقي هو أن يشعر القلب بالخوف والانكسار أمام عظمة الله وجلاله، فيمتلئ هيبةً وخوفاً وحياءً، فيخضع القلب تماماً لله وينكسر خوفاً وحياءً ومحبةً واعترافاً بنعم الله وذنوب النفس.»
 
-> “The way to achieve khushoo` is to remember the greatness of Allah, and to remember that you are standing before Him, and that He sees you. It is also to reflect upon the meanings of the verses and supplications you recite, to avoid looking around, and to focus on the prayer. The Prophet (peace and blessings of Allah be upon him) forbade looking around in prayer, because it corrupts khushoo`.”
+**المصادر:** ابن القيم، *مدارج السالكين*؛ *الروح*؛ ترجمة مجلة الجمعة؛ *ثلاث وثلاثون وسيلة لتحقيق الخشوع*.
 
-**الرابط:** https://islamqa.info/en/answers/10584
+### الشيخ ابن عثيمين
+
+> «الأهم هو الخشوع وحضور القلب، وهو جوهر الصلاة وروحها. فإذا خشع المصلي وحضر قلبه أثّر ذلك في حاله بعد الصلاة.»
+
+> «كيف يليق بمؤمن أن ينقر في الأرض نقر الغراب وهو يعلم أنه يقف بين يدي ربه؟ كيف يليق به أن ينقر في سجوده وهو يعلم أنه لن يُؤجر على ذلك؟ لم يُؤدِّ الفريضة بهذه الصلاة. وهذا النوع من الصلاة كأنه لم يصلِّ أصلاً.»
+
+> «الخشوع أمرٌ عظيم في الصلاة، ويُنال بالتفكر والذكر والتذلل لله واستحضار ما عنده من الأجر.»
+
+**المصادر:** الشيخ ابن عثيمين، *آداب المشي إلى الصلاة*؛ مكتبة ابن عثيمين؛ Salafi Dawah Manchester.
+
+### الألباني في الخشوع
+
+> «ومع هذا، عليك ألا تنسى أهمية الصلاة بقلبٍ حاضر، والصلاة بالخشوع والخضوع، فإن هذا هو المقصد الأعظم لوقوف العبد بين يدي الله العلي في الصلاة.»
+
+**الرابط:** https://abdurrahman.org/2016/07/23/the-abridgement-of-the-prophets-prayer-described/
 
 ### الألباني في أهمية الطمأنينة
 
-> “From the pillars (arkaan) of the Prayer is tranquility (tuma'neenah) in every pillar: the standing, the rukoo`, the prostration, the sitting between the two prostrations, and the final sitting. If a person moves from one pillar to the next before having tranquility in it, then his pillar is not valid, and thus his prayer is not valid. Tranquility means that every limb of the body comes to rest in the position required for it.”
+> «من أركان الصلاة الطمأنينة في كل ركن: القيام، والركوع، والسجود، والجلوس بين السجدتين، والجلوس الأخير. فإذا انتقل المصلي من ركن إلى الآخر قبل أن يطمئن فيه، لم يصح ركنه وبالتالي لا تصح صلاته. والطمأنينة تعني استقرار كل عضو من البدن في الوضع المطلوب منه.»
 
 **الرابط:** https://abdurrahman.org/2016/07/23/the-abridgement-of-the-prophets-prayer-described/
 
 ---
 
-## 12. اللغة العربية في الصلاة
+## 12. اللغة العربية في الصلاة وحكم المبتدئين
 
-### هل يجوز قراءة الفاتحة باللغة الأخرى للقادمين الجدد؟
+### القرآن والأذكار يجب أن تكون بالعربية
 
-> “The Quran is in Arabic, and it is not permitted to recite the Quran in any other language in prayer. As for the one who does not know any Quran, he should do his best to learn what he can. If he is a new Muslim and has not yet learned al-Fatihah, he may say any dhikr (remembrance) of Allah that he knows, such as Subhan Allah, Alhamdulillah, La ilaha ill-Allah, Allahu Akbar. He should also hasten to learn al-Fatihah and some short surahs.”
+> «يجب على من لا يعرف العربية أن يحفظ [سورة الفاتحة].»
 
-**الرابط:** https://islamqa.info/en/answers/77430
+**المصدر:** الشيخ الألباني، *تلخيص صفة صلاة النبيﷺ*، الباب الخمسون.
 
-### تعلم السور القصيرة
+### Islamweb في الأدعية بلغة أخرى
 
-> “A new Muslim or someone who has forgotten the Quran should start by learning Surah al-Fatihah, because it is obligatory in every rak'ah. Then he should learn the short surahs at the end of the Quran, such as Surah al-Ikhlas, al-Falaq, al-Nas, al-Kafirun, al-Asr, al-Humazah, etc., and recite them after al-Fatihah.”
+> «القول الأرجح أنه يجوز قول الأدعية الثابتة في الصلاة بغير العربية لمن عجز عن الدعاء بالعربية، أما من قدر على الدعاء بالعربية فلا يجوز له ذلك. وهذا مذهب الشافعية والحنابلة.»
 
-**الرابط:** https://islamqa.info/en/answers/77430
+**الرابط:** https://islamweb.net/en/fatwa/90869
 
----
+> «اختلف الفقهاء في قراءة التشهّد والصلاة على النبي في الصلاة بغير العربية؛ فقال بعضهم يجوز لمن عجز عن العربية، ولا يجوز لمن قدر… ومن قدر على العربية فهو أفضل وأسلم، ومن عجز فلا بأس بأن يقولها بالإنجليزية.»
 
-## 13. المبتدئ يحمل هاتفاً أو كتاباً أثناء الصلاة
+**الرابط:** https://islamweb.net/en/fatwa/88268
 
-### حكم قراءة الصلاة من الهاتف أو الكتاب
+### الخلاصة
 
-> “It is permissible for the one who has not memorized al-Fatihah or other surahs to hold a Mushaf (copy of the Quran) and read from it during the optional (nafl) prayers, or in the obligatory prayers if it is unavoidable, but the best is to memorize. As for holding a mobile phone and reading from it, the same ruling applies, as it is just a means of reading. However, one should not bow or prostrate while holding it, and should not place it on the ground in front of him in a disrespectful way. It is better to put it aside during rukoo` and sujood, and pick it up only for standing.”
-
-**الرابط:** https://islamqa.info/en/answers/242032
-
-### الوضوء مع حمل الهاتف
-
-> “It is not permissible to take the mobile phone into the bathroom when answering the call of nature, because it contains the Quran and the name of Allah. If the phone is kept outside, or the Quran app is closed, there is more leeway, but the best is to avoid taking it into the bathroom.”
-
-**الرابط:** https://islamqa.info/en/answers/12527
+- القرآن والأذكار المحددة (الفاتحة، التسبيحات، التشهّد، الصلاة على النبي) يجب أن تكون بالعربية.
+- الأدعية (الدعاء) الزائدة عن النصوص المحددة: أجاز بعض العلماء غير العربية لمن يعجز حقيقةً.
+- لم يقل أي عالم سلفي إن الصلاة كلها تُؤدى بترجمة إنجليزية.
 
 ---
 
-## 14. المصادر المستشهد بها
+## 13. هل يجوز للمبتدئ حمل الهاتف أو الكتاب في الصلاة؟
 
-- *شروط الصلاة وأركانها وواجباتها* للإمام محمد بن عبد الوهاب، ترجمة دار الإبانة، منشور على AbdurRahman.org: https://abdurrahman.org/2011/12/03/the-conditionsshuroot-pillarsarkaan-and-requirementswaajibaat-of-the-prayer/ وhttps://abdurrahman.org/2014/10/01/the-conditions-pillars-and-requirements-of-the-prayer-imaam-muhammad-bin-abdil-wahhaab/
-- *The Abridgement of the Prophet’s Prayer Described* للشيخ الألباني، ترجمة داوود بربنك، منشور على AbdurRahman.org: https://abdurrahman.org/2016/07/23/the-abridgement-of-the-prophets-prayer-described/
+**لم يُعثر على مصدر سلفي يتناول بالتحديد حمل الهاتف أو الكتاب لأجل التعلم أثناء الصلاة.**
+
+أحكام ذات صلة:
+
+> «يُكره للمصلي أن ينظر إلى ما يُلهيه أو ينظر في كتاب، فقد روت عائشة أن النبي ﷺ صلى في خميصة (ثوب فيه نقوش) ثم قال: «إن خميصتي هذه ألهتني».» (ابن قدامة، *المغني*)
+
+> «إذا كان حمل الهاتف يتطلب حركةً كثيرة تفعل المعتاد، فقد يُبطل الصلاة.»
+
+**المصادر:** Islamweb (202426)؛ *المغني* لابن قدامة.
+
+---
+
+## 14. المصادر
+
+### الكتب والرسائل
+1. *شروط الصلاة وأركانها وواجباتها* للإمام محمد بن عبد الوهاب (ترجمة دار الإبانة، AbdurRahman.org): https://abdurrahman.org/2011/12/03/the-conditionsshuroot-pillarsarkaan-and-requirementswaajibaat-of-the-prayer/ وhttps://abdurrahman.org/2014/10/01/the-conditions-pillars-and-requirements-of-the-prayer-imaam-muhammad-bin-abdil-wahhaab/
+2. *تلخيص صفة صلاة النبيﷺ* للشيخ الألباني، ترجمة داوود بربنك، منشور على AbdurRahman.org: https://abdurrahman.org/2016/07/23/the-abridgement-of-the-prophets-prayer-described/
+3. *صفة صلاة النبيﷺ* للشيخ الألباني
+4. *الملخص الفقهي* للشيخ صالح الفوزان
+5. *المغني* لابن قدامة
+6. *مدارج السالكين* و*الروح* لابن القيم
+7. *آداب المشي إلى الصلاة* للشيخ ابن عثيمين
+
+### المواقع
 - موقع الشيخ الألباني — *The Prophet's Prayer* (بحث صلاة النبي): https://al-albaani.info/the-prophets-prayer/
 - IslamQA:
   - 12305: https://islamqa.info/en/answers/12305
@@ -415,44 +506,22 @@
   - 242032: https://islamqa.info/en/answers/242032
   - 12527: https://islamqa.info/en/answers/12527
   - 13337: https://islamqa.info/en/answers/13337
+  - 13340: https://islamqa.info/en/answers/13340
   - 10672: https://islamqa.info/en/answers/10672
 - BinBaz.org.sa: https://binbaz.org.sa/fatwas
 - Sunnah.com
-- موقع AbdurRahman.org — الاستسلام/الكفر
+- AbdurRahman.org
+- https://hadithunlocked.com
+- https://islamweb.net
 
 ---
 
-## 7. سنن الصلاة
+*أُعدّ هذا البحث لأغراض البحث العلمي. جميع الاقتباسات منقولة حرفياً أو ملخصة من المصادر المذكورة. وما لم يُعثر له على مصدر سلفي مُعلَّم بذلك.*
 
-من *The Abridgement of the Prophet’s Prayer Described* للشيخ الألباني:
-
-> “The sunan are the things which the Prophet (peace and blessings be upon him) used to do in addition to the pillars, requirements and conditions, and which he did regularly. The one who does them is rewarded, but the one who leaves them is not sinful. However, if he leaves them always, then he is considered to have abandoned the Sunnah and has done something blameworthy.”
-
-**سنن الصلاة المذكورة في المصادر:**
-
-1. رفع اليدين عند تكبيرة الإحرام
-2. وضع اليد اليمنى على اليسرى تحت الصدر
-3. النظر إلى موضع السجود
-4. الأستاذة (الوقوف بينما الأعضاء مستقرة قبل الركوع)
-5. دعاء الاستفتاح
-6. التعوذ
-7. قراءة البسملة
-8. قراءة سورة بعد الفاتحة
-9. قول "آمين" بعد الفاتحة
-10. قول "ربنا ولك الحمد" بعد الاعتدال من الركوع
-11. قول "رب اغفر لي" بين السجدتين
-12. رفع اليدين مع التكبيرات
-13. الجلوس على الرجلين في التشهّد الأخير (وفقا لأحد القولين)
-14. التسليمتان (التسليمة الثانية إلى اليسار سنة)
-
-**الرابط:** https://abdurrahman.org/2016/07/23/the-abridgement-of-the-prophets-prayer-described/
+**الرابط:** https://abdurrahman.org/2011/12/03/the-conditionsshuroot-pillarsarkaan-and-requirementswaajibaat-of-the-prayer/
 
 ---
 
 *نهاية البحث*
 
-**إخلاء مسؤولية:** هذا المستند ترجمة وتلخيص للأقوال الواردة في المصادر الإنجليزية السلفية المذكورة. الأحاديث والآيات الأصلية باللغة العربية. لم تُخترع أي رواية أو حديث. يُنصح الباحثون بالرجوع إلى المصادر الأصلية للتحقق.
-
-
-
-
+**إخلاء مسؤولية:** هذا المستند ترجمة وتلخيص للأقوال الواردة في المصادر السلفية المذكورة. الأحاديث والآيات الأصلية باللغة العربية. لم تُخترع أي رواية أو حديث. يُنصح الباحثون بالرجوع إلى المصادر الأصلية للتحقق.

@@ -65,7 +65,7 @@ IslamWeb, in its fatwa on the grading of this hadith, explains:
 > "I used to write everything I heard from the Messenger of Allah (peace and blessings be upon him), wanting to memorize it. Quraysh forbade me, saying: 'Do you write everything you hear while the Messenger of Allah is a human being who speaks when angry and when pleased?' So I stopped writing, and I mentioned that to the Messenger of Allah. He pointed to his mouth with his finger and said: **'Write, for by the One in whose hand my soul rests, nothing but truth comes from it.'**"
 >
 > **Source:** Sunan Abu Dawud (3646); authenticated by al-Albani. Cited in IslamQA and IslamWeb.  
-> **URL:** https://islamqa.info/amp/en/answers/151146  
+> **URL:** https://islamqa.info/en/answers/151146  
 > **Also:** https://www.islamweb.net/ar/fatwa/136518
 
 ### C. The prohibition was temporary and abrogated
@@ -77,7 +77,7 @@ There is a hadith in which the Prophet (peace be upon him) initially forbade wri
 > "They differed as to the meaning of this hadeeth which says that it is forbidden. It was said that it pertained to one who was sure of his memory, and there was the fear that he may come to rely upon what he had written if he wrote it down; the ahaadeeth which say that it is permissible to write things down is to be interpreted as referring to the one whose memory is not reliable... And it was said that the hadeeth forbidding writing down ahaadeeth was abrogated by these ahaadeeth. The prohibition was in effect when there was the fear that the words of the Prophet might be mixed with the Quran. When that danger was no longer present, permission was given to write down ahaadeeth."
 >
 > **Source:** IslamQA — "Authenticity of the hadith: 'Do not write anything from me...' and its meaning"  
-> **URL:** https://islamqa.info/amp/ar/answers/22394
+> **URL:** https://islamqa.info/ar/answers/22394
 
 ---
 
@@ -237,9 +237,9 @@ And Allah knows best.
 3. IslamWeb fatwa no. 249955 — "He finds some difficulty in seeking knowledge"  
    https://www.islamweb.net/en/fatwa/249955
 4. IslamQA — "Authenticity of the hadith: 'Do not write anything from me...' and its meaning"  
-   https://islamqa.info/amp/ar/answers/22394
+   https://islamqa.info/ar/answers/22394
 5. IslamQA — "ʿAbdullah ibn ʿAmr: I used to write everything I heard from the Messenger of Allah"  
-   https://islamqa.info/amp/en/answers/151146
+   https://islamqa.info/en/answers/151146
 6. al-Fatawa.com — "The importance of recording knowledge" (Ibn al-'Uthaymeen)  
    https://al-fatawa.com/fatwa/129509
 7. al-Fatawa.com — "The way to learn knowledge" (Permanent Committee)  

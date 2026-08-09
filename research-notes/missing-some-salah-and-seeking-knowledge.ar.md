@@ -26,7 +26,7 @@
 يميّز علماء السلف بين حالتين:
 
 - **الترك الكلي (ترك الصلاة)** — وهو أن يترك الإنسان الصلاة كلها، فيقرر عدم أداء أي من الصلوات الخمس.
-- **الإهمال الجزئي (ترك البعض)** — وهو أن يصلّي بعض الصلوات ويترك البعض الكافر أو تهاوناً.
+- **الإهمال الجزئي (ترك البعض)** — وهو أن يصلّي بعض الصلوات ويترك البعض كسلاً أو تهاوناً.
 
 اتفق العلماء على أن **الترك الكلي** للصلاة أمر عظيم. والخلاف فيه: هل هو كفر مخرج من الملة؟ أما حالة من **يصلّي بعضاً ويترك بعضاً** فهي موضع خلاف أشد.
 
@@ -36,21 +36,21 @@
 
 #### الشيخ محمد بن صالح العثيمين (رحمه الله)
 
-> "What appears to be the case from the evidence is that he does not become a kaafir unless he gives up prayer all the time, in the sense that he has decided not to pray, so he does not pray Zuhr, 'Asr, Maghrib, 'Isha' or Fajr. This is the one who is a kaafir. **But if he prays one or two obligatory prayers, then he is not a kaafir and he cannot truly be described as having given up prayer.** The Prophet (blessings and peace of Allah be upon him) said: 'Between a man and shirk and kufr stands his giving up prayer (al-salaah)' and he did not say 'salaah (a prayer).""
+> «الظاهر من الأدلة أنه لا يكفر إلا إذا ترك الصلاة كل الوقت، بمعنى أنه قد عزم على عدم الصلاة، فلا يُصلّي الظهر ولا العصر ولا المغرب ولا العشاء ولا الفجر. هذا هو الكافر. **أما إذا صلّى صلاة أو صلاتين من الفرائض، فإنه لا يكفر ولا يُوصف حقيقة بأنه ترك الصلاة.** وقال النبي ﷺ: "بين الرجل والشرك والكفر ترك الصلاة"، ولم يقل "ترك صلاة".»
 
 **المصدر:** "الشرح الممتع" (2/26)  
 **الرابط:** https://islamqa.info/en/answers/52923
 
 وقال أيضاً:
 
-> "It seems to me that he is not a kaafir unless he does not pray at all. As for one who prays sometimes, he is not a kaafir because the Messenger (peace and blessings of Allah be upon him) said: 'Between a man and kufr and shirk there stands his giving up prayer.' He did not say 'giving up a prayer' (tarku salaatin) rather he said 'giving up [the] prayer' (tark al-salaah). This implies not praying altogether. Similarly he said: 'The covenant that distinguishes between us and them is prayer; whoever does not pray is a kaafir.' Based on that we say: **The one who prays sometimes and does not pray sometimes is not a kaafir.**"
+> «يظهر لي أنه لا يكفر إلا إذا لم يُصلِّ البتة. أما من يُصلّي أحياناً، فهو ليس بكافر؛ لأن رسول الله ﷺ قال: "بين الرجل والكفر والشرك ترك الصلاة"، ولم يقل "ترك صلاة" (تركَ صلاةٍ)، بل قال "ترك الصلاة" (تركَ الصلاةِ). وهذا يقتضي ترك الصلاة بالكلية. وكذلك قال: "العهد الذي بيننا وبينهم الصلاة، فمن تركها فقد كفر". وعلى ذلك نقول: **من يُصلّي أحياناً ويترك أحياناً ليس بكافر.**»
 
 **المصدر:** "مجموع فتاوى ابن عثيمين"، 12/55  
 **الرابط:** https://islamqa.info/en/answers/83165
 
 #### شيخ الإسلام ابن تيمية (رحمه الله)
 
-> "The one who prays sometimes and does not pray sometimes, if he resolves in his heart to give up prayer altogether, then he is inwardly a kaafir, i.e., it is between him and Allah, may He be exalted."
+> «من يُصلّي أحياناً ويترك أحياناً، إذا عزم في قلبه على ترك الصلاة بالكلية، فهو كافرٌ باطناً، أي: الأمر بينه وبين الله عز وجل.»
 
 **المصدر:** "مجموع الفتاوى"، 22/49؛ شرح العمدة، 2/94  
 **الرابط:** https://islamqa.info/en/answers/52923
@@ -59,9 +59,9 @@
 
 #### الشيخ محمد ناصر الدين الألباني (رحمه الله)
 
-> "But if there is a man who does not deny (the legislation) of the prayer and who acknowledges its legislation, but with respect to action, he does not perform it, he does not pray — maybe he does not pray at all and maybe he prays sometimes — so in this case, if we said that this man has disbelieved, this statement would not apply to him at all, because **kufr (disbelief) is denial, and he is not denying** the legislation of the prayer..."
+> «ولكن إذا كان هناك رجلٌ لا يُنكر (تشريع) الصلاة ويُقرّ بأنها مشروعة، لكن من جهة العمل لا يؤديها، لا يُصلّي — ربما لا يُصلّي البتة وربما يُصلّي أحياناً — ففي هذه الحال، لو قلنا إن هذا الرجل قد كفر، لم ينطبق عليه هذا القول البتة، لأن **الكفر هو الجحود، وهو لا يجحد** تشريع الصلاة...»
 
-> "...then if we said that this man is a disbeliever, we would be contradicting the reality, because **this man is a believer**, a believer in the legislation of the prayer and a believer in all of Islam, so how can we declare him a disbeliever?"
+> «...فلو قلنا إن هذا الرجل كافر، لكنّا نُكذّب الواقع، لأن **هذا الرجل مؤمن**، مؤمنٌ بتشريع الصلاة ومؤمنٌ بكل الإسلام، فكيف نُكفّره؟»
 
 **المصدر:** سلسلة الهدى والنور، الشريط رقم 8، السؤال 5  
 **الرابط:** https://abdurrahman.org/2014/10/10/the-ruling-on-the-one-who-abandons-prayer-shaykh-al-albaani/
@@ -74,14 +74,14 @@
 
 كان الشيخ ابن باز يرى أن من ترك الصلاة عمداً من تهاون — وحتى مع اعترافه بوجوبها — يقع في كفر أكبر:
 
-> "As for one who left the prayer deliberately then repented to Allah, he does NOT make them up; because leaving it deliberately is kufr, and the kaafir does not make up [prayers]. This is the correct view regarding leaving the prayer — even if he left it out of negligence (tahawun) and not denial (juhood), he becomes a kaafir by that... the correct and preponderant view in this issue: he is a kaafir with major kufr, so there is no qada upon him for what he left deliberately out of negligence."
+> «أما من ترك الصلاة عمداً ثم تاب إلى الله، فلا يقضيها؛ لأن تركها عمداً كفر، والكافر لا يقضي. وهذا هو القول الصحيح في ترك الصلاة — ولو تركها تهاوناً (تَهَاوُناً) لا جحوداً (جُحُوداً)، فإنه يكفر بذلك... والقول الصحيح الراجح في هذه المسألة: أنه كافرٌ بكفر أكبر، فلا قضاء عليه فيما تركه عمداً تهاوناً.»
 
 **المصدر:** الفتوى رقم 8055 (حكم قضاء الصلاة على من تركها عمداً)  
 **الرابط:** https://binbaz.org.sa/fatwas/8055/حكم-قضاء-الصلاة-على-من-تركها-عمداً
 
 #### اللجنة الدائمة (موقّعة من ابن باز)
 
-> "As for the Salah you intentionally abandoned while believing in it being obligatory, the most sound of the two views held by scholars is that such an act constitutes major Kufr (disbelief). You should not make up for it, but you have to repent, regret it, and ask Allah's forgiveness for abandoning it. You should observe the five daily prayers regularly."
+> «أما الصلوات التي تركتها عمداً مع اعتقادك بوجوبها، فالراجح من قولي العلماء أن ذلك كفرٌ أكبر. لا يجب عليك قضاؤها، بل عليك أن تتوب وتندم وتستغفر الله من تركها، وتحافظ على الصلوات الخمس.»
 
 **المصدر:** الفتوى رقم 6196 (الجزء 6/10-11)  
 **الأعضاء:** عبد الله بن قعود، عبد الرزاق عفيفي، عبد العزيز بن باز  
@@ -89,7 +89,7 @@
 
 #### الشيخ صالح الفوزان (حفظه الله)
 
-> "The scholars have said that whoever abandons the Prayer out of laziness, he becomes a disbeliever, in the correct saying — even if he acknowledges its obligation because there is no benefit in acknowledging its obligation if he does not implement it and he does not act upon it..."
+> «قال العلماء: من ترك الصلاة كسلاً فقد كفر على القول الصحيح — وإن اعترف بوجوبها — لأن الاعتراف بوجوبها لا ينفع إذا لم ينفّذه ويعمل به...»
 
 **المصدر:** شرح أصول الثلاثة، الدرس 50 (الجزء ب)، ترجمة داوود بربنك  
 **الرابط:** https://abdurrahman.org/2018/06/08/the-head-of-the-affair-is-al-islaam-its-supporting-pillar-is-the-prayer-its-highest-pinnacle-is-jihaad/
@@ -107,12 +107,12 @@
 
 تلخّص IslamQA:
 
-> "The issue of the ruling on one who does not pray out of laziness and carelessness is one of the most well-known issues concerning which there is a difference of opinion among the scholars. There are two well-known scholarly views concerning this matter: The first view is that he is Muslim, but he is an evildoer and sinner. This is the view of the majority of fuqaha. [...] The second view is that he is a disbeliever in the sense of major kufr."
+> «مسألة الحكم على من لا يُصلّي كسلاً وتوانٍ من أشهر المسائل التي اختلف فيها العلماء. وفي هذه المسألة قولان مشهوران للعلماء: القول الأول: أنه مسلم، لكنه عاصٍ فاسق. وهذا قول جمهور الفقهاء. [...] القول الثاني: أنه كافرٌ كفراً أكبر.»
 
 **المصدر:** IslamQA الفتوى رقم 285977  
 **الرابط:** https://islamqa.info/en/answers/285977
 
-> **مهم:** يتفق الموقفان على أن ترك الصلوات عمداً من تهاول **هو على الأقل كبيرة عظيمة**. الخلاف إنما هو فيما إذا كان يرقى إلى كفر مخرج من الإسلام. لا يعتبر أحد من العلماء الإهمال في الصلاة أمراً هيناً.
+> **مهم:** يتفق الموقفان على أن ترك الصلوات عمداً من تهاون **هو على الأقل كبيرة عظيمة**. الخلاف إنما هو فيما إذا كان يرقى إلى كفر مخرج من الإسلام. لا يعتبر أحد من العلماء الإهمال في الصلاة أمراً هيناً.
 
 ---
 
@@ -128,19 +128,19 @@
 
 تقول IslamQA:
 
-> "If you missed prayers with no excuse, you have committed a major sin and you have to repent to Allah. It is not valid for you to make it up according to the more correct of the two scholarly opinions."
+> «إذا فاتتك الصلوات بلا عذر، فقد ارتكبت كبيرة من الكبائر وعليك أن تتوب إلى الله. ولا يصح لك قضاؤها على القول الراجح من قولي العلماء.»
 
 **المصدر:** IslamQA الفتوى رقم 111783  
 **الرابط:** https://islamqa.info/en/answers/111783
 
-> "The correct view on the issue of one who fails to fast or pray with no excuse is that he does not have to make up what he did not do; rather what he must do is repent, and pray and fast regularly from now on. It is mustahabb for him to do a lot of naafil (supererogatory) acts of worship, fasting and prayers, in the hope that Allah will accept his repentance."
+> «القول الصحيح في مسألة من ترك الصيام أو الصلاة بلا عذر أنه لا يجب عليه قضاء ما لم يفعله؛ بل الواجب عليه التوبة، والمحافظة على الصلاة والصيام من الآن. ويُستحب له الإكثار من النوافل من العبادات والصيام والصلاة، رجاء أن يقبل الله توبته.»
 
 **المصدر:** IslamQA الفتوى رقم 197247  
 **الرابط:** https://islamqa.info/en/answers/197247
 
 قال الشيخ الألباني:
 
-> "...such individuals [who leave out the prayer intentionally] cannot compensate for the great sin they commit of neglecting the prayer and allowing it to lapse beyond its (prescribed) time by introducing a prayer of their own accord, such as performing the Fajr prayer during the day or the Dhuhr prayer at night, claiming it to be 'making up' the missed prayers."
+> «...مثل هؤلاء [الذين يتركون الصلاة عمداً] لا يستطيعون أن يُكفّروا الذنب العظيم الذي يرتكبونه بإهمال الصلاة وتركها تتجاوز وقتها المحدود بإدخال صلاةٍ من عندهم، كأن يُصلّي الفجر في النهار أو الظهر في الليل، زاعمين أنها "قضاء" للصلوات الفائتة.»
 
 **المصدر:** سلسلة الهدى والنور 146؛ جامع التراث 2/241-243  
 **الرابط:** https://fawaaids.com/2024/11/27/making-up-a-missed-obligatory-prayer-ibn-taymiyyah-ibn-al-qayyim-ibn-hazm-ibn-baz-al-albani/
@@ -161,19 +161,19 @@
 
 قال شيخ الإسلام ابن تيمية:
 
-> "**Nothing cancels out good deeds except disbelief (kufr)**, because the one who dies as a believer will inevitably enter Paradise, and he will be brought out of Hell if he does enter it, but if all his good deeds are cancelled out, he will never enter Paradise. Good deeds can only be cancelled out by that which is their opposite, and nothing can be the opposite of all good deeds except disbelief. This is well known from the principles of Sunnah."
+> «**لا يُبطل الأعمال الصالحة إلا الكفر**، لأن من مات مؤمناً دخل الجنة لا محالة، وإن دخل النار أُخرج منها، ولكن لو بطلت جميع حسناته لم يدخل الجنة البتة. ولا تُبطل الحسنات إلا بما يكون في مقابلها، ولا يكون في مقابل جميع الحسنات إلا الكفر. وهذا معلوم من أصول السنة.»
 
 **المصدر:** ابن تيمية، "الصارم المسلول"، ص 55  
 **الرابط:** https://islamqa.info/en/answers/81874
 
 تقول IslamQA:
 
-> "One of the basic principles among Ahl As-Sunnah wal-Jama`ah is that good deeds are not accepted if they are accompanied by disbelief, and that **nothing cancels out all good deeds except disbelief**."
+> «من القواعد الأساسية عند أهل السنة والجماعة أن الأعمال الصالحة لا تُقبل إذا اقترنت بالكفر، وأن **لا يُبطل جميع الأعمال الصالحة إلا الكفر**.»
 
 **المصدر:** IslamQA الفتوى رقم 81874  
 **الرابط:** https://islamqa.info/en/answers/81874
 
-> "You should realize that what you have heard about repentance, prayer and fasting not being accepted from one who has committed major sins is false, and it is speaking about Allah without knowledge. There is a great deal of evidence in the Book of Allah and the sunnah of His Messenger (peace and blessings of Allah be upon him) to indicate that **Allah accepts His slave's repentance from all sins, no matter how great they are**."
+> «ينبغي أن تعلم أن ما سمعته من أن التوبة والصلاة والصيام لا تُقبل من مرتكب الكبائر باطلٌ، وأنه القول على الله بلا علم. وهناك أدلة كثيرة في كتاب الله وسنة رسوله ﷺ تدل على أن **الله يقبل توبة عبده من جميع الذنوب مهما عظمت**.»
 
 **المصدر:** IslamQA الفتوى رقم 65621  
 **الرابط:** https://islamqa.info/en/answers/65621
@@ -186,33 +186,33 @@
 
 قال **الإمام أحمد بن حنبل**:
 
-> "Seeking knowledge is the best of deeds for the one whose intention is sound."
+> «طلب العلم من أفضل الأعمال لمن صحّت نيته.»
 
 **المصدر:** نقله المحنة، ورد في IslamQA الفتوى رقم 262984  
 **الرابط:** https://islamqa.info/en/answers/262984
 
 قال النبي ﷺ:
 
-> "Whoever follows a path in the pursuit of knowledge, Allah will make a path to Paradise easy for him."
+> «من سلك طريقاً يلتمس فيه علماً سهّل الله له به طريقاً إلى الجنة.»
 
 **المصدر:** صحيح البخاري، كتاب العلم، 10  
 **الرابط:** https://islamqa.info/en/answers/10471
 
-> "Whoever follows a path to seek knowledge, Allah will make easy for him the path to Paradise. The angels beat their wings in approval of the seeker of knowledge, and those who are in the heavens and on earth pray for forgiveness for the scholar, even the fish in the water. The superiority of the scholar over the worshipper is like the superiority of the moon over all other heavenly bodies. The scholars are the heirs of the Prophets, for the Prophets did not leave behind dinars or dirhams, rather they left behind knowledge, so whoever gains knowledge has gained great good fortune."
+> «من سلك طريقاً يطلب فيه علماً، سهّل الله له به طريقاً إلى الجنة. وإن الملائكة لتضع أجنحتها لطالب العلم رضاً بما يصنع، وإنه ليُستغفر لطالب العلم من في السماوات ومن في الأرض حتى الحيتان في الماء، وفضل العالم على العابد كفضل القمر على سائر الكواكب. وإن العلماء ورثة الأنبياء، وإن الأنبياء لم يورّثوا ديناراً ولا درهماً، وإنما ورّثوا العلم، فمن أخذه أخذ بحظٍ وافر.»
 
 **المصدر:** رواه أبو الدرداء، ورواه الترمذي (2606)؛ صحّحه الألباني  
 **الرابط:** https://islamqa.info/en/answers/20191
 
 **الشيخ ابن باز** عدّد طلب العلم إلى جانب الصلاة والجهاد من الأعمال التي تُقصد بها وجه الله:
 
-> "Sincerity to Allah is: that you intend His noble Face and what He has of good by your actions: **from seeking knowledge, prayer, jihad**, and other affairs of the religion."
+> «الإخلاص لله: أن تنوي بعملك وجهه الكريم وما عنده من الخير: **من طلب العلم، والصلاة، والجهاد**، وسائر أمور الدين.»
 
 **المصدر:** الشيخ ابن باز، الفتوى رقم 21215  
 **الرابط:** https://binbaz.org.sa/fatwas/21215/ما-سبيل-الاخلاص-في-تعلم-العلم
 
 وقال أيضاً:
 
-> "Turning towards studying and understanding the religion is from the best of actions."
+> «الإقبال على دراسة الدين وفقهه من أفضل الأعمال.»
 
 **المصدر:** الشيخ ابن باز، الفتوى رقم 19669  
 **الرابط:** https://binbaz.org.sa/fatwas/19669/مسألة-في-فضل-التفقه-في-الدين
@@ -223,21 +223,21 @@
 
 قال الله تعالى:
 
-> "And perform As-Salah (establish the prayer), at the two ends of the day and in some hours of the night [i.e. the five compulsory Salah (prayers)]. **Verily, the good deeds remove the evil deeds** (i.e. small sins)."
+> «وَأَقِمِ الصَّلَاةَ طَرَفَيِ النَّهَارِ وَزُلَفًا مِّنَ اللَّيْلِ ۚ **إِنَّ الْحَسَنَاتِ يُذْهِبْنَ السَّيِّئَاتِ** ۚ ذَٰلِكَ ذِكْرَىٰ لِلذَّاكِرِينَ»
 
-**المصدر:** القرآن، هود 11:114  
+**المصدر:** (القرآن، سورة هود 11:114)  
 **الرابط:** https://islamqa.info/en/answers/3365
 
 قال النبي ﷺ في هذه الآية:
 
-> "It is for all of my Ummah."
+> «هي لجميع أمتي.»
 
-**المصدر:** صحيح البخاري (503) وصحيح مسلم (2763)  
+**المصدر:** (صحيح البخاري، رقم 503؛ صحيح مسلم، رقم 2763)  
 **الرابط:** https://islamqa.info/en/answers/3365
 
 **الشيخ ابن باز** أوضح:
 
-> "The greatest of good deeds is Tawhid, for by it Allah erases evil deeds. And repentance is a great good deed — sincere repentance erases the sin that is repented from... And **all righteous actions are among the causes of erasing evil deeds**: his prayers, his zakah, his fasting, his Hajj, his charity, his remembrance (dhikr) — his remembrance of Allah, all of this is among the causes of erasing evil deeds. 'Verily, the good deeds remove the evil deeds' [Hud 11:114]. **All acts of obedience are good deeds (hasanaat).**"
+> «أعظم الحسنات التوحيد، فبه يمحو الله السيئات. والتوبة حسنة عظيمة — التوبة الصادقة تَمحو الذنب المُتاب منه... و**جميع الأعمال الصالحة من أسباب محو السيئات**: صلاته، وزكاته، وصومه، وحجه، وصدقته، وذكره — ذكر الله، كل هذا من أسباب محو السيئات. "إن الحسنات يُذهبن السيئات" [هود 11:114]. **وجميع الطاعات حسنات.**»
 
 **المصدر:** الشيخ ابن باز، الفتوى رقم 1531  
 **الرابط:** https://binbaz.org.sa/fatwas/1531/ما-هي-الحسنات-التي-تمحو-السيئات
@@ -250,14 +250,14 @@
 
 قال النبي ﷺ:
 
-> "Whoever does not pray 'Asr, his good deeds will be annulled."
+> «من فاتته صلاة العصر فحبط عمله.»
 
-**المصدر:** صحيح البخاري (553)  
+**المصدر:** (صحيح البخاري، رقم 553)  
 **الرابط:** https://islamqa.info/en/answers/49698
 
 تفسر IslamQA هذا الحديث:
 
-> "It seems from the hadith that there are two types of those who do not pray: those who do not pray at all, which annuls **all** their good deeds, and those who do not offer a particular prayer on a particular day, which annuls the good deeds of **that day**. So annulment of all good deeds happens to those who forsake all the prayers, and annulment of the good deeds of a particular day happens to the one who omits a particular prayer."
+> «يظهر من الحديث أن هناك نوعين من تاركي الصلاة: من لا يُصلّي البتة، فيبطل **جميع** حسناته، ومن لا يُصلّي صلاة معينة في يوم معين، فيبطل حسنات **ذلك اليوم**. فإبطال جميع الحسنات يقع لمن ترك الصلاة كلها، وإبطال حسنات يوم بعينه يقع لمن ترك صلاة بعينها.»
 
 **المصدر:** IslamQA الفتوى رقم 49698  
 **الرابط:** https://islamqa.info/en/answers/49698
@@ -272,14 +272,14 @@
 
 لكن **ما إن يتوب ويرجع إلى الإسلام**، تُغفر له كل ذنوبه السابقة، وتُقبل حسناته من ذلك الوقت — ومنها طلب العلم. قال الله تعالى:
 
-> "Say to those who have disbelieved, if they cease (from disbelief) their past will be forgiven."
+> «قُل لِّلَّذِينَ كَفَرُوا إِن يَنتَهُوا يُغْفَرْ لَهُم مَّا قَدْ سَلَفَ»
 
-**المصدر:** القرآن، الأنفال 8:38  
+**المصدر:** (القرآن، سورة الأنفال 8:38)  
 **الرابط:** https://islamqa.info/en/answers/197247
 
 قال النبي ﷺ:
 
-> "Do you not know that Islam erases what [came before it]?"
+> «أما علمت أن الإسلام يَجُبّ ما كان قبله؟»
 
 **المصدر:** IslamQA الفتوى رقم 197247  
 **الرابط:** https://islamqa.info/en/answers/197247
@@ -294,7 +294,7 @@
 
 ### الشيخ ابن باز في أسباب الهداية
 
-> "And among the causes of guidance: **attending the circles of knowledge** of the people of knowledge, the scholars known for good, sitting with them, listening to the circles of knowledge, and benefiting — all of this is among the causes of guidance."
+> «ومن أسباب الهداية: **حضور مجالس العلم** عند أهل العلم، العلماء المعروفين بالخير، والجلوس معهم، والاستماع لمجالس العلم، والاستفادة — كل هذا من أسباب الهداية.»
 
 **المصدر:** الشيخ ابن باز، الفتوى رقم 15387  
 **الرابط:** https://binbaz.org.sa/fatwas/15387/من-أسباب-الهداية
@@ -303,7 +303,7 @@
 
 من الملفت أن الشيخ ابن باز حثّ على طلب العلم **حتى لو كان المرء ينوي غير وجه الله**؛ لأن العلم نفسه قد يكون سبباً للهداية وتصحيح النية:
 
-> "He may learn in order to get a job or so it is said of him: 'a scholar,' then Allah guides him and he returns to the truth, as some of the Salaf said: **'We sought knowledge for other than Allah, but it refused to be except for Allah.'** So he should seek knowledge even if his intention is bad — he should not abandon knowledge. He should learn, strive, attend with the scholars, and ask his Lord to correct his intention."
+> «قد يطلب العلم ليتوظف أو ليُقال عنه: "عالم"، ثم يهديه الله ويرجع إلى الحق، كما قال بعض السلف: **"طلبنا العلم لغير الله، فأبى العلم أن يكون إلا لله."** فينبغي أن يطلب العلم ولو كانت نيته سيئة — فلا يترك العلم. بل يتعلم ويجتهد ويحضر عند العلماء، ويسأل ربه أن يُصلح نيته.»
 
 **المصدر:** الشيخ ابن باز، الفتوى رقم 5970  
 **الرابط:** https://binbaz.org.sa/fatwas/5970/وجوب-تصحيح-النية-في-طلب-العلم
@@ -314,16 +314,16 @@
 
 تقول TROID.org:
 
-> "Knowledge is the shield and protection from sin and transgression for the Muslim. When the Muslim knows the difference between the truth and misguidance he can then distinguish between the people of Paradise and the people of the hellfire."
+> «العلم درعٌ ووقايةٌ من الذنب والتعدي للمسلم. فإذا عرف المسلم الفرق بين الحق والضلال استطاع أن يُميّز بين أهل الجنة وأهل النار.»
 
-**المصدر:** TROID.org، "Why We Should Seek Knowledge and From Whom"  
+**المصدر:** TROID.org، "لماذا نطلب العلم وممن نطلبه"  
 **الرابط:** https://www.troid.org/why-we-should-seek-knowledge-and-from-whom/
 
 قال الله تعالى:
 
-> "Verily, this Quran guides to that which is most right."
+> «إِنَّ هَٰذَا الْقُرْآنَ يَهْدِي لِلَّتِي هِيَ أَقْوَمُ»
 
-**المصدر:** القرآن، الإسراء 17:9  
+**المصدر:** (القرآن، سورة الإسراء 17:9)  
 **الرابط:** https://binbaz.org.sa/fatwas/15387/من-أسباب-الهداية
 
 ---
@@ -363,9 +363,9 @@
 
 قال الله تعالى:
 
-> "And verily, I am indeed Forgiving to him who repents, believes (in My Oneness, and associates none in worship with Me) and does righteous good deeds, and then remains constant in doing them, (till his death)."
+> «وَإِنِّي لَغَفَّارٌ لِّمَن تَابَ وَآمَنَ وَعَمِلَ صَالِحًا ثُمَّ اهْتَدَىٰ»
 
-**المصدر:** القرآن، طه 20:82  
+**المصدر:** (القرآن، سورة طه 20:82)  
 **الرابط:** https://islamqa.info/en/answers/197247
 
 ---
@@ -388,15 +388,15 @@
 
 ### الأحاديث
 
-- "بين الرجل وبين الشرك والكفر ترك الصلاة" — صحيح مسلم، رقم 82
-- "العهد بيننا وبينهم الصلاة، فمن تركها فقد كفر" — سنن الترمذي، رقم 2621 (صحّحه الألباني)
-- "من فاتته العصر فكأنما وتر أهله وماله" — صحيح البخاري، رقم 552
-- "من فاتته العصر فكأنما وتر عمله" — صحيح البخاري، رقم 553
-- "من سلك طريقاً يلتمس فيه علماً سهّل الله له به طريقاً إلى الجنة" — صحيح البخاري، كتاب العلم، 10
-- حديث أبي الدرداء في فضل العالم — الترمذي (2606)، صحّحه الألباني
-- "من نسي صلاةً فليصلّها إذا ذكرها" — صحيح البخاري (572) ومسلم (684)
-- "التائب من الذنب كمن لا ذنب له" — ابن ماجه (4250)، حسّنه الألباني في صحيح الجامع (3008)
-- "الإسلام يجوب ما قبله" — ورد في IslamQA الفتوى رقم 197247
+- «بين الرجل وبين الشرك والكفر ترك الصلاة» — (صحيح مسلم، رقم 82)
+- «العهد بيننا وبينهم الصلاة، فمن تركها فقد كفر» — (سنن الترمذي، رقم 2621؛ صحّحه الألباني)
+- «من فاتته العصر فكأنما وتر أهله وماله» — (صحيح البخاري، رقم 552)
+- «من فاتته العصر فكأنما وتر عمله» — (صحيح البخاري، رقم 553)
+- «من سلك طريقاً يلتمس فيه علماً سهّل الله له به طريقاً إلى الجنة» — صحيح البخاري، كتاب العلم، 10
+- حديث أبي الدرداء في فضل العالم — (الترمذي، رقم 2606؛ صحّحه الألباني)
+- «من نسي صلاةً فليصلّها إذا ذكرها» — (صحيح البخاري، رقم 572؛ صحيح مسلم، رقم 684)
+- «التائب من الذنب كمن لا ذنب له» — (ابن ماجه، رقم 4250؛ حسّنه الألباني في صحيح الجامع، رقم 3008)
+- «الإسلام يَجُبّ ما قبله» — ورد في IslamQA الفتوى رقم 197247
 
 ### أقوال العلماء
 
@@ -415,7 +415,7 @@
 - islamqa.info — الفتاوى: 5208، 52923، 49698، 65621، 81874، 83165، 111783، 169682، 197247، 285977، 3365، 10471، 20191، 262984، 182767، 285977
 - binbaz.org.sa — الفتاوى: 8055، 1531، 5970، 4275، 15387، 21215، 19669، 22218، 21135
 - abdurrahman.org — الألباني في ترك الصلاة؛ رياض الصالحين الباب 241؛ الفوزان في ركن الصلاة
-- troid.org — "Allah's Easing the Path to Paradise"؛ "Why We Should Seek Knowledge"؛ "Treading the Path of Knowledge"
+- troid.org — "تيسير الله طريقاً إلى الجنة"؛ "لماذا نطلب العلم"؛ "سلوك طريق العلم"
 - abukhadeejah.com — الإمام الذهبي في ترك الصلاة؛ حديث في طلب العلم
 - fawaaids.com — قضاء الصلوات الفائتة (مجموعة أقوال علماء)
 

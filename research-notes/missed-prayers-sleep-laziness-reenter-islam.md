@@ -46,7 +46,7 @@ And:
 
 > “Whoever forgets a prayer, let him offer it as soon as he remembers, for there is no expiation for it other than that.”
 
-**Source:** Sahih al-Bukhari, no. 572; Sahih Muslim, no. 684. Muslim’s narration adds: “or sleeps and misses it.”
+**Source:** Sahih al-Bukhari, no. 597; Sahih Muslim, no. 684. Muslim’s narration adds: "or sleeps and misses it."
 
 This applies when sleep overpowers a person **without negligence** — he intended to pray, took reasonable means (alarm, early sleep, asking someone to wake him), and still missed the prayer.
 
@@ -193,10 +193,12 @@ IslamQA states:
 
 Shaykh Ibn Baz said about the returning apostate:
 
-> “If he repents and returns, all praise is due to Allah; repentance wipes out what came before it. If he repents, that is sufficient; and some of the fuqaha permit him to utter the Shahaadah… So if he said ‘prayer is not obligatory’ and then repents, Allah accepts his repentance… and that is sufficient.”
+> "التوبة، باب التوبة مفتوح، إذا وقع في ناقض؛ فعليه أن يرجع إلى الإسلام بالتوبة، يندم على الماضي، ويعزم ألا يعود، ويترك هذا الناقض، فإذا كان كفره بدعاء الأموات، والاستغاثة بالأموات والأصنام؛ ترك ذلك، وتاب إلى الله من ذلك، وبهذا يرجع إلى الإسلام، إلا إذا كان كفره بأنه جحد وجوب الصلاة؛ يقر، يقول: لا، أنا غلطان، الصلاة فرض على المكلفين، وأتوب إلى الله من ذلك، ويندم، ويقلع، ويعزم ألا يعود، يتوب الله عليه، أو كان يترك الصلاة لا يصلي، التوبة أن يفعل الصلاة، ويندم على الماضي، ويستغفر مما مضى، ويعزم ألا يعود فيه وهذه التوبة."
+>
+> *"Repentance — the door of repentance is open. If he fell into a nullifier, he must return to Islam through repentance: he regrets the past, resolves not to return to it, and abandons that nullifier. If his kufr was due to calling upon the dead and seeking help from the dead and idols, he abandons that and repents to Allah — and by this he returns to Islam. But if his kufr was because he denied the obligation of prayer, he acknowledges it, saying: 'No, I was wrong, prayer is obligatory upon those accountable,' and he repents to Allah, regrets, desists, and resolves not to return — Allah accepts his repentance. Or if he used to abandon prayer and not pray, the repentance is that he performs the prayer, regrets the past, seeks forgiveness for what passed, and resolves not to return to it — and this is the repentance."*
 
-**Source:** BinBaz, “Nawaaqid al-Islam” section, fatwa category 209  
-**URL:** https://binbaz.org.sa/categories/objective/209/fatwa?page=19
+**Source:** Shaykh Ibn Baz, "How to Return to Islam for One Who Has Fallen into Its Nullifiers" (كيفية الرجوع إلى الإسلام لمن وقع في مبطلاته)
+**URL:** http://www.binbaz.org.sa/mat/10285
 
 This shows the scholars differ on whether a returning apostate **must** utter the Shahaadatayn, but the way back is **repentance and the two testimonies of faith**; it is not merely a two-rak`at prayer.
 

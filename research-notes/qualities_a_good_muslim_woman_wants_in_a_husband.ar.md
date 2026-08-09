@@ -5,7 +5,7 @@
 **التصنيف:** الزواج  
 **الموضوع:** اختيار الزوج في ضوء القرآن والسنة الصحيحة وتفسير علماء السلف المعتمدين.
 
-> **Foreword on cultural framing:** Salafi scholarship does not divide women into “Arab/non-Arab,” “traditional/non-traditional,” or “modern/conservative.” The Shariah addresses every Muslim woman with the same religious standard: the man she marries must be pleasing to Allah first. Compatibility (kafaa’ah) in the view of the strongest evidence is based on religion and piety, not on tribe, wealth, nationality, or culture.
+> **مقدمة في التأطير الثقافي:** العلم السلفي لا يقسّم النساء إلى «عربيات/غير عربيات» أو «تقليديات/غير تقليديات» أو «محافظات/حداثيات». الشريعة تخاطب كل امرأة مسلمة بالمعيار الديني نفسه: الرجل الذي تتزوجه يجب أن يكون مُرضياً لله أولاً. والكفاءة في أرجح الأدلة مبنية على الدين والتقوى، لا على القبيلة أو المال أو الجنسية أو الثقافة.
 
 ---
 
@@ -13,19 +13,19 @@
 
 لا بد أن يبدأ كل حديث عن اختيار الزوج بنصيحة النبي ﷺ في التدين والخلق.
 
-> قال رسول الله صلى الله عليه وسلم: *"إذا جاءكم من ترضون دينه وخلقه فزوّجوه؛ إن لا تفعلوا تكن فتنة في الأرض وفساد عريض."*
+> قال رسول الله ﷺ: *"إذا جاءكم من ترضون دينه وخلقه فزوّجوه؛ إن لا تفعلوا تكن فتنة في الأرض وفساد عريض."*
 >
 > — رواه الترمذي (1084، 1085) وغيره؛ **صحّحه/حسّنه الألباني** في "صحيح سنن الترمذي". المصدر: IslamQA، ["Should he marry someone who is above him in terms of social status?"](https://islamqa.info/en/answers/84306)؛ AbdurRahman.org، ["Marriage, Casts and Compatibility — Ibn Baaz"](https://abdurrahman.org/2014/01/29/marriagecastscompatibility/)
 
 وقد أوضح النبي ﷺ ما يلفت النظر طبيعياً، ثم وضع المعيار الأخير في موضعه.
 
-> قال رسول الله صلى الله عليه وسلم: *"تُنكح المرأة لأربع: لمالها ولحسبها ولجمالها ولدينها؛ فاضفر بذات الدين تربت يداك."*
+> قال رسول الله ﷺ: *"تُنكح المرأة لأربع: لمالها ولحسبها ولجمالها ولدينها؛ فاظفر بذات الدين تربت يداك."*
 >
 > — متفق عليه (البخاري 5090؛ مسلم 1466)؛ **صحّحه الألباني**. المصدر: IslamWeb، ["A Woman Is Married for Four Reasons"](https://islamweb.net/en/article/163819)
 
 قال الشيخ ابن باز — رحمه الله — مُلخّصاً للمرأة التي تختار:
 
-> "Seek the good man known for righteousness, maintaining the prayers, with good creed. Ask about him from trustworthy people who know him if he proposes to her. And even if she is the one who initiates, there is no harm… The point is: a woman may choose for herself a good man known for uprightness in his religion, but the final decision is through her wali. Her wali is the one who marries her off. If she and her wali agree on a good man, that is what is required. Her wali has no right to force her to marry someone who is not good, or someone she does not accept."
+> "اطلب الرجل الصالح المعروف بالاستقامة والمحافظة على الصلاة وحسن العقيدة. واسأل عنه من الثقات الذين يعرفونه إذا خطبها. وإن كانت هي من تبدأ فلا بأس… المقصود: أن المرأة قد تختار لنفسها رجلاً صالحاً معروفاً بالاستقامة في دينه، لكن القرار النهائي يكون عبر وليّها. ووليّها هو الذي يزوّجها. إذا اتفقت هي ووليّها على رجل صالح فذلك هو المطلوب. وليس لوليّها أن يجبرها على الزواج برجل غير صالح، أو رجل لا تقبله."
 >
 > — الشيخ عبد العزيز بن باز، BinBaz.org.sa، ["صفات الزوج الصالح"](https://binbaz.org.sa/fatwas/11199/%D8%B5%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D8%B2%D9%88%D8%AC-%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD)
 
@@ -33,21 +33,21 @@
 
 لا ينبغي أن تُقال للمرأة إن الرجل غير مناسب لمجرد أن جنسيته أو قبيلته أو طبقته الاجتماعية تختلف. إن الله جعل التقوى التمييز الحقيقي.
 
-> **قال الله تعالى:** *"يا أيها الناس إنا خلقناكم من ذكر وأنثى وجعلناكم شعوباً وقبائل لتعارفوا، إن أكرمكم عند الله أتقاكم."* (القرآن 49:13)
+> **قال الله تعالى:** *"يا أيها الناس إنا خلقناكم من ذكر وأنثى وجعلناكم شعوباً وقبائل لتعارفوا، إن أكرمكم عند الله أتقاكم."* (القرآن، سورة الحجرات 49:13)
 >
-> قال النبي ﷺ: *"لا فضل لعربي على عجمي ولا لعجمي على عربي، ولا لأحمر على أسود ولا لأسود على أحمر، إلا بالتقوى.* (رواه أحمد؛ حسّنه الألباني.)
+> قال النبي ﷺ: *"لا فضل لعربي على عجمي ولا لعجمي على عربي، ولا لأحمر على أسود ولا لأسود على أحمر، إلا بالتقوى."* (رواه أحمد؛ حسّنه الألباني.)
 >
 > المصدر: IslamQA، ["Should he marry someone who is above him in terms of social status?"](https://islamqa.info/en/answers/84306)
 
 كتب ابن القيم — رحمه الله:
 
-> "What is implied by the ruling of the Prophet (peace and blessings of Allah be upon him) is that attention should be paid to compatibility in religious commitment first and foremost. So a Muslim woman should not be given in marriage to a kaafir, or a chaste woman to an immoral man. The Qur’aan and Sunnah do not pay attention to any compatibility beyond that. It is haraam for a Muslim woman to marry an evil adulterer. No attention is paid to lineage, profession, wealth, or whether the man is free or a slave. It is permissible for a lowly slave to marry a free woman of noble birth, if he is chaste and Muslim."
+> "مقتضى حكم النبي ﷺ الالتفات إلى الكفاءة في الدين أولاً وقبل كل شيء. فلا تُزوّج المسلمة بكافر، ولا العفيفة بفاجر. والقرآن والسنة لا يلتفتان إلى كفاءة وراء ذلك. ويحرُم أن تُزوّج المسلمة بزانٍ فاجر. ولا التفات للنسب أو المهنة أو المال أو كون الرجل حراً أو عبداً. ويجوز أن يتزوج العبد المملوك بحرةٍ من قومٍ كريمة إذا كان عفيفاً مسلماً."
 >
 > — ابن القيم الجوزية، *زاد المعاد* 5/144، نُقل في IslamQA [84306](https://islamqa.info/en/answers/84306)
 
 حذّر الشيخ ابن باز — رحمه الله — أيضاً من استخدام العشيرة أو الطبقة كحاجز:
 
-> "From the evil and reprehensible matters is that some… say that there is no kafaa’ah (compatibility) between them and someone from outside their own clan… This is a great error, a monstrous ignorance, oppression against the woman, and it is a legislation which neither Allah nor His Messenger legislated… Rather, what it is obligatory in this matter is to consider only Religion as the compatibility factor."
+> "من الأمور الشريرة المنكرة أن بعض الناس… يقول إنه لا كفاءة بينهم وبين من هو من خارج قبيلتهم… هذا خطأ عظيم، وجهالة بشعة، وظلم للمرأة، وهو تشريع لم يشرّعه الله ولا رسوله… بل الواجب في هذا الباب اعتبار الدين وحده في الكفاءة."
 >
 > — الشيخ عبد العزيز بن باز، AbdurRahman.org، ["Marriage, Casts and Compatibility"](https://abdurrahman.org/2014/01/29/marriagecastscompatibility/)
 
@@ -63,19 +63,19 @@
 
 قال الشيخ ابن باز — رحمه الله:
 
-> "And similarly, the man should be chosen by the woman, and she should strive for him to be righteous and good, far from causes of evil — not a drunkard, not one who shaves his beard, not a smoker, not one who commits adultery, and the like. She should strive for him to be sound; this is what is required — out of concern for the safety of religion."
+> "وكذلك ينبغي للمرأة أن تختار الرجل، وأن تحرص أن يكون صالحاً خيّراً، بعيداً عن أسباب الشر — لا يشرب الخمر، ولا يحلق لحيته، ولا يدخّن، ولا يزني، ونحو ذلك. وأن تحرص أن يكون سليماً؛ هذا هو المطلوب — حرصاً على سلامة الدين."
 >
 > — BinBaz.org.sa، ["الشروط الواجب توفرها في الزوجين"](https://binbaz.org.sa/fatwas/10813/%D8%A7%D9%84%D8%B4%D8%B1%D9%88%D8%B7-%D8%A7%D9%84%D9%88%D8%A7%D8%AC%D8%A8-%D8%AA%D9%88%D9%81%D8%B1%D9%87%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D9%8A%D9%86)
 
 وقال أيضاً:
 
-> "As for abandoning the prayer, it is kufr; its doer is considered a kaafir. It is necessary for him to pray, because of the saying of the Prophet: ‘Between a man and kufr and shirk is abandoning the prayer,’ and his saying: ‘The covenant between us and them is the prayer; whoever leaves it has committed kufr.’ So it is not permissible for a Muslim to marry a woman who does not pray, and it is not permissible for a Muslim woman to marry a man who does not pray."
+> "أما ترك الصلاة فهو كفر، وصاحبه يُعتبر كافراً. ويجب عليه أن يصلّي، لقول النبي ﷺ: «بين الرجل وبين الكفر والشرك ترك الصلاة»، وقوله: «العهد الذي بيننا وبينهم الصلاة، فمن تركها فقد كفر». فلا يجوز لمسلم أن يتزوج امرأة لا تصلّي، ولا يجوز لمسلمة أن تتزوج رجلاً لا يصلّي."
 >
 > — BinBaz.org.sa، ["الشروط الواجب توفرها في الزوجين"](https://binbaz.org.sa/fatwas/10813/%D8%A7%D9%84%D8%B4%D8%B1%D9%88%D8%B7-%D8%A7%D9%84%D9%88%D8%A7%D8%AC%D8%A8-%D8%AA%D9%88%D9%81%D8%B1%D9%87%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D9%8A%D9%86)
 
 يوضّح جواب IslamQA صفات التدين العملية:
 
-> "Religious commitment. This is the most important thing to look for in the man you want to marry. The husband should be a Muslim who adheres to all the laws and teachings of Islam in his daily life… One of the most important things to ask about is the man’s prayer; the one who neglects the rights of Allah is more likely to neglect the rights of others."
+> "التدين. هذا أهم ما يُبحث عنه في الرجل الذي تريدين الزواج منه. ينبغي أن يكون الزوج مسلماً ملتزماً بجميع أحكام الإسلام وتعاليمه في حياته اليومية… ومن أهم ما يُسأل عنه صلاة الرجل؛ فإن من يفرّط في حقوق الله أشدّ تفرّطاً في حقوق الآخرين."
 >
 > المصدر: IslamQA، ["Qualities to Look for in a Husband in Islam"](https://islamqa.info/en/answers/5202)
 
@@ -87,29 +87,29 @@
 >
 > — رواه الترمذي (3895)؛ **حسّنه صحيحاً** الترمذي والألباني. ورواه ابن ماجه (1977). المصدر: IslamQA، ["Gifting Your Wife in Islam"](https://islamqa.info/en/answers/323262)
 
-> قال النبي ﷺ: *"استوصوا بالنساء خيراً، فإنما هنّ أعاجيز، وإن أعجزهنّ لأعلى رأسهنّ؛ فإن أقمتّها كسرتّها، وإن تركتّها بقيت معوجة."*
+> قال النبي ﷺ: *"استوصوا بالنساء خيراً، فإنهنّ خُلقن من ضلع، وإن أعوج شيء في الضلع أعلاه؛ فإن ذهبت تُقيمه كسرته، وإن تركته لم يزل أعوج."*
 >
 > — متفق عليه (البخاري 5185، 5186؛ مسلم 1468). المصدر: Sunnah.com، [البخاري 5185](https://hadithunlocked.com/bukhari:5185)
 
-> قال النبي ﷺ: *"لا يحقرنّ مؤمنٌ مؤمنةً؛ إن كره منها خُلقاً رضي منها آخر."*
+> قال النبي ﷺ: *"لا يُكره مؤمنٌ مؤمنةً؛ إن كره منها خُلقاً رضي منها آخر."*
 >
 > — صحيح مسلم (1468b). المصدر: Sunnah.com، [مسلم 1468b](https://hadithunlocked.com/muslim:1468b)
 
 وصف الشيخ ابن باز — رحمه الله — معاملة الزوج لزوجته:
 
-> "And he also must treat her with good treatment (ma’ruf), so he should not harm her, nor beat her without right, nor be harsh with her without right, nor frown in her face without right, nor fall short in her spending without right. Rather, he must provide her customary spending for her like — clothing and other things — and be of good character, cheerful with his wife. He must treat her with gentleness in his intimacy with her, in his sleeping with her, in his speech to her with good words, joking with her, and being at ease with her, among other things… He has a right, and she has a right, and though his right is greater, he has a right upon him to treat her with good treatment and to be good to her."
+> "وكذلك يجب عليه أن يعاشرها بالمعروف، فلا يؤذيها، ولا يضربها بغير حق، ولا يكون خشناً معها بغير حق، ولا يعبس في وجهها بغير حق، ولا يفرّط في نفقتها بغير حق. بل يجب عليه أن يوفر لها نفقتها المعتادة من كسوة وغير ذلك، وأن يكون حسن الخلق، بشوشاً مع زوجته. وأن يعاملها برفق في مباشرته لها، وفي مضجعه، وفي كلامه لها بالكلمات الطيبة، وممازحتها، والأنس بها، وغير ذلك… له حق وعليها حق، وإن كان حقه أعظم، فعليه حق أن يعاشرها بالمعروف ويُحسن إليها."
 >
 > — BinBaz.org.sa، ["حقوق كل من الزوجين على الآخر"](https://binbaz.org.sa/fatwas/15561/%D8%AD%D9%82%D9%88%D9%82-%D9%83%D9%84-%D9%85%D9%86-%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D9%8A%D9%86-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A2%D8%AE%D8%B1)
 
 حثّ النبي ﷺ الأزواج على تعزيز المحبّة بالمعاملات الطيبة الصغيرة:
 
-> "Exchange gifts; you will love one another."
+> *"تهادوا تحابّوا."*
 >
 > — رواه البخاري في "الأدب المفرد" (594)؛ **صحّحه الألباني** في "إرواء الغليل" (6/44). المصدر: IslamQA، ["Gifting Your Wife in Islam"](https://islamqa.info/en/answers/323262)
 
 أمر الله بحسن المعاملة بصيغة واضحة:
 
-> **قال الله تعالى:** *"وعاشروهنّ بالمعروف؛ فإن كرهتموهنّ فعسى أن تكرهوا شيئاً ويجعل الله فيه خيراً كثيراً."* (القرآن 4:19)
+> **قال الله تعالى:** *"وعاشروهنّ بالمعروف؛ فإن كرهتموهنّ فعسى أن تكرهوا شيئاً ويجعل الله فيه خيراً كثيراً."* (القرآن، سورة النساء 4:19)
 >
 > قال ابن كثير — رحمه الله: *"عاشروهنّ بالإكرام، بقولكم لهنّ كلمة طيبة، ومعاملتكم لهنّ بمعروف، وتزيينكم لهنّ في أنفسهنّ قدر ما تستطيعون، كما تحبون ذلك منهنّ."* (تفسير ابن كثير لآية 4:19.)
 >
@@ -119,37 +119,37 @@
 
 إن الإسلام يضع العبء المالي للبيت على عاتق الرجل. تريد المرأة رجلاً يستطيع الإنفاق عليها بما يكون معقولاً، ولا يلزم أن يكون مليونيراً.
 
-> **قال الله تعالى:** *"الرجال قوّامون على النساء بما فضّل الله بعضهم على بعض وبما أنفقوا من أموالهم."* (القرآن 4:34)
+> **قال الله تعالى:** *"الرجال قوّامون على النساء بما فضّل الله بعضهم على بعض وبما أنفقوا من أموالهم."* (القرآن، سورة النساء 4:34)
 >
-> **قال الله تعالى:** *"ولهنّ مثل الذي عليهنّ بالمعروف، وللرجال عليهنّ درجة."* (القرآن 2:228)
+> **قال الله تعالى:** *"ولهنّ مثل الذي عليهنّ بالمعروف، وللرجال عليهنّ درجة."* (القرآن، سورة البقرة 2:228)
 
 قال الشيخ ابن باز — رحمه الله:
 
-> "As Allah — blessed and exalted — stated: ‘Men are qawwamun (protectors/maintainers) over women because of what Allah has favored some over others and because of what they spend of their wealth’ [An-Nisa 4:34] — due to the favor of men over women, and because of what he spends of his wealth, and what he spends on her… so he is the maintainer over her."
+> "كما قال الله — تبارك وتعالى: «الرجال قوّامون على النساء بما فضّل الله بعضهم على بعض وبما أنفقوا من أموالهم» [النساء 4:34] — بسبب فضل الرجال على النساء، وبسبب ما ينفقه الرجل من ماله، وما ينفقه عليها… فهو القيّم عليها."
 >
 > — BinBaz.org.sa، ["توضيح حول قوامة الرجل على المرأة"](https://binbaz.org.sa/fatwas/14079/%D8%AA%D9%88%D8%B6%D9%8A%D8%AD-%D8%AD%D9%88%D9%84-%D9%82%D9%88%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%B1%D8%AC%D9%84-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%B1%D8%A3%D8%A9)
 
 يوضح IslamQA أنه ينبغي للمرأة أن تبحث عن كفاية في الإنفاق:
 
-> "It is good if he has sufficient wealth to keep him and his family from having to ask people for anything, because the Prophet (peace and blessings of Allah be upon him) said to Fatimah bint Qays, when she came to consult him about three men who had proposed marriage to her, ‘As for Mu’awiyah, he is a poor man who has no wealth…’ (Narrated by Muslim, 1480). It is not essential that he should be a businessman or rich, it is sufficient for him to have an income that will keep him and his family from having to ask people for anything. If there is a choice between a man who is religiously committed and a man who is wealthy, then the religious man should be given preference over the wealthy man."
+> "من الخير أن يكون عنده من المال ما يكفيه ويكفي أسرته حتى لا يحتاجوا إلى سؤال الناس شيئاً، لأن النبي ﷺ قال لفاطمة بنت قيس لمّا جاءت تستشيره في ثلاثة رجال خطبوها: «أما معاوية فهو رجل عائل لا مال له…» (رواه مسلم، 1480). وليس شرطاً أن يكون تاجراً أو غنياً، بل يكفي أن يكون له دخل يغنيه ويغني أسرته عن سؤال الناس. وإذا كان هناك خيار بين رجل متدين ورجل غني، فيُقدّم المتدين على الغني."
 >
 > المصدر: IslamQA، ["Qualities to Look for in a Husband in Islam"](https://islamqa.info/en/answers/5202)
 
 ومن التحذيرات: الرجل الذي لا ينفق أو يشتهر بالبخل.
 
-> سألت فاطمة بنت قيس النبي ﷺ عن أبي جهم من الخطّاب، فقال: *"أما أبو جهم فلا تفارق عصاه عن عاتقه"*، إشارة إلى كثرة ضربه للنساء. وقال عن معاوية: *"إنه فقير لا مال له."*
+> سألت فاطمة بنت قيس النبي ﷺ عن أبي جهم من الخطّاب، فقال: *"أما أبو جهم فلا يضع عصاه عن عاتقه"*، إشارة إلى كثرة ضربه للنساء. وقال عن معاوية: *"إنه صعلوك لا مال له."*
 >
 > — صحيح مسلم (1480). المصدر: IslamQA، ["Qualities to Look for in a Husband in Islam"](https://islamqa.info/en/answers/5202)
 
 الحقوق الأساسية للزوجة واضحة:
 
-> "The rights of the wife of one of us are that you should feed her when you eat, clothe her when you clothe yourself, do not strike her face, do not insult her, and do not separate from her except in the house."
+> *"حق الزوجة على أحدنا أن تطعمها إذا طعمت، وتكسوها إذا اكتسيت، ولا تضرب الوجه، ولا تُقبّح، ولا تهجر إلا في البيت."*
 >
 > — رواه أبو داود (2142)؛ **صحّحه الألباني** في "إرواء الغليل" (7/98). المصدر: IslamQA، ["Gifting Your Wife in Islam"](https://islamqa.info/en/answers/323262)
 
 قال ابن كثير — رحمه الله — في معنى النفقة:
 
-> "That is, it should be in line with what is customary among women like her in her country, without any extravagance or stinting, and according to what the husband can afford, whether he is well off, of moderate means, or in financial difficulty."
+> "أي: يكون ذلك بحسب المعتاد للنساء مثلها في بلدها، بلا إسراف ولا تقتير، وبحسب طاقة الزوج، سواء كان موسراً أو متوسط الحال أو معسراً."
 >
 > — *تفسير ابن كثير* 1/634، نُقل في IslamQA [126316](https://islamqa.info/en/answers/126316)
 
@@ -163,39 +163,39 @@
 
 تقول IslamQA:
 
-> "It is preferable that he should have knowledge of the Quran and Sunnah; if you find someone like this it is good, otherwise you should realise that this is something rare."
+> "يُستحب أن يكون عنده علم بالقرآن والسنة؛ فإن وجدتم مثل هذا فحسن، وإلا فاعلموا أن ذلك شيء نادر."
 >
 > — IslamQA، ["Qualities to Look for in a Husband in Islam"](https://islamqa.info/en/answers/5202)
 
 وعن مسؤوليته:
 
-> "It is quite clear that a man is responsible for his family with regard to teaching them and making sure that they follow Islam… Whoever neglects his wife and children in this regard is undoubtedly taking a great risk."
+> "من الواضح أن الرجل مسؤول عن أسرته في تعليمهم والتأكد من اتباعهم الإسلام… ومن أهمل زوجته وأولاده في هذا الجانب فهو بلا شك يغامر مغامرة عظيمة."
 >
-> — IslamQA، ["The husband’s responsibility to educate his wife"](https://islamqa.info/en/answers/13802)
+> — IslamQA، ["The husband's responsibility to educate his wife"](https://islamqa.info/en/answers/13802)
 
 ## الفصل السابع: الأسرة والصحة والمظهر
 
 بعد الدين، يمكن أن تُعتبر أسرة معروفة وحسنة وجسد سليم ومستوى معقول من الجمال الظاهر المباح. لا ينبغي أن تُقدّم هذه الأمور على الدين أبداً.
 
-> "As well as being religiously committed, it is preferable that he should come from a good family and a known lineage. If two men come to propose marriage to one woman, and they are equal in terms of religious commitment, then preference should be given to the one who comes from a good family that is known for its adherence to the commands of Allah… because the righteousness of the husband’s close relatives could be passed on to his children."
+> "إضافة إلى التدين، يُستحب أن يكون من أسرة صالحة ونسب معروف. إذا جاء رجلان يخطبان امرأة واحدة، وكانا متساويين في التدين، فيُقدّم من كان من أسرة صالحة معروفة بالالتزام بأوامر الله… لأن صلاح أقارب الزوج قد ينتقل إلى أولاده."
 >
 > — IslamQA، ["Qualities to Look for in a Husband in Islam"](https://islamqa.info/en/answers/5202)
 
 وذكرت IslamQA أيضاً:
 
-> "It is good if he is of sound body and health, free of faults, sickness, etc., and not disabled or sterile."
+> "من الخير أن يكون سليم البدن والصحة، خالياً من العيوب والأمراض، ولا يكون به عجز أو عقم."
 >
 > — IslamQA، ["Qualities to Look for in a Husband in Islam"](https://islamqa.info/en/answers/5202)
 
 أباح النبي ﷺ للخاطب والمرأة أن ينظرا إلى بعضهما ليكون الجمال أساساً لمحبة دائمة:
 
-> قال النبي ﷺ: *"إذا خطب أحدكم المرأة فلا بأس أن ينظر إليها، فإنه أحرى أن يؤدم بينكما."*
+> قال النبي ﷺ: *"انظر إليها، فإنه أحرى أن يؤدم بينكما."*
 >
 > — رواه الترمذي (1087)، والنسائي (3235)، وابن ماجه (1865)؛ **صحّحه الألباني** في "صحيح سنن الترمذي". المصدر: IslamQA، ["Method of Marriage Proposal in Islam"](https://islamqa.info/en/answers/88130)
 
 شرح الشيخ ابن عثيمين — رحمه الله — أن الجمال المادي والمعنوي كلاهما له أثر، لكن الجمال الروحي هو الباقي:
 
-> "Physical beauty means the perfection of features, for the more the woman appears beautiful and articulate, the more the eye is comforted by looking at her… On the other hand, spiritual beauty means the perfection of religion and moral character. The more the woman is religious and perfect in moral character, the lovelier she becomes, and the safer the expected outcome is… A religious woman always complies with the commands of Allah, guards her husband’s rights, honor, children and wealth, and helps him obey Allah whenever she reminds him."
+> "الجمال الخَلقي يعني كمال الخِلقة، فكلما كانت المرأة أجمل وأفصح، اطمأنّ النظر إليها أكثر… أما الجمال الخُلقي فيعني كمال الدين ومكارم الأخلاق. فكلما كانت المرأة أتقى وأكمل خلقاً، صارت أحبّ، وكان النتائج المتوقعة أأمن… والمرأة المتدينة دائماً تلتزم بأوامر الله، وتحفظ حقوق زوجها وعرضه وأولاده وماله، وتعينه على طاعة الله كلما ذكّرته."
 >
 > — الشيخ محمد بن صالح العثيمين، *كتاب الزواج*، نُقل في IslamWeb، ["A Woman Is Married for Four Reasons"](https://islamweb.net/en/article/163819)
 
@@ -203,13 +203,13 @@
 
 الزوج الصالح يحفظ عرض زوجته وعفّته وعفّته هو. هو ذو غيرة (غَيْرَة) ولا يسمح بالاختلاط أو الفساد.
 
-> **قال الله تعالى:** *"قل للمؤمنين يغضوا من أبصارهم ويحفظوا فروجهم، ذلك أزكى لهم."* (القرآن 24:30)
+> **قال الله تعالى:** *"قل للمؤمنين يغضوا من أبصارهم ويحفظوا فروجهم، ذلك أزكى لهم."* (القرآن، سورة النور 24:30)
 >
-> **قال الله تعالى:** *"الرجال قوّامون على النساء بما فضّل الله بعضهم على بعض وبما أنفقوا من أموالهم، فالصالحات قانتات حافظات للغيب بما حفظ الله."* (القرآن 4:34)
+> **قال الله تعالى:** *"الرجال قوّامون على النساء بما فضّل الله بعضهم على بعض وبما أنفقوا من أموالهم، فالصالحات قانتات حافظات للغيب بما حفظ الله."* (القرآن، سورة النساء 4:34)
 
 قال الشيخ صالح الفوزان — حفظه الله:
 
-> "The prophet (sallâ Allâhu ‘alayhi wa sallam) ordered us to take good care of the women because they play an important role in the society. It’s not only about taking good care of them and giving them their due rights… this is obligatory, what is more important is to protect them from indecencies – the woman is weak as you know – and [to protect them from] trying appearances [i.e., fitnah] and letting them do whatever they want to do. This is the most important thing the prophet ordered [in regards to women], namely that we protect them."
+> "أمر النبي ﷺ بالإحسان إلى النساء لأن لهنّ دوراً مهماً في المجتمع. وليس الأمر مقتصراً على الإحسان إليهنّ وإعطائهنّ حقوقهنّ… هذا واجب، وما هو أهمّ منه حمايتهنّ من الفواحش — فالمرأة ضعيفة كما تعلمون — و[حمايتهنّ من] المظاهر الفاتنة [أي الفتنة] وتركهنّ يفعلن ما يردن. هذا أهم ما أمر به النبي ﷺ [فيما يتعلق بالنساء]، وهو أن نحميهنّ."
 >
 > — الشيخ صالح الفوزان، AbdurRahman.org، ["A Message to the Woman — Lecture by Shaykh Salih al-Fawzan"](https://abdurrahman.org/2012/02/12/a-message-to-the-woman-lecture-by-shaykh-salih-al-fawzan-must-see/)
 
@@ -219,17 +219,17 @@
 
 حذّر النبي ﷺ من إظلام الزوجة، ومن ذلك حجب العلاقة الزوجية والجور بين الزوجات.
 
-> **قال الله تعالى:** *"ولن تستطيعوا أن تعدلوا بين النساء ولو حرصتم فلا تميلوا كل الميل فتذروها كالمعلّقة."* (القرآن 4:129)
+> **قال الله تعالى:** *"ولن تستطيعوا أن تعدلوا بين النساء ولو حرصتم فلا تميلوا كل الميل فتذروها كالمعلّقة."* (القرآن، سورة النساء 4:129)
 
 بين شيخ الإسلام ابن تيمية — رحمه الله — حق الزوجة في العلاقة الزوجية:
 
-> "The husband must render his wife her conjugal rights in a goodly manner (bil-ma’ruf). This is one of her most crucial rights. It is more important than even feeding her. Regarding how often it is obligatory, some have said once every four months, and others have said that it depends on her need and his ability, and this is the more correct position."
+> "يجب على الزوج أن يؤدي لزوجته حقوقها الزوجية بالمعروف. وهذا من أهم حقوقها. وهو أهمّ من إطعامها. وأما قدر الواجب فقد قيل: مرة كل أربعة أشهر، وقيل: إنه يرجع إلى حاجتها وقدرته، وهذا هو الأرجح."
 >
 > — شيخ الإسلام ابن تيمية، *مجموع الفتاوى*، نُقل في IslamQA [143120](https://islamqa.info/en/answers/143120)
 
-وقد تجوز للمرأة أن تشترط شروطاً تحمي حقوقها، كألا يتزوج عليها أو لا يخرجها من بيتها. وهذه الشروط صحيحة بمذهب الإمام أحمد وكثير من السلف.
+وقد يجوز للمرأة أن تشترط شروطاً تحمي حقوقها، كألا يتزوج عليها أو لا يخرجها من بيتها. وهذه الشروط صحيحة بمذهب الإمام أحمد وكثير من السلف.
 
-> "Shaykh al-Islam Ibn Taymiyah (may Allah have mercy on him) was asked about a man who married a woman, and she stipulated that he should not take another wife or make her move from her home… He replied: Yes, these conditions and similar ones are valid according to the madhhab of Imam Ahmad and others among the Sahaabah and Taabi’een."
+> "سُئل شيخ الإسلام ابن تيمية — رحمه الله — عن رجل تزوج امرأة واشترطت عليه ألا يتزوج عليها ولا يخرجها من بيتها… فأجاب: نعم، هذه الشروط ونحوها صحيحة على مذهب الإمام أحمد وغيره من الصحابة والتابعين."
 >
 > — ابن تيمية، *الفتاوى الكبرى* 3/90، نُقل في IslamQA [143120](https://islamqa.info/en/answers/143120)
 
@@ -239,21 +239,17 @@
 
 ## الفصل العاشر: ما ينبغي الحذر منه في الخاطب
 
-ينبغي للمرأة ألا تبحث عن الصفات الإيجابية فحسب، بل تحذر من المحاذير. سرد الشيخ ابن باز — رحمه الله — ما يلي:
-
-> "She should strive for him to be righteous and good, far from causes of evil — not a drunkard, not one who shaves his beard, not a smoker, not one who commits adultery, and the like. She should strive for him to be sound; this is what is required — out of concern for the safety of religion."
->
-> — BinBaz.org.sa، ["الشروط الواجب توفرها في الزوجين"](https://binbaz.org.sa/fatwas/10813/%D8%A7%D9%84%D8%B4%D8%B1%D9%88%D8%B7-%D8%A7%D9%84%D9%88%D8%A7%D8%AC%D8%A8-%D8%AA%D9%88%D9%81%D8%B1%D9%87%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D9%8A%D9%86)
+ينبغي للمرأة ألا تبحث عن الصفات الإيجابية فحسب، بل تحذر من المحاذير. وقد سبق في الفصل الثالث ذكر الشيخ ابن باز — رحمه الله — أن المرأة ينبغي لها أن تحرص على أن يكون الخاطب بعيداً عن أسباب الشر: لا يشرب الخمر، ولا يحلق لحيته، لا يدخّن، ولا يزني، ونحو ذلك، حرصاً على سلامة الدين. (المصدر: BinBaz.org.sa، ["الشروط الواجب توفرها في الزوجين"](https://binbaz.org.sa/fatwas/10813/%D8%A7%D9%84%D8%B4%D8%B1%D9%88%D8%B7-%D8%A7%D9%84%D9%88%D8%A7%D8%AC%D8%A8-%D8%AA%D9%88%D9%81%D8%B1%D9%87%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D9%8A%D9%86))
 
 حذّر النبي ﷺ فاطمة بنت قيس من أبي جهم الذي كان يضرب النساء:
 
-> *"أما أبو جهم، فلا تفارق عصاه عن عاتقه."*
+> *"أما أبو جهم، فلا يضع عصاه عن عاتقه."*
 >
 > — صحيح مسلم (1480). المصدر: IslamQA، ["Qualities to Look for in a Husband in Islam"](https://islamqa.info/en/answers/5202)
 
 ولا يصلح أن يضغط الرجل على المرأة للزواج، أو أن يجبرها الولي:
 
-> "Neither the father, or anyone other than the father, may force a woman who is under his guardianship to marry a man that she does not wish to marry. In fact her permission must be sought first… If a lady is married without her permission, then the marriage will not be correct."
+> "ليس للأب ولا لغير الأب أن يجبر امرأة تحت ولايته على الزواج برجل لا تريده. بل يجب أن تُستأذن أولاً… فإن زُوّجت بغير إذنها فالزواج غير صحيح."
 >
 > — الشيخ عبد العزيز بن باز، AbdurRahman.org، ["Questions Concerning Everyday Issues: Issue 4"](https://abdurrahman.org/2015/02/18/daily-issues-4/)
 
@@ -261,49 +257,49 @@
 
 ### رضاها
 
-> "A previously married woman (without a husband) must not be married until she is consulted, and a virgin is not married until her permission is sought." They said: O Messenger of Allah, how is her permission sought? So he said: *"By her being silent."*
+> *"لا تُنكح الأيم حتى تُستأمر، ولا تُنكح البكر حتى تُستأذن."* قالوا: يا رسول الله، وكيف إذنها؟ قال: *"أن تسكت."*
 >
 > — صحيح مسلم (1421). المصدر: Sunnah.com، [مسلم 1421](https://hadithunlocked.com/muslim:1421)
 
 ### وليّها
 
-> "It is not permissible for the woman to marry herself off or others whether she is a virgin or previously married… if the woman was in such description, from deficiency of intellect and religion, then she is in need of a guiding guardian who knows the appropriate/capable and knows the interests of marriage."
+> "لا يجوز للمرأة أن تزوّج نفسها أو غيرها سواء كانت بكراً أو ثيّباً… إذا كانت المرأة على هذه الصفة، من نقص العقل والدين، فهي بحاجة إلى وليّ مرشد يعرف الكفء ويعرف مصالح الزواج."
 >
 > — الشيخ محمد بن صالح العثيمين، AbdurRahman.org، ["Can a Woman get Married without a Wali (Guardian)?"](https://abdurrahman.org/2015/04/17/can-a-woman-get-married-without-a-wali-guardian-imam-ibn-uthaymeen/)
 
 ### مهرها
 
-> **قال الله تعالى:** *"وآتوا النساء صدقاتهنّ نحلةً، فإن طبن لكم عن شيء منه نفساً فكلوه هنيئاً مرئياً."* (القرآن 4:4)
+> **قال الله تعالى:** *"وآتوا النساء صدقاتهنّ نحلةً، فإن طبن لكم عن شيء منه نفساً فكلوه هنيئاً مرئياً."* (القرآن، سورة النساء 4:4)
 
 قال ابن كثير — رحمه الله:
 
-> "The man must definitely pay the dowry to the woman, and he should not resent it."
+> "يجب على الرجل أداء المهر للمرأة، ولا ينبغي له أن يكرهه."
 >
 > — *تفسير ابن كثير*، نُقل في IslamQA [2378](https://islamqa.info/en/answers/2378)
 
 قال الشيخ ابن باز — رحمه الله:
 
-> "What is prescribed in the Sharee’ah is that the mahr should be a small amount and that people should not compete with each other in this regard… And it is not permissible for the awliyaa (guardians of the brides-to-be) to demand and stipulate gifts for themselves, since they have no right at all in this matter. Rather the right belongs to the woman."
+> "المشروع في الشريعة أن يكون المهر يسيراً وألا يتنافس الناس في ذلك… ولا يجوز للأولياء أن يطالبوا ويشترطوا هدايا لأنفسهم، إذ ليس لهم حق في هذا الأمر. بل الحق للمرأة."
 >
 > — AbdurRahman.org، ["Mahr (Dowry) should be a small amount"](https://abdurrahman.org/2009/12/29/mahr-dowry-should-be-a-small-amount-and-that-people-should-not-compete/)
 
 ### حقها في النظر والمعرفة
 
-> "It is permissible for the woman to look at the man who comes to propose marriage, and for him to look at her. This should be in the presence of her mahram, and it is not permitted to look more than is necessary, or for him to see her alone, or for her to go out with him on his own, or to meet repeatedly for no reason."
+> "يجوز للمرأة أن تنظر إلى الرجل الذي جاء يخطبها، وله أن ينظر إليها. ويكون ذلك بحضور محرمها، ولا يجوز النظر أكثر مما يلزم، ولا أن يراها وحدها، ولا أن تخرج معه وحدها، ولا أن يتكرر اللقاء بلا سبب."
 >
 > — IslamQA، ["Qualities to Look for in a Husband in Islam"](https://islamqa.info/en/answers/5202)
 
 ### عدم منع المرأة المطلقة من الزواج
 
-> **قال الله تعالى:** *"ولا تعظلوا النساء لينكحن أزواجهنّ إذا تراضوا بينهم بالمعروف."* (القرآن 2:232)
+> **قال الله تعالى:** *"ولا تعضلوهنّ أن ينكحن أزواجهنّ إذا تراضوا بينهم بالمعروف."* (القرآن، سورة البقرة 2:232)
 
 ## الخاتمة
 
-صفات الزوج الصالح التي تريدها المرأة المسلمة ليست قائمة ثقافة أو عرق أو مال. إنها الصفات التي جعلها الله ورسوله أساس الزواج: التدين وحسن الخلق والقدرة والرغبة في الإنفاق والعلم والقيادة والرفق والحماية واحترام حقوقها. إذا وجدت هذه الأمور، قُبن الزواج على الرحمة والمودة التي وصفهما الله:
+صفات الزوج الصالح التي تريدها المرأة المسلمة ليست قائمة ثقافة أو عرق أو مال. إنها الصفات التي جعلها الله ورسوله أساس الزواج: التدين وحسن الخلق والقدرة والرغبة في الإنفاق والعلم والقيادة والرفق والحماية واحترام حقوقها. إذا وجدت هذه الأمور، بُني الزواج على الرحمة والسكنية التي وصفها الله:
 
-> **قال الله تعالى:** *"ومن آياته أن خلق لكم من أنفسكم أزواجاً لتسكنوا إليها وجعل بينكم مودة ورحمة، إن في ذلك لآيات لقوم يتفكرون."* (القرآن 30:21)
+> **قال الله تعالى:** *"ومن آياته أن خلق لكم من أنفسكم أزواجاً لتسكنوا إليها وجعل بينكم مودة ورحمة، إن في ذلك لآيات لقوم يتفكرون."* (القرآن، سورة الروم 30:21)
 
-وفّق الله كل مرأة مسلمة إلى زوج صالح، وكل رجل ليكون الزوج الصالح الذي تطلبه.
+وفّق الله كل امرأة مسلمة إلى زوج صالح، وكل رجل ليكون الزوج الصالح الذي تطلبه.
 
 ---
 
@@ -311,11 +307,11 @@
 
 ### النصوص القرآنية الأساسية
 
-- **القرآن 4:19** — *"وعاشروهنّ بالمعروف..."* — [تفسير ابن كثير 4:19 عبر Alim.org](https://www.alim.org/quran/tafsir/ibn-kathir/surah/4/19/)
-- **القرآن 4:34** — *"الرجال قوّامون على النساء..."* — [BinBaz.org.sa](https://binbaz.org.sa/fatwas/14079/%D8%AA%D9%88%D8%B6%D9%8A%D8%AD-%D8%AD%D9%88%D9%84-%D9%82%D9%88%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%B1%D8%AC%D9%84-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%B1%D8%A3%D8%A9)
-- **القرآن 30:21** — *"ومن آياته أن خلق لكم من أنفسكم أزواجاً..."* — [quran-tafsir.net، تفسير السعدي](https://quran-tafsir.net/saady/sura30-aya21.html)
-- **القرآن 2:228** — *"ولهنّ مثل الذي عليهنّ بالمعروف..."* — [quran-tafsir.net، تفسير السعدي](https://quran-tafsir.net/saady/sura2-aya228.html)
-- **القرآن 4:4** — *"وآتوا النساء صدقاتهنّ..."* — [quran-tafsir.net، تفسير السعدي](https://quran-tafsir.net/saady/sura4-aya4.html)
+- **القرآن، سورة النساء 4:19** — *"وعاشروهنّ بالمعروف..."* — [تفسير ابن كثير 4:19 عبر Alim.org](https://www.alim.org/quran/tafsir/ibn-kathir/surah/4/19/)
+- **القرآن، سورة النساء 4:34** — *"الرجال قوّامون على النساء..."* — [BinBaz.org.sa](https://binbaz.org.sa/fatwas/14079/%D8%AA%D9%88%D8%B6%D9%8A%D8%AD-%D8%AD%D9%88%D9%84-%D9%82%D9%88%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%B1%D8%AC%D9%84-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%B1%D8%A3%D8%A9)
+- **القرآن، سورة الروم 30:21** — *"ومن آياته أن خلق لكم من أنفسكم أزواجاً..."* — [quran-tafsir.net، تفسير السعدي](https://quran-tafsir.net/saady/sura30-aya21.html)
+- **القرآن، سورة البقرة 2:228** — *"ولهنّ مثل الذي عليهنّ بالمعروف..."* — [quran-tafsir.net، تفسير السعدي](https://quran-tafsir.net/saady/sura2-aya228.html)
+- **القرآن، سورة النساء 4:4** — *"وآتوا النساء صدقاتهنّ..."* — [quran-tafsir.net، تفسير السعدي](https://quran-tafsir.net/saady/sura4-aya4.html)
 
 ### كتب الحديث
 
@@ -323,11 +319,11 @@
 - **البخاري 5090؛ مسلم 1466** — *"تُنكح المرأة لأربع..."* — [IslamWeb 163819](https://islamweb.net/en/article/163819)
 - **الترمذي 3895؛ ابن ماجه 1977** — *"خيركم خيركم لأهله..."* — [IslamQA 323262](https://islamqa.info/en/answers/323262)
 - **البخاري 5185، 5186؛ مسلم 1468** — *"استوصوا بالنساء خيراً..."* — [Sunnah.com](https://hadithunlocked.com/bukhari:5185)
-- **مسلم 1468b** — *"لا يحقرنّ مؤمنٌ مؤمنةً..."* — [Sunnah.com](https://hadithunlocked.com/muslim:1468b)
-- **الترمذي 1087؛ النسائي 3235؛ ابن ماجه 1865** — *"انظروا إليها..."* — [IslamQA 88130](https://islamqa.info/en/answers/88130)
+- **مسلم 1468b** — *"لا يُكره مؤمنٌ مؤمنةً..."* — [Sunnah.com](https://hadithunlocked.com/muslim:1468b)
+- **الترمذي 1087؛ النسائي 3235؛ ابن ماجه 1865** — *"انظر إليها..."* — [IslamQA 88130](https://islamqa.info/en/answers/88130)
 - **البخاري 5363** — كان النبي ﷺ يخدم أهله — [Sunnah.com](https://hadithunlocked.com/bukhari:5363)
 - **البخاري 5364، 5359، 5370** — هند بنت عتبة والنفقة — [Sunnah.com](https://hadithunlocked.com/bukhari:5364)
-- **أبو داود 2142** — *"أطعموهنّ إذا طعمتم..."* — صحّحه الألباني — [IslamQA 323262](https://islamqa.info/en/answers/323262)
+- **أبو داود 2142** — *"أطعموها إذا طعمتم..."* — صحّحه الألباني — [IslamQA 323262](https://islamqa.info/en/answers/323262)
 - **مسلم 1480** — فاطمة بنت قيس والخطباء الثلاثة — [IslamQA 5202](https://islamqa.info/en/answers/5202)
 - **البخاري 7138؛ مسلم 1829** — *"كلّكم راعٍ..."* — [Sunnah.com](https://hadithunlocked.com/bukhari:7138)
 - **مسلم 1421** — رضا البكر والثيب — [Sunnah.com](https://hadithunlocked.com/muslim:1421)
@@ -335,15 +331,15 @@
 
 ### المصادر العلمية
 
-- **الشيخ عبد العزيز بن باز** — ["صفات الزوج الصالح"](https://binbaz.org.sa/fatwas/11199/%D8%B5%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D8%B2%D9%88%D8%AC-%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD)； ["وجوب رفض الزواج بمن لا دين له ولا خلق"](https://binbaz.org.sa/fatwas/15427/%D9%88%D8%AC%D9%88%D8%A8-%D8%B1%D9%81%D8%B6-%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%AC-%D8%A8%D9%85%D9%86-%D9%84%D8%A7-%D8%AF%D9%8A%D9%86-%D9%84%D9%87-%D9%88%D9%84%D8%A7-%D8%AE%D9%84%D9%82)； ["الشروط الواجب توفرها في الزوجين"](https://binbaz.org.sa/fatwas/10813/%D8%A7%D9%84%D8%B4%D8%B1%D9%88%D8%B7-%D8%A7%D9%84%D9%88%D8%A7%D8%AC%D8%A8-%D8%AA%D9%88%D9%81%D8%B1%D9%87%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D9%8A%D9%86)； ["حقوق كل من الزوجين على الآخر"](https://binbaz.org.sa/fatwas/15561/%D8%AD%D9%82%D9%88%D9%82-%D9%83%D9%84-%D9%85%D9%86-%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D9%8A%D9%86-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A2%D8%AE%D8%B1)； ["توضيح حول قوامة الرجل على المرأة"](https://binbaz.org.sa/fatwas/14079/%D8%AA%D9%88%D8%B6%D9%8A%D8%AD-%D8%AD%D9%88%D9%84-%D9%82%D9%88%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%B1%D8%AC%D9%84-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%B1%D8%A3%D8%A9)
-- **الشيخ عبد العزيز بن باز** (مترجم في AbdurRahman.org) — ["Marriage, Casts and Compatibility"](https://abdurrahman.org/2014/01/29/marriagecastscompatibility/)； ["Questions Concerning Everyday Issues: Issue 4"](https://abdurrahman.org/2015/02/18/daily-issues-4/)； ["Mahr (Dowry) should be a small amount"](https://abdurrahman.org/2009/12/29/mahr-dowry-should-be-a-small-amount-and-that-people-should-not-compete/)
-- **الشيخ محمد بن صالح العثيمين** — *كتاب الزواج*، نُقل في [IslamWeb 163819](https://islamweb.net/en/article/163819)； ["Can a Woman get Married without a Wali (Guardian)?"](https://abdurrahman.org/2015/04/17/can-a-woman-get-married-without-a-wali-guardian-imam-ibn-uthaymeen/)
+- **الشيخ عبد العزيز بن باز** — ["صفات الزوج الصالح"](https://binbaz.org.sa/fatwas/11199/%D8%B5%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D8%B2%D9%88%D8%AC-%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD)؛ ["وجوب رفض الزواج بمن لا دين له ولا خلق"](https://binbaz.org.sa/fatwas/15427/%D9%88%D8%AC%D9%88%D8%A8-%D8%B1%D9%81%D8%B6-%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%AC-%D8%A8%D9%85%D9%86-%D9%84%D8%A7-%D8%AF%D9%8A%D9%86-%D9%84%D9%87-%D9%88%D9%84%D8%A7-%D8%AE%D9%84%D9%82)؛ ["الشروط الواجب توفرها في الزوجين"](https://binbaz.org.sa/fatwas/10813/%D8%A7%D9%84%D8%B4%D8%B1%D9%88%D8%B7-%D8%A7%D9%84%D9%88%D8%A7%D8%AC%D8%A8-%D8%AA%D9%88%D9%81%D8%B1%D9%87%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D9%8A%D9%86)؛ ["حقوق كل من الزوجين على الآخر"](https://binbaz.org.sa/fatwas/15561/%D8%AD%D9%82%D9%88%D9%82-%D9%83%D9%84-%D9%85%D9%86-%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D9%8A%D9%86-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A2%D8%AE%D8%B1)؛ ["توضيح حول قوامة الرجل على المرأة"](https://binbaz.org.sa/fatwas/14079/%D8%AA%D9%88%D8%B6%D9%8A%D8%AD-%D8%AD%D9%88%D9%84-%D9%82%D9%88%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%B1%D8%AC%D9%84-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%B1%D8%A3%D8%A9)
+- **الشيخ عبد العزيز بن باز** (مترجم في AbdurRahman.org) — ["Marriage, Casts and Compatibility"](https://abdurrahman.org/2014/01/29/marriagecastscompatibility/)؛ ["Questions Concerning Everyday Issues: Issue 4"](https://abdurrahman.org/2015/02/18/daily-issues-4/)؛ ["Mahr (Dowry) should be a small amount"](https://abdurrahman.org/2009/12/29/mahr-dowry-should-be-a-small-amount-and-that-people-should-not-compete/)
+- **الشيخ محمد بن صالح العثيمين** — *كتاب الزواج*، نُقل في [IslamWeb 163819](https://islamweb.net/en/article/163819)؛ ["Can a Woman get Married without a Wali (Guardian)?"](https://abdurrahman.org/2015/04/17/can-a-woman-get-married-without-a-wali-guardian-imam-ibn-uthaymeen/)
 - **الشيخ صالح الفوزان** — ["A Message to the Woman"](https://abdurrahman.org/2012/02/12/a-message-to-the-woman-lecture-by-shaykh-salih-al-fawzan-must-see/)
 - **ابن القيم الجوزية** — *زاد المعاد* 5/144، نُقل في [IslamQA 84306](https://islamqa.info/en/answers/84306)
 - **ابن كثير** — *تفسير ابن كثير*، نُقل في [Alim.org 4:19](https://www.alim.org/quran/tafsir/ibn-kathir/surah/4/19/) و [IslamQA 126316](https://islamqa.info/en/answers/126316)
 - **شيخ الإسلام ابن تيمية** — *مجموع الفتاوى* و*الفتاوى الكبرى* 3/90، نُقل في [IslamQA 143120](https://islamqa.info/en/answers/143120)
-- **IslamQA — الشيخ محمد صالح المنجد** — ["Qualities to Look for in a Husband in Islam"](https://islamqa.info/en/answers/5202)； ["Gifting Your Wife in Islam"](https://islamqa.info/en/answers/323262)； ["The husband’s responsibility to educate his wife"](https://islamqa.info/en/answers/13802)； ["Method of Marriage Proposal in Islam"](https://islamqa.info/en/answers/88130)； ["Mahr Is the Wife’s Right"](https://islamqa.info/en/answers/2378)； ["Should he marry someone who is above him in terms of social status?"](https://islamqa.info/en/answers/84306)； ["Spending On a Wife Who Works"](https://islamqa.info/en/answers/126316)； ["If she stipulated that he should not take another wife, does he have to adhere to that?"](https://islamqa.info/en/answers/143120)
-- **IslamWeb** — ["A Woman Is Married for Four Reasons"](https://islamweb.net/en/article/163819)； ["Criteria of the successful marriage"](https://islamweb.net/en/fatwa/90797/criteria-of-the-successful-marriage)
+- **IslamQA — الشيخ محمد صالح المنجد** — ["Qualities to Look for in a Husband in Islam"](https://islamqa.info/en/answers/5202)؛ ["Gifting Your Wife in Islam"](https://islamqa.info/en/answers/323262)؛ ["The husband's responsibility to educate his wife"](https://islamqa.info/en/answers/13802)؛ ["Method of Marriage Proposal in Islam"](https://islamqa.info/en/answers/88130)؛ ["Mahr Is the Wife's Right"](https://islamqa.info/en/answers/2378)؛ ["Should he marry someone who is above him in terms of social status?"](https://islamqa.info/en/answers/84306)؛ ["Spending On a Wife Who Works"](https://islamqa.info/en/answers/126316)؛ ["If she stipulated that he should not take another wife, does he have to adhere to that?"](https://islamqa.info/en/answers/143120)
+- **IslamWeb** — ["A Woman Is Married for Four Reasons"](https://islamweb.net/en/article/163819)؛ ["Criteria of the successful marriage"](https://islamweb.net/en/fatwa/90797/criteria-of-the-successful-marriage)
 - **FatwaIslam** — ["The Ruling on Giving a Daughter in Marriage to One Who Does Not Pray"](http://www.fatwaislam.com/fis/index.cfm?ID=64&scn=fd)
 
 ---

@@ -512,7 +512,7 @@
 24. **sunnah.com — صحيح مسلم 465أ:** (حديث معاذ)  
     - https://hadithunlocked.com/muslim:465a
 
-25. **sunnah.com — صحيح البخاري 1198:** (حديث ابن عباس حين صلى مع الن Prophet بليل)  
+25. **sunnah.com — صحيح البخاري 1198:** (حديث ابن عباس حين صلى مع النبي ﷺ بليل)
     - https://hadithunlocked.com/bukhari:1198
 
 26. **sunnah.com — صحيح البخاري 698:** (حديث ابن عباس — 13 ركعة)  

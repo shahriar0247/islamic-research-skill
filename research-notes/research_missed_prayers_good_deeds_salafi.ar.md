@@ -10,11 +10,7 @@
 
 ## 1. الحديث عن كون الصلاة أول عمل يُحاسَب عليه يوم القيامة
 
-### نص الحديث (بالإنجليزية):
-
-"The first of his deeds for which a person will be brought to account on the Day of Resurrection will be his prayer. If it is good, then he will have succeeded and prospered, but if it is lacking, then he will have lost and failed. If anything is lacking from his obligatory prayer, the Lord, may He be glorified and exalted, will say: Look and see, does My slave have any voluntary prayers, which could make up for what is lacking from his obligatory prayer? Then all of his deeds will be dealt with in a similar manner."
-
-### بالعربية:
+### نص الحديث:
 
 > **"أول ما يحاسب به العبد يوم القيامة صلاته، فإن صلحت فقد أفلح ونجح، وإن فسدت فقد خاب وخسر. فإن نقص من فريضته شيء، قال الله عز وجل: انظروا هل لعبدي من تطوع فتكملوا بها فريضته؟ ثم سائر أعماله على ذلك"**
 
@@ -25,7 +21,7 @@
 
 ### رواية إضافية (الطبراني):
 
-"The first matter that the slave will be brought to account for on the Day of Judgment is the prayer. If it is sound, then the rest of his deeds will be sound. And if it is bad, then the rest of his deeds will be bad."
+> **"أول ما يُحاسَب به العبد يوم القيامة الصلاة، فإن صلحت صلح سائر عمله، وإن فسدت فسد سائر عمله"**
 
 - **المصدر:** رواه الطبراني
 - **الدرجة عند الألباني:** صحيح في "صحيح الجامع"، المجلد 1، ص 503
@@ -36,11 +32,7 @@
 
 ## 2. الحديث عن العهد الذي يفرق بين الإنسان والشرك والكفر
 
-### نص الحديث (بالإنجليزية):
-
-"Between a man and shirk and disbelief there stands his giving up prayer."
-
-### بالعربية:
+### نص الحديث:
 
 > **"بين الرجل وبين الشرك والكفر ترك الصلاة"**
 
@@ -50,10 +42,6 @@
 - **الدرجة:** صحيح (متفق عليه — في صحيح مسلم)
 
 ### حديث إضافي (البراء بن عازب):
-
-"The covenant that distinguishes between us and them is the prayer, and whoever neglects it has disbelieved."
-
-### بالعربية:
 
 > **"العهد الذي بيننا وبينهم الصلاة، فمن تركها فقد كفر"**
 
@@ -75,14 +63,14 @@
 
 **قال الإمام أحمد** (ت 241هـ):
 
-> "قال الإمام أحمد — رحمه الله —: من لا يصلي تكاسلًا فهو كافر. وهذا هو الراجح، وهو ما تدل عليه أدلة كتاب الله وسنة رسوله، وأقوال السلف والفهم الصحيح."
+> "من لا يصلي تكاسلًا فهو كافر. وهذا هو الراجح، وهو ما تدل عليه أدلة كتاب الله وسنة رسوله، وأقوال السلف والفهم الصحيح."
 
 - **المصدر:** "الشرح الممتع على زاد المستنقع" 2/26
 - **رابط المصدر:** https://islamqa.info/amp/en/answers/5208
 
 **قال شيخ الإسلام ابن تيمية** (ت 728هـ):
 
-وفقًا لموقع إسلام كويست: "كان هذا أيضًا رأي شيخ الإسلام ابن تيمية — رحمه الله — مع أنه كفّر أيضًا من ترك بعض الصلوات ودعاه الحاكم للصلاة فلم يُصلِّ."
+وفقًا لموقع الإسلام سؤال وجواب: "كان هذا أيضًا رأي شيخ الإسلام ابن تيمية — رحمه الله — مع أنه كفّر أيضًا من ترك بعض الصلوات ودعاه الحاكم للصلاة فلم يُصلِّ."
 
 - **رابط المصدر:** https://islamqa.info/amp/en/answers/52923
 
@@ -104,7 +92,7 @@
 
 **قال الشيخ ابن باز** (ت 1420هـ):
 
-وفقًا لإسلام كويست: "سبق أن ناقشنا هذا الحكم في أكثر من إجابة على الموقع، مستشهدين بالأدلة عليه، ومبينين أن نختار الرأي القائل بكفره إذا ترك الصلاة كلها (أي: لا يُصلِّي أبدًا)."
+وفقًا للإسلام سؤال وجواب: "سبق أن ناقشنا هذا الحكم في أكثر من إجابة على الموقع، مستشهدين بالأدلة عليه، ومبينين أن نختار الرأي القائل بكفره إذا ترك الصلاة كلها (أي: لا يُصلِّي أبدًا)."
 
 - **رابط المصدر:** https://islamqa.info/amp/en/answers/285977
 
@@ -112,7 +100,7 @@
 
 كان الشيخ الألباني يرى أن من يترك الصلاة كسلًا (دون جحد وجوبها) ليس بكافر، بل مسلمًا عاصيًا متمردًا:
 
-> "This (man) is one who is rebellious and disobedient (to Allaah), and not a disbeliever. The daleel is that 'Whoever says laa ilaaha illAllaah (sincerely) will enter Parad…'"
+> "هذا رجل عاصٍ متمرد على الله، وليس بكافر. والدليل أن من قال 'لا إله إلا الله' مخلصًا دخل الجنة…"
 
 - **المصدر:** موقع alalbani.info
 - **رابط المصدر:** https://alalbani.info/alalbany_eng_043.php
@@ -142,55 +130,31 @@
 
 ### سورة المائدة 5:5:
 
-**بالعربية:**
+> **"وَمَن يَكْفُرْ بِالْإِيمَانِ فَقَدْ حَبِطَ عَمَلُهُ"** (القرآن، سورة المائدة 5:5)
 
-> **"وَمَن يَكْفُرْ بِالْإِيمَانِ فَقَدْ حَبِطَ عَمَلُهُ"**
-
-**الترجمة:**
-
-"…and whoever rejects faith, his work has become worthless, and he, in the Hereafter, will be among the losers"
-
-**تفسير من إسلام كويست:**
+**تفسير من الإسلام سؤال وجواب:**
 
 > "وَمَن يَكْفُرْ بِالْإِيمَانِ فَقَدْ حَبِطَ عَمَلُهُ" [المائدة 5:5]
 
-"الظاهر من هذا القول أن العبادة تقبل من الكافر كما تقبل من المؤمن، وهذا باطل قطعًا، لأن عبادة الكافر غير مقبولة وغير صحيحة منه، ولا يُجازَى عليها في الآخرة…"
+> "الظاهر من هذا القول أن العبادة تقبل من الكافر كما تقبل من المؤمن، وهذا باطل قطعًا، لأن عبادة الكافر غير مقبولة وغير صحيحة منه، ولا يُجازَى عليها في الآخرة…"
 
 - **رابط المصدر:** https://islamqa.info/en/answers/310759/response-to-those-who-say-that-worship-is-accepted-from-everyone-no-matter-what-his-belief
 
 ### سورة النور 24:39:
 
-**بالعربية:**
-
-> **"وَالَّذِينَ كَفَرُوا أَعْمَالُهُمْ كَسَرَابٍ بِقِيعَةٍ يَحْسَبُهُ الظَّمْآنُ مَاءً حَتَّىٰ إِذَا جَاءَهُ لَمْ يَجِدْهُ شَيْئًا وَوَجَدَ اللَّهَ عِندَهُ فَوَفَّاهُ حِسَابَهُ ۗ وَاللَّهُ سَرِيعُ الْحِسَابِ"**
-
-**الترجمة:**
-
-"But those who disbelieved - their deeds are like a mirage in a lowland which a thirsty one thinks is water until, when he comes to it, he finds it is nothing but finds Allah before Him, and He will pay him in full his due; and Allah is swift in account"
+> **"وَالَّذِينَ كَفَرُوا أَعْمَالُهُمْ كَسَرَابٍ بِقِيعَةٍ يَحْسَبُهُ الظَّمْآنُ مَاءً حَتَّىٰ إِذَا جَاءَهُ لَمْ يَجِدْهُ شَيْئًا وَوَجَدَ اللَّهَ عِندَهُ فَوَفَّاهُ حِسَابَهُ ۗ وَاللَّهُ سَرِيعُ الْحِسَابِ"** (القرآن، سورة النور 24:39)
 
 - **رابط المصدر:** https://islamqa.info/en/answers/310759/response-to-those-who-say-that-worship-is-accepted-from-everyone-no-matter-what-his-belief
 
 ### سورة محمد 47:1-2:
 
-**بالعربية:**
-
-> **"الَّذِينَ كَفَرُوا وَصَدُّوا عَن سَبِيلِ اللَّهِ أَضَلَّ أَعْمَالَهُمْ"**
-
-**الترجمة:**
-
-"Those who disbelieve and hinder from the path of Allah - He will render their deeds vain"
+> **"الَّذِينَ كَفَرُوا وَصَدُّوا عَن سَبِيلِ اللَّهِ أَضَلَّ أَعْمَالَهُمْ"** (القرآن، سورة محمد 47:1)
 
 - **رابط المصدر:** https://islamqa.info/en/answers/310759/response-to-those-who-say-that-worship-is-accepted-from-everyone-no-matter-what-his-belief
 
 ### سورة الزمر 39:65:
 
-**بالعربية:**
-
-> **"وَلَئِنْ أَشْرَكْتَ لَيَحْبِطَنَّ عَمَلُكَ وَلَتَكُونَنَّ مِنَ الْخَاسِرِينَ"**
-
-**الترجمة:**
-
-"And it was already revealed to you and to those before you that if you should associate [anything] with Allah, your work would surely become worthless, and you would surely be among the losers"
+> **"وَلَئِنْ أَشْرَكْتَ لَيَحْبِطَنَّ عَمَلُكَ وَلَتَكُونَنَّ مِنَ الْخَاسِرِينَ"** (القرآن، سورة الزمر 39:65)
 
 - **رابط المصدر:** https://islamqa.info/en/answers/310759/response-to-those-who-say-that-worship-is-accepted-from-everyone-no-matter-what-his-belief
 
@@ -202,11 +166,11 @@
 
 ### التمييز الأساسي: الترك الكامل مقابل التفريط العرضي
 
-**قال موقع إسلام كويست:**
+**قال موقع الإسلام سؤال وجواب:**
 
-> "The one who neglects prayer is one who does not pray at all, and he is a kaafir regardless of whether that is due to laziness or denying that the prayer is obligatory, according to the more correct of the two scholarly opinions."
+> "تارك الصلاة هو من لا يصلي أصلًا، وهو كافر سواء كان ذلك بسبب الكسل أو بسبب إنكار وجوب الصلاة، على الراجح من قولي العلماء."
 
-> "If a person is not omitting all prayers, rather he prays sometimes and does not pray sometimes, then those who say that the one who does not pray is a kaafir differed in this case."
+> "أما إذا كان الشخص لا يترك جميع الصلوات، بل يصلي أحيانًا ولا يصلي أحيانًا، فقد اختلف القائلون بكفر تارك الصلاة في هذه الحال."
 
 - **رابط المصدر:** https://islamqa.info/amp/en/answers/83165
 
@@ -221,7 +185,7 @@
 
 ### موقع إسلام ويب في التمييز:
 
-> "But the person who sometimes prays and some other times doesn't do so is not an unbeliever. He is, however, in a great danger."
+> "أما الشخص الذي يصلي أحيانًا ولا يصلي أحيانًا أخرى فليس بكافر. ولكنه في خطر عظيم."
 
 - **رابط المصدر:** https://www.islamweb.net/amp/en/fatwa/81555
 
@@ -235,9 +199,9 @@
 
 ### هل يجب قضاء الصلوات الفائتة؟
 
-**قال موقع إسلام كويست:**
+**قال موقع الإسلام سؤال وجواب:**
 
-> "If you missed prayers for a reason, there is no sin on you but you have to make it up. If you missed prayers with no excuse, you have committed a major sin and you have to repent to Allah. It is not valid for you to make it up according to the more correct of the two scholarly opinions."
+> "إذا فاتتك الصلوات لعذر، فلا إثم عليك ولكن يجب عليك قضاؤها. أما إذا فاتتك الصلوات بلا عذر، فقد ارتكبت كبيرة من الذنوب وعليك أن تتوب إلى الله. ولا يصح منك قضاؤها على الراجح من قولي العلماء."
 
 - **رابط المصدر:** https://islamqa.info/amp/en/answers/111783
 
@@ -247,21 +211,17 @@
 
 > **"التوبة تجب ما قبلها، وليس عليه أن يعيد ما ترك، بل عليه التوبة إلى الله، والصدق في ذلك، بالندم على ما مضى من عمله، والعزم ألا يعود، ثم الاستكثار من العمل الصالح…"**
 
-الترجمة: "التوبة تمحو ما قبلها، وليس عليه أن يعيد ما فاته؛ بل عليه التوبة إلى الله، والصدق في ذلك بالندم على ما مضى، والعزم على عدم العودة، ثم الإكثار من العمل الصالح…"
-
 - **رابط المصدر:** https://binbaz.org.sa/fatwas/13597/%D9%83%D9%8A%D9%81-%D9%8A%D8%B9%D9%88%D8%B6-%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%83-%D9%84%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D9%85%D8%A7-%D8%AA%D8%B1%D9%83%D9%87
 
 **فتوى أخرى من ابن باز:**
 
 > **"أما إن ترك الصلاة عمدًا بلا شبهة فإنه لا يقضي؛ لأن تركها عمدًا كفر أكبر، وإن لم يجحد وجوبها في أصح قولي العلماء… وعليه التوبة مما سلف، والاستقامة على فعلها مستقبلاً."**
 
-الترجمة: "أما إذا ترك الصلاة عمدًا بلا عذر، فإنه لا يقضيها؛ لأن تركها عمدًا كفر أكبر، وإن لم يجحد وجوبها في أصح قولي العلماء… وعليه التوبة مما مضى، والاستقامة على أدائها مستقبلًا."
-
 - **رابط المصدر:** https://binbaz.org.sa/fatwas/3906/%D9%87%D9%84-%D9%8A%D8%AC%D8%A8-%D9%82%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D8%B5%D9%84%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%81%D8%A7%D8%A6%D8%AA%D8%A9
 
 ### رأي العثيمين:
 
-وفقًا لإسلام كويست: "وهذا أيضًا رأي عمر بن الخطاب وابنه عبد الله، وسعد بن أبي وقاص، وسلمان، وابن مسعود، والقاسم بن محمد بن أبي بكر، وبديل العقيلي، ومحمد بن سيرين، و مطرف بن عبد الله، وعمر بن عبد العزيز. وكان أيضًا رأي داود الظاهري وابن حزم، وهو الراجح عند شيخ الإسلام ابن تيمية والشوكاني. وعند المعاصرين، يراه ابن باز والألباني والعثيمين وغيرهم راجحًا."
+وفقًا للإسلام سؤال وجواب: "وهذا أيضًا رأي عمر بن الخطاب وابنه عبد الله، وسعد بن أبي وقاص، وسلمان، وابن مسعود، والقاسم بن محمد بن أبي بكر، وبديل العقيلي، ومحمد بن سيرين، ومطرف بن عبد الله، وعمر بن عبد العزيز. وكان أيضًا رأي داود الظاهري وابن حزم، وهو الراجح عند شيخ الإسلام ابن تيمية والشوكاني. وعند المعاصرين، يراه ابن باز والألباني والعثيمين وغيرهم راجحًا."
 
 - **رابط المصدر:** https://islamqa.info/amp/en/answers/111783
 
@@ -290,9 +250,9 @@
 
 **قال ابن القيم** — رحمه الله:
 
-> "The traces of sin may be erased by means of sincere repentance, heartfelt affirmation of the Oneness of Allah (Tawheed), good deeds that erase sin, calamities that expiate sin, the intercession of those who intercede among those who affirm the Oneness of Allah, and finally, if he is punished for whatever sins remain, he will be brought out of Hell by virtue of his Tawheed."
+> "إن آثار الذنب تُمحى بالتوبة الصادقة، وتحقيق توحيد الله في القلب، والأعمال الصالحة التي تمحو الذنب، والمصائب التي تكفر الخطيئة، وشفاعة الشافعين من أهل التوحيد، ثم إن عُوقب على ما بقي من ذنوبه أُخرج من النار بفضل توحيده."
 
-> "Good deeds that erase sin include wudoo', the five daily prayers, and Hajj and 'Umrah."
+> "ومن الأعمال الصالحة التي تمحو الذنب: الوضوء، والصلوات الخمس، والحج والعمرة."
 
 - **رابط المصدر:** https://islamqa.info/en/answers/169682/he-is-asking-about-the-most-effective-good-deeds-in-expiating-sins
 
@@ -300,9 +260,9 @@
 
 **لم يُعثَر** على اقتباس محدد من العثيمين في هذه الجلسة البحثية حول ما إذا كانت أعمال الفاسق تقبل.
 
-### إسلام كويست حول أعمال المسلمين العصاة:
+### الإسلام سؤال وجواب حول أعمال المسلمين العصاة:
 
-> "Allah will accept whatever righteous deeds from one who commits Zina, such as praying, fasting, giving charity etc., and He will also accept his sincere repentance."
+> "إن الله يقبل من الزاني ما يقوم به من الأعمال الصالحة، كالصلاة والصيام والصدقة وغيرها، ويقبل توبته الصادقة."
 
 - **رابط المصدر:** https://islamqa.info/amp/en/answers/1397
 
@@ -314,11 +274,7 @@
 
 ## 8. الحديث عن كون الصلوات الخمس تُكفر ما بينها
 
-### نص الحديث (بالإنجليزية):
-
-"The five daily prayers, from one Jumu'ah to the next and from one Ramadan to the next is expiation for whatever (sins) come in between them, so long as you avoid major sins."
-
-### بالعربية:
+### نص الحديث:
 
 > **"الصلوات الخمس، والجمعة إلى الجمعة، ورمضان إلى رمضان، مكفرات ما بينهن إذا اجتنبت الكبائر"**
 
@@ -329,7 +285,7 @@
 
 ### رواية إضافية:
 
-"The five prayers and Jumu'ah are an expiation from one week to the next, so long as you do not commit major sins."
+> **"الصلوات الخمس والجمعة كفارة من أسبوع إلى أسبوع، ما لم تُرتكب الكبائر"**
 
 - **المصدر:** مسلم، 233
 - **رابط المصدر:** https://islamqa.info/amp/en/answers/3365
@@ -376,3 +332,30 @@
 5. AbdurRahman.org — https://abdurrahman.org
 6. Troid.org — https://www.troid.org
 7. FatwaIslam.com — https://www.fatwaislam.com
+8. LearnAboutIslam.co.uk — https://learnaboutislam.co.uk
+9. AbuKhadeejah.com — https://abukhadeejah.com
+
+### العلماء المرجع إليهم:
+1. شيخ الإسلام ابن تيمية (ت 728هـ)
+2. الإمام أحمد بن حنبل (ت 241هـ)
+3. الشيخ محمد ناصر الدين الألباني (ت 1420هـ)
+4. الشيخ عبد العزيز ابن باز (ت 1420هـ)
+5. الشيخ محمد بن صالح العثيمين (ت 1421هـ)
+6. الشيخ صالح الفوزان (حفظه الله)
+7. ابن القيم الجوزية (ت 751هـ)
+8. الإمام أبو حنيفة (ت 150هـ)
+9. الإمام مالك بن أنس (ت 179هـ)
+10. الإمام الشافعي (ت 204هـ)
+
+### الكتب المرجع إليها:
+1. "الشرح الممتع على زاد المستنقع" للعثيمين
+2. "الصارم المسلول" لابن تيمية
+3. "مجموع الفتاوى" لابن تيمية
+4. "صحيح الترمذي" للألباني
+5. "صحيح الجامع" للألباني
+6. "مجموع فتاوى ومقالات سماحة الشيخ ابن باز"
+7. "الملخص الفقهي" للفوزان
+
+---
+
+**تم إتمام البحث باستخدام مصادر سلفية معتمدة فقط كما طُلب.**
