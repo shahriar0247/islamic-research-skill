@@ -494,4 +494,306 @@ Until any of the above is established from a recognised Salafi source, **no firm
 
 ---
 
-*Research compiled on 15 August 2026.*
+## 5. Analysis of His Public Statements, Khutbahs, Speeches, and Associates
+
+This section is a follow-up addition. It examines (a) the actual content of Dr. Yusuf Abdul-Jobbar's publicly available written talks, khutbahs, and articles; (b) the people, scholars, and organisations he appears with; and (c) whether what he says aligns with the manhaj of Ahl al-Sunnah wal-Jama'ah as understood by the Salaf and the Salafi scholars. The same Salafi evaluation framework established in Part 3 of this article is applied. As before, every quote is taken from a non-Salafi source and is evaluated on principle, not as a direct ruling on the man.
+
+### 5.1 His Published Written Talks and Articles (Al Fitrah Academy)
+
+Dr. Yusuf Abdul-Jobbar has authored several short articles published on the Al Fitrah Academy website (alfitrah.com / new.alfitrah.com). These are the most accessible written records of his religious speech. They are evaluated below.
+
+#### 5.1.1 "The Dynamic Youth of Today"
+
+> "A Muslim is required to dedicate all his endeavours to Allah the Almighty in all his actions and words; remembrance and thinking, sleep and waking, worship and daily living, love and hatred, giving and withholding."
+> "A Muslim has only one vision, to seek the pleasure of Allah through which Allah will grant him or her success in the hereafter. We must acknowledge that our actions alone are insufficient to earn the lofty prize of the afterlife but hope that we can attain it through the mercy of Allah, the Almighty."
+> — Dr Yusuf Abdul Jobbar, "The Dynamic Youth of Today", Al Fitrah Academy (not a Salafi source)
+> **Source URL:** https://new.alfitrah.com/the-dynamic-youth-of-today/
+
+**Salafi evaluation:** This statement is correct in its foundation. Seeking the pleasure of Allah, recognising that salvation is by Allah's mercy, and dedicating all actions to Allah alone are foundational Salafi principles. Shaykh al-Islam Ibn Taymiyyah said: "The foundation of the religion is that Allah is to be worshipped alone, and the religion is for Allah alone." (Majmu' al-Fatawa 1/333). The article correctly quotes Sahih al-Bukhari and Sahih Muslim for the hadith of the seven shaded by Allah's shade.
+
+However, the article also contains language that reflects a modernist, interfaith-leaning framing rather than a Salafi one:
+
+> "Muslims are law abiding citizens who care about humanity and have respect and tolerance towards other people and faiths. Islam is a religion for all peoples and races."
+> "Muslims are peaceful people and it's a religion of peace."
+> — Dr Yusuf Abdul Jobbar, "The Dynamic Youth of Today"
+
+**Salafi note:** While justice and good treatment of non-Muslims is part of Islam, the repeated emphasis on "tolerance towards other faiths" and "religion of peace" without qualification reflects the language of modern civic-Islam and interfaith dialogue rather than the methodology of the Salaf, who distinguished between justice (adl) and approval of falsehood. Shaykh Salih al-Fawzan said: "Cooperation with the disbelievers is permissible in matters of worldly benefit with conditions, but not in matters of religion, and not in a way that produces loyalty (muwalah) to them." (Al-Irshad ila Sahih al-I'tiqad). This is not a statement of bid'ah or shirk, but it is a methodological observation about the framing.
+
+#### 5.1.2 "Maintaining the Characteristics of Fitrah"
+
+> "The fitrah is the natural inclination to worship God alone, and it includes compliance with what God and His Messenger explained to be from the characteristics of fitrah."
+> "The religion of Abraham and all of the prophets, peace be upon them all, was one of the true fitrah, in which they worshipped Almighty God alone without intermediaries or an incarnate 'Saviour'."
+> "Whoever turns away from my Sunnah is not of me." (quoting Sahih al-Bukhari and Sahih Muslim)
+> — Al Fitrah Academy (not a Salafi source; article attributed to the site admin, drawing on standard Salafi-compatible material)
+> **Source URL:** https://new.alfitrah.com/maintaining-the-characteristics-of-fi%E1%B9%ADrah/
+
+**Salafi evaluation:** This article is sound in its content. The emphasis on worshipping Allah alone "without intermediaries" is precisely the Salafi position on tawhid al-uluhiyyah. The reference to Abraham as a hanif upon pure monotheism is Qur'anic (3:67, 30:30). The hadith "Whoever turns away from my Sunnah is not of me" is authentically reported. The article quotes al-Suyuti, who is respected by Salafis for his hadith scholarship though criticised for some Ash'ari positions. The content here contains no bid'ah, no shirk, and no innovation. It is consistent with the manhaj of the Salaf on the issue of fitrah and tawhid.
+
+#### 5.1.3 "From the Rights of Tawhid"
+
+> "The point of the discussion and the secret behind it is that the servant does not see his Lord except as One continuously bestowing goodness and he does not see himself except as one who is sinful, excessive or deficient."
+> "From Al-Fawa'id"
+> — Al Fitrah Academy (not a Salafi source)
+> **Source URL:** https://new.alfitrah.com/from-the-rights-of-tawhid/
+
+**Salafi evaluation:** This article is a direct quotation from Ibn al-Qayyim al-Jawziyyah's book *Al-Fawa'id*, explicitly attributed at the end. Ibn al-Qayyim is one of the foremost scholars of the Salafi manhaj, a student of Shaykh al-Islam Ibn Taymiyyah. The content is entirely sound and reflects the Salafi understanding of tawhid, servitude (ubudiyyah), and reliance on Allah alone. Publishing this on Al Fitrah's platform indicates exposure to and respect for Ibn al-Qayyim's works.
+
+#### 5.1.4 "Difference Between the Creator and His Creation"
+
+> "Ibrahim and his believing family, i.e. the Prophets and those who believed in them, knew that there had to be a difference between the Creator and His creation, and between obedience and sin."
+> "The more the slave realises this difference, the more he increases in love and servitude towards Allah, so he turns further away from worshipping, loving and obeying anything except Allah. Those misguided mushrikin, on the other hand, view Allah and His creation as equal."
+> "This third type of fana', which believes that Allah is what one can see (pantheism), is the idea, belief and tawhid of the people of Pharaoh, and of other similar types such as the Qaramitah (Karmathians) and so on."
+> — Al Fitrah Academy (not a Salafi source)
+> **Source URL:** https://new.alfitrah.com/difference-between-the-creator-and-his-creation/
+
+**Salafi evaluation:** This article is a direct quotation from Ibn al-Qayyim (and/or Ibn Taymiyyah's works on Sufism such as *Majmu' al-Fatawa* and *Al-Furqan bayna al-Haqq wa al-Batil*). It explicitly refutes:
+1. **Wahdat al-Wujud** (pantheism / unity of existence) — the belief that Allah is the same as His creation. The article calls this "the fana' of misguided heretics who think that Allah is part of the universe."
+2. The conflation of Creator and creation.
+
+This is a core Salafi position. Shaykh al-Islam Ibn Taymiyyah wrote entire treatises against wahdat al-wujud (e.g., *Al-Furqan bayna al-Haqq wa al-Batil*). The fact that this article appears on a platform Dr. Abdul-Jobbar is associated with, and that it draws directly from Ibn Taymiyyah/Ibn al-Qayyim, indicates that the platform has published material consistent with the Salafi manhaj on this critical issue of aqeedah.
+
+**Important caveat:** The article is attributed to the site admin, not directly to Dr. Abdul-Jobbar himself. It reflects the platform's editorial direction, not necessarily his personal positions. However, as a listed lecturer and contributor to Al Fitrah, his association with a platform that publishes Ibn al-Qayyim's refutations of pantheism is notable.
+
+#### 5.1.5 "Characteristics of the Muslim Businessman"
+
+> "The prophet said: 'The truthful and honest trader is among the prophets, the righteous, and the martyrs.' (Al-Tirmidhi, Hadith hasan)"
+> "Not to swear by Allah. A Muslim businessman must avoid taking oath in the name of Allah even if he is telling the truth."
+> — Al Fitrah Academy (not a Salafi source)
+> **Source URL:** https://new.alfitrah.com/characteristics-of-the-muslim-businessman/
+
+**Salafi evaluation:** This article quotes authentic hadiths from Al-Tirmidhi, Al-Bukhari, and Muslim on the ethics of trade. The content is sound and contains no aqeedah issues. It is a standard fiqh-of-transactions piece.
+
+#### 5.1.6 Summary of His Written Speech Content
+
+| Article | Source | Aqeedah/Manhaj Assessment |
+|---|---|---|
+| The Dynamic Youth of Today | Al Fitrah | Sound foundation (tawhid, pleasure of Allah); modernist interfaith framing on "tolerance/peace" |
+| Maintaining the Characteristics of Fitrah | Al Fitrah | Sound; emphasises tawhid without intermediaries, hanifiyyah of Ibrahim |
+| From the Rights of Tawhid | Al Fitrah (quoting Ibn al-Qayyim, Al-Fawa'id) | Sound; direct quotation from a major Salafi scholar |
+| Difference Between the Creator and His Creation | Al Fitrah (quoting Ibn al-Qayyim/Ibn Taymiyyah) | Sound; refutes wahdat al-wujud (pantheism) — a core Salafi position |
+| Characteristics of the Muslim Businessman | Al Fitrah | Sound; standard fiqh of trade, authentic hadiths |
+
+**No bid'ah, shirk, or innovation was found in his published written content.** The material that can be attributed to him directly (the youth article and the fitrah article) is sound in aqeedah, though the youth article uses modernist interfaith language. The material quoting Ibn al-Qayyim and Ibn Taymiyyah is fully consistent with the Salafi manhaj, though it is attributed to the platform rather than to him personally.
+
+### 5.2 His Khutbahs and Recorded Speeches
+
+Direct video khutbahs by Dr. Yusuf Abdul-Jobbar are not readily available on a personal YouTube channel. The following recorded appearances were identified:
+
+1. **Al-Medinah Mosque, Brighton (4 June 2025)** — A recorded event titled "The Best 10 Days of the Year" alongside Shaikh Hazza Al-Balushi, organised by Ethar Relief. Only an audio recording is publicly available via iMasjid Live; no transcript was located.
+   - **Source URL:** https://imasjidlive.co.uk/recordings/player/almedinah-20250604-Wednesday-191500-3984-uploaded
+
+2. **A-Z of Zakat (Islam Bradford, 31 January)** — A lecture on Zakat. No recording or transcript was located, only the event listing.
+   - **Source URL:** https://islambradford.com/a-z-of-zakat-by-dr-yusuf-abdul-jobbar/
+
+3. **Ramadan Souk 2024 (1Eid)** — A talk titled "Cultivating an Islamic family in Ramadan" alongside Ustadh Jalal ibn Sa'eed. No recording or transcript was located.
+   - **Source URL:** https://1eid.net/event/ramadansouk/
+
+4. **Trojan Horse Play Panel Discussion (Oxford, 25-26 February 2020)** — A panel discussion on Islamophobia, where he "explained to the audience the importance of tolerance and diversity within the Islamic faith" and stated that "Muslims should be proud to be British."
+   - **Source URL:** https://www.mend.org.uk/trojan-horse-play-oxford-panel-discussion-25-26th-february-2020/
+
+5. **FOSIS Conference** — Attended the FOSIS (Federation of Student Islamic Societies) event where he visited the Kiswat Al-Kaaba exhibition stand.
+   - **Source URL:** https://www.kiswat-al-kaaba.co.uk/copy-of-iqbal-bhana-obe-mbe-iqra-1
+
+6. **Facebook videos (facebook.com/dryajt)** — He posts short videos on his Facebook page, including fundraising appeals (e.g., for a masjid in Syria via Global Relief Trust). These are short social-media clips, not full lectures.
+   - **Source URL:** https://www.facebook.com/dryajt/videos/
+
+**NOT FOUND:** A substantial library of full-length khutbahs or aqeedah-focused lectures by Dr. Yusuf Abdul-Jobbar on YouTube, SoundCloud, or any podcast platform. His public religious output appears to consist primarily of:
+- Short articles on Al Fitrah Academy
+- Zakat and Islamic finance talks (his area of professional certification)
+- Youth and family counselling talks
+- Charity fundraising and community events
+- Interfaith/Islamophobia panel discussions (MEND)
+
+This is significant: his public religious output is dominated by **fiqh al-mu'amalat** (transactions, zakat, finance), **youth counselling**, and **community/interfaith work** — not by **aqeedah**, **tawhid**, **manhaj**, or **refutation of bid'ah**. From a Salafi perspective, this is a notable gap. The Salafi scholars emphasise that aqeedah and tawhid are the foundation of the religion and the first priority of da'wah, as the Prophet (sallallahu alayhi wa sallam) called the people of Makkah to tawhid for 13 years before the commands of fiqh. Shaykh Muhammad ibn Abd al-Wahhab said: "The foundation of the religion and its principle is tawhid, and it is worshipping Allah alone with no partner." (Kitab al-Tawhid).
+
+### 5.3 The Scholars, Speakers, and Organisations He Associates With
+
+This is the most significant area of concern from a Salafi perspective. The Prophet (sallallahu alayhi wa sallam) said: "A man is upon the religion of his close friend, so let one of you look at whom he takes as a close friend." (Abu Dawud, Tirmidhi — hasan). Ibn al-Qayyim said: "The most beneficial thing for the servant is to know his Lord, his own soul, and his enemies, and to know the people of truth and the people of falsehood." (Ighathat al-Lahfan).
+
+#### 5.3.1 Al Fitrah Academy — The Speaker List
+
+Al Fitrah Academy, where Dr. Abdul-Jobbar is listed as "Ust. Yusuf Abdul Jobbar" (an honoured lecturer since 2001), publishes a list of its "Honourable Lecturers & Imams, Past and present since 2001." This list is a mixed gathering of speakers from very different manhaj positions:
+
+| Speaker | Manhaj Position (from Salafi perspective) |
+|---|---|
+| Dr. Ahmed Ibn Saifuddin | Unknown / not widely documented in Salafi sources |
+| Shaykh Sajid Umar | Has Salafi-compatible education (Madinah) but associated with Al Fitrah and mixed platforms; not directly endorsed by major Salafi scholars |
+| Shaykh Omar Suleiman | Not Salafi; associated with Yaqeen Institute; criticised by Salafi scholars for softness on Ash'ari/Kalam positions and political activism |
+| Shaykh Salem al-Amry | Generally considered closer to Salafi manhaj; studied at Islamic University of Madinah |
+| Shaykh Khalid Yasin | Controversial convert speaker; not a Salafi scholar; criticised for various statements |
+| Imam Siraj Wahhaj (Wahaj) | Not Salafi; associated with Muslim Brotherhood-linked organisations; criticised by Salafi scholars |
+| Ust. Nouman Ali Khan | Not Salafi; Bayyinah Institute; criticised by Salafi scholars for grammatical/rhetorical approach and some aqeedah positions |
+| Dr Farhat Hashmi | Not Salafi; female Pakistani scholar; associated with Al-Huda; criticised for some positions |
+| Dr. Ust. Haifaa Younis | Not a Salafi scholar; female speaker; associated with mixed platforms |
+| Imam Asim Khan | Not a Salafi scholar; Quranic tafsir speaker |
+| Sh. Bilal Philips | Described as Salafi (Athari); founder of International Open University; studied at Islamic University of Madinah — but himself a figure of debate within Salafi circles |
+| Shaykh Afdal Feroz | Not widely documented in Salafi sources |
+| Abu Usamah At-Thahabi | Imam of Green Lane Masjid, Birmingham; studied at Islamic University of Madinah; generally Salafi-leaning but has been controversial (Undercover Mosque documentary) |
+| Shaykh Bilal Ismael | Not widely documented in Salafi sources |
+| Sh. Haitham Al-Haddad | Not Salafi in the strict sense; associated with Islam21c, British Board of Scholars & Imams; criticised by Salafi scholars for political/Islamist activism and some fiqh positions |
+| Sh. Reda Bedeir | Not widely documented in Salafi sources; studied at Al-Azhar |
+| Sh. Abu Hafs M Kasmi | Not widely documented in Salafi sources |
+| Sh. Yasir Qadhi | Not Salafi (despite Madinah education); associated with East Plano Islamic Center, Islamic Seminary of America; publicly distanced himself from strict Salafi positions; criticised by Salafi scholars |
+| Sh. Yusuf Estes | Convert speaker; not a Salafi scholar; has made various controversial statements |
+| Ustadh Jalal Ibn Sa'eed | Founder of Al Fitrah and 1Eid; described as a "transformational and spiritual coach"; not a Salafi scholar |
+| Imam Yahya Adel Ibrahim | Not widely documented in Salafi sources; associated with mixed platforms |
+| Imam Zainadine Johnson | Not widely documented in Salafi sources |
+| Dr Khalid Khan | Not widely documented in Salafi sources |
+| Shaykh Sulaiman Moola | Not a Salafi scholar; South African speaker associated with mixed platforms |
+| Shaykh Wasim Kempson | Generally Salafi-leaning; studied at Islamic University of Madinah; Imam at Green Lane Masjid; member of BBSI |
+| Ustad Asif Uddin | Not widely documented in Salafi sources |
+| Dr Mustafa Khattab | Translator of the Clear Quran; not a Salafi scholar; associated with Al-Azhar |
+| Ust. Gabriel al Romani | Not widely documented in Salafi sources |
+| Ustadha Aysha Wazwaz | Not widely documented in Salafi sources |
+| Sheikh Mohammad Tarawneh | Not widely documented in Salafi sources |
+| Shaykh Riad Ouarzazi | Not a Salafi scholar; associated with mixed platforms |
+| Ust. Hamza Tzortzis | Not a Salafi scholar; associated with Hamza Tzortzis (Greek convert, debater); associated with iERA and political activism |
+
+**Source URL:** https://new.alfitrah.com/about-us/
+
+**Salafi evaluation:** This is a **broad-tent, mixed-platform** speaker list. It includes a small number of speakers with Salafi-compatible education (Bilal Philips, Abu Usamah, Wasim Kempson, Salem al-Amry) alongside a large number of speakers who are either explicitly not Salafi (Omar Suleiman, Yasir Qadhi, Siraj Wahhaj, Nouman Ali Khan, Haitham al-Haddad) or whose manhaj is unclear. Al Fitrah's own disclaimer states:
+
+> "The speeches and views of some of the speakers, performers, artists, poets and lecturers may not be that of our organisation. Every one is entitled to an opinion which can be open to discussion for the sake of educational purposes while no views are to be imposed on others..."
+> — Al Fitrah Academy disclaimer
+> **Source URL:** https://new.alfitrah.com/about-us/
+
+This disclaimer itself reflects a **non-Salafi methodology**: the Salafi scholars hold that the truth is one and that differences in aqeedah are not a matter of "open discussion" and "everyone is entitled to an opinion," but of truth versus falsehood. Shaykh Ibn Baz said: "The truth is one, not multiple. The differences among the scholars in the branches (furu') are acceptable, but in the fundamentals (usul) of the religion, the truth is one." (Majmu' Fatawa Ibn Baz 4/364).
+
+**This is the most significant methodological concern:** Dr. Abdul-Jobbar is a listed, honoured lecturer at a platform that deliberately gathers speakers from across the sectarian spectrum (Salafi, Ash'ari, Maturidi, Sufi-leaning, modernist, Islamist) under a single banner without distinguishing between them on the basis of aqeedah. This is the methodology of **jam'i (gather-all)** platforms, not the methodology of **tamyiz (distinction)** that the Salafi scholars call to. Shaykh Rabee' al-Madkhali said: "The Salafi methodology is built upon clarifying the truth and refuting falsehood, and distinguishing between the people of truth and the people of falsehood." (Manhaj al-Anbiya' fi al-Da'wah ila Allah).
+
+#### 5.3.2 Ibn Rushd Centre of Excellence for Islamic Research
+
+As documented in Part 4.1 of this article, the Ibn Rushd Centre — where Dr. Abdul-Jobbar is a Research Scholar in Islamic Banking and Finance — has methodological features that raise concerns from a Salafi perspective:
+
+1. Its *Introduction to Tafsir Methodology* course covers "both Sunni and Shi'ite" exegetical methodologies, including al-Maturidi (Maturidi theology is considered deviant by Salafi scholars), al-Jassas, and al-Sulami (a Sufi tafsir scholar).
+   - **Source URL:** https://web.archive.org/web/20240529105658/https://ibnrushdcentre.org/courses/introduction-to-tafsir-methodology/
+
+2. Its *Encyclopaedia of Islamic Rulings on Bioethics* groups Muhammad Ramadan al-Buti (an Ash'ari, criticised by Salafi scholars) alongside genuine Salafi scholars like Ibn Baz, al-Albani, and Muqbil al-Wadi'i, as well as Taqi Usmani, Wahba al-Zuhayli, the European Council for Fatwa and Research, and Al-Azhar.
+   - **Source URL:** https://ibnrushdcentre.org/encyclopaedia-of-islamic-rulings-on-bioethics/
+
+3. Its research scholars include Dr Safaruk Chowdhury, author of "A Sufi Apologist of Nishapur: The Life and Thought of Abu Abd al-Rahman al-Sulami" — a study of a major Sufi figure.
+   - **Source URL:** https://ibnrushdcentre.org/books-2/
+
+4. Its advisory board includes Dr Muhammad Mansur Ali (trained at Darul Uloom Bury and Al-Azhar — both non-Salafi institutions) and Dr Dawud Bone (Cambridge Muslim College, Woolf Institute of Abrahamic Faiths — interfaith institution).
+   - **Source URL:** https://ibnrushdcentre.org/academia-research/advisory-board/
+
+**Salafi evaluation:** The Ibn Rushd Centre operates from an **academic, pluralist, non-sectarian** framework that treats Salafi, Ash'ari, Maturidi, Sufi, and Shi'i methodologies as legitimate scholarly traditions to be studied comparatively. This is the methodology of Western Islamic Studies academia, not the methodology of the Salaf. From a Salafi perspective, this is problematic because it treats deviant sects as equals to Ahl al-Sunnah. Shaykh al-Fawzan said: "It is not permissible to study the books of the people of innovation, except for the one who wants to refute them, and he must be qualified to do so." (Al-Irshad ila Sahih al-I'tiqad).
+
+#### 5.3.3 Ethar Relief (Zakat Scholar)
+
+Dr. Abdul-Jobbar is the "resident Zakat scholar" for Ethar Relief, a UK-registered charity providing humanitarian aid to Eritrean refugees in East Africa and Yemen. He has authored a Zakat FAQ for the charity.
+- **Source URL:** https://www.etharrelief.org/calculate-pay-zakat
+
+**Salafi evaluation:** Ethar Relief is a humanitarian charity with no sectarian identification. His role as a Zakat scholar here is not a manhaj concern — it is a professional application of his Islamic finance expertise. The Zakat FAQ he authored is standard and contains no aqeedah issues.
+
+#### 5.3.4 MEND (Muslim Engagement and Development)
+
+Dr. Abdul-Jobbar served as "Regional Manager for Bristol & Gloucester" for MEND, a UK Muslim advocacy and lobbying organisation focused on combating Islamophobia. He sat on the Trojan Horse Play panel discussion in Oxford (February 2020) and was involved in Muslim funeral services during COVID-19.
+- **Source URLs:**
+  - https://www.mend.org.uk/trojan-horse-play-oxford-panel-discussion-25-26th-february-2020/
+  - https://www.mend.org.uk/mend-supporting-muslim-funeral-services-in-the-south-west-of-england/
+
+**Salafi evaluation:** MEND is a civic-engagement and political-advocacy organisation, not a religious or scholarly body. It is not associated with the Salafi manhaj. His involvement here reflects community/activist work, not scholarly manhaj. The Salafi scholars have cautioned against political-activist methodologies that prioritise civic integration over da'wah to tawhid. This is not a matter of bid'ah or shirk, but a methodological observation.
+
+#### 5.3.5 1Eid and Jalal ibn Sa'eed Mohabbat
+
+Dr. Abdul-Jobbar appears regularly at 1Eid events alongside Ustadh Jalal ibn Sa'eed Mohabbat, the founder of Al Fitrah and 1Eid. Jalal describes himself as a "transformational and spiritual coach" and has appeared on the Peter Tatchell Foundation (a LGBTQ+ rights organisation) platform.
+- **Source URLs:**
+  - https://jalalmohabbat.com/
+  - https://petertatchellfoundation.org/tag/jalal-ibn-saeed/
+  - https://1eid.net/event/ramadansouk/
+
+**Salafi evaluation:** The association with a "spiritual coach" who has appeared on an LGBTQ+ rights platform is a matter of concern from a Salafi perspective, though it should be noted that the Peter Tatchell Foundation tag may reflect a debate or discussion rather than endorsement. 1Eid itself is a community-Eid event organisation, not a religious scholarly body.
+
+#### 5.3.6 Hazza Al-Balushi
+
+Dr. Abdul-Jobbar shared an event at Al-Medinah Mosque, Brighton (June 2025) with "Shaikh Hazza Al-Balushi." No substantial information about this individual's manhaj could be located.
+- **Source URL:** https://imasjidlive.co.uk/recordings/player/almedinah-20250604-Wednesday-191500-3984-uploaded
+
+#### 5.3.7 Global Relief Trust
+
+He has fundraised for Global Relief Trust (a Syria masjid project).
+- **Source URL:** https://www.facebook.com/dryajt/videos/3509816245744134/
+
+**Salafi evaluation:** Global Relief Trust is a humanitarian charity. No sectarian identification or manhaj concern was identified.
+
+### 5.4 What He Stands For — A Summary Based on His Public Output
+
+Based on all available evidence, Dr. Yusuf Abdul-Jobbar's public religious identity can be summarised as follows:
+
+1. **His primary field is Islamic finance and Zakat**, not aqeedah or manhaj. He is a Certified Shari'ah Advisor & Auditor (CSAA) and his professional work revolves around Islamic banking, zakat, and charitable finance. His talks and articles are predominantly on these topics.
+
+2. **His secondary field is youth counselling and community work.** He is an "Imam, Author & Islamic Youth Counsellor" (per Faith Consulting) and his Al Fitrah articles address youth, family, and character-building.
+
+3. **His written content on aqeedah, where it exists, is sound.** The articles attributable to him or his platform on fitrah, tawhid, and the difference between Creator and creation contain no bid'ah, shirk, or innovation. The platform has published direct quotations from Ibn al-Qayyim and Ibn Taymiyyah refuting pantheism (wahdat al-wujud) — a core Salafi position.
+
+4. **He has no public record of teaching or refuting the specific contested issues** that distinguish the Salafi manhaj from other methodologies:
+   - **No public statement on Mawlid** (celebrating the Prophet's birthday) — a key bid'ah issue
+   - **No public statement on tawassul** (seeking intercession through the dead) — a key tawhid issue
+   - **No public statement on istighathah** (calling upon the dead for help) — a key shirk issue
+   - **No public statement on the Ash'ari/Maturidi vs. Athari aqeedah debate**
+   - **No public statement on the permissibility of taqlid in aqeedah**
+   - **No public refutation of any specific bid'ah or innovator**
+
+5. **He operates within a broad-tent, mixed-platform methodology.** His associations — Al Fitrah Academy (mixed speakers), Ibn Rushd Centre (academic pluralism), MEND (civic activism), 1Eid (community events), FOSIS (student federation) — all reflect a methodology of gathering and cooperation across sectarian lines, not the Salafi methodology of distinguishing (tamyiz) between truth and falsehood in aqeedah.
+
+6. **He uses modernist, interfaith-friendly language** in his civic appearances (e.g., "tolerance and diversity within the Islamic faith," "Muslims should be proud to be British"), which reflects the language of British civic Islam rather than the language of the Salaf.
+
+### 5.5 Salafi Conclusion on His Statements, Khutbahs, and Associates
+
+**On his statements:** No bid'ah, shirk, or innovation was found in his published written content. Where he or his platform has spoken on aqeedah (fitrah, tawhid, Creator vs. creation), the content is consistent with the Salafi position. However, his public religious output is dominated by fiqh al-mu'amalat (transactions) and youth/community work, with a near-total absence of public teaching on the contested issues of aqeedah that define the Salafi manhaj (Mawlid, tawassul, istighathah, Ash'ari/Maturidi theology, taqlid in aqeedah). His civic language reflects modernist interfaith framing rather than Salafi framing.
+
+**On his associates:** This is the area of greatest concern from a Salafi perspective. He is an honoured lecturer at a platform (Al Fitrah) that deliberately gathers Salafi, Ash'ari, Sufi-leaning, modernist, and Islamist speakers under one banner without distinction. He is a research scholar at an institution (Ibn Rushd Centre) that treats Salafi, Ash'ari, Maturidi, Sufi, and Shi'i methodologies as equal scholarly traditions. He is associated with civic-activist organisations (MEND) and community-event platforms (1Eid) that have no Salafi identification. While some of his co-speakers have Salafi-compatible education (Bilal Philips, Abu Usamah, Wasim Kempson, Salem al-Amry), the overwhelming majority do not follow the Salafi manhaj.
+
+**On what he stands for:** He stands for Islamic finance expertise, youth counselling, community cohesion, and British Muslim civic engagement. He does not publicly stand for the Salafi manhaj as a distinct methodology of aqeedah and da'wah. He does not publicly distinguish between Ahl al-Sunnah and the people of innovation, nor does he publicly call to the specific positions that define Salafiyyah.
+
+**Final assessment (principle-based, not a direct ruling):** A student of knowledge who is serious about the Salafi manhaj should note the following:
+- His written content contains no aqeedah errors that have been identified.
+- His associations are overwhelmingly with mixed-platform, pluralist, and civic-Islam organisations, not with Salafi scholars or Salafi institutions.
+- He has no public record of teaching or defending the distinct positions of the Salafi manhaj on the contested issues of aqeedah.
+- He has no known tazkiyah (commendation) from any recognised Salafi scholar.
+- He has no known criticism or refutation from any recognised Salafi scholar.
+
+He therefore remains, from a Salafi perspective, an **unknown contemporary figure in matters of aqeedah and manhaj**, whose public output is dominated by Islamic finance and community work, and whose associations reflect a broad-tent, pluralist methodology rather than the Salafi methodology of tamyiz (distinction) and al-wala' wal-bara' (loyalty and disavowal). The principle of Shaykh al-Albani applies: "Take knowledge from the people of knowledge who are known for their adherence to the Book and the Sunnah and the methodology of the Salaf, and who are known to the scholars of the Sunnah." (Silsilat al-Huda wal-Nur).
+
+A Muslim who wishes to learn Islamic finance and Zakat from him may do so, as this is his area of professional certification and his content in this field contains no identified aqeedah issues. However, he should not be taken as a reference for aqeedah, manhaj, or the methodology of the Salaf, as he has no public record in these areas and his associations do not reflect adherence to the Salafi manhaj.
+
+---
+
+### 5.6 Additional Sources Consulted for This Section
+
+| Source | URL |
+|---|---|
+| Al Fitrah Academy — About Us (speaker list) | https://new.alfitrah.com/about-us/ |
+| Al Fitrah Academy — "The Dynamic Youth of Today" | https://new.alfitrah.com/the-dynamic-youth-of-today/ |
+| Al Fitrah Academy — "Maintaining the Characteristics of Fitrah" | https://new.alfitrah.com/maintaining-the-characteristics-of-fi%E1%B9%ADrah/ |
+| Al Fitrah Academy — "From the Rights of Tawhid" | https://new.alfitrah.com/from-the-rights-of-tawhid/ |
+| Al Fitrah Academy — "Difference Between the Creator and His Creation" | https://new.alfitrah.com/difference-between-the-creator-and-his-creation/ |
+| Al Fitrah Academy — "Characteristics of the Muslim Businessman" | https://new.alfitrah.com/characteristics-of-the-muslim-businessman/ |
+| Ibn Rushd Centre — Advisory Board | https://ibnrushdcentre.org/academia-research/advisory-board/ |
+| Ibn Rushd Centre — Research Scholars | https://ibnrushdcentre.org/academia-research/research-scholars/ |
+| Ibn Rushd Centre — About Us | https://ibnrushdcentre.org/academia-research/about-us/ |
+| Ibn Rushd Centre — Tafsir Methodology (archived) | https://web.archive.org/web/20240529105658/https://ibnrushdcentre.org/courses/introduction-to-tafsir-methodology/ |
+| Ibn Rushd Centre — Books | https://ibnrushdcentre.org/books-2/ |
+| Ethar Relief — Zakat (Dr. Abdul-Jobbar as resident scholar) | https://www.etharrelief.org/calculate-pay-zakat |
+| MEND — Trojan Horse Play Oxford Panel | https://www.mend.org.uk/trojan-horse-play-oxford-panel-discussion-25-26th-february-2020/ |
+| MEND — Muslim Funeral Services South West | https://www.mend.org.uk/mend-supporting-muslim-funeral-services-in-the-south-west-of-england/ |
+| 1Eid — Ramadan Souk 2024 | https://1eid.net/event/ramadansouk/ |
+| Jalal ibn Sa'eed Mohabbat (personal site) | https://jalalmohabbat.com/ |
+| Peter Tatchell Foundation — Jalal Ibn Saeed tag | https://petertatchellfoundation.org/tag/jalal-ibn-saeed/ |
+| iMasjid Live — Al-Medinah Mosque event (4 June 2025) | https://imasjidlive.co.uk/recordings/player/almedinah-20250604-Wednesday-191500-3984-uploaded |
+| Islam Bradford — A-Z of Zakat | https://islambradford.com/a-z-of-zakat-by-dr-yusuf-abdul-jobbar/ |
+| Kiswat Al-Kaaba — FOSIS event visit | https://www.kiswat-al-kaaba.co.uk/copy-of-iqbal-bhana-obe-mbe-iqra-1 |
+| Facebook — Dr. Yusuf Abdul-Jobbar (dryajt) | https://www.facebook.com/dryajt |
+| Faith Consulting — Provider profile | https://faith.consulting/provider/yusuf-abdul-jobbar |
+| Criterion Card — About | https://criterioncard.com/about |
+| Academia.edu — Dr Yusuf Abdul-Jobbar | https://x-rider.academia.edu/DrYusufAbdulJobbar |
+| Bilal Philips — Wikipedia | https://en.wikipedia.org/wiki/Bilal_Philips |
+| Abu Usamah — Wikipedia | https://en.wikipedia.org/wiki/Abu_Usamah |
+| Yasir Qadhi — Simon & Schuster | https://www.simonandschuster.com/authors/Yasir-Qadhi/168436790 |
+| Haitham al-Haddad — Islam21c | https://www.islam21c.com/islam21c-writers/haitham/ |
+| Wasim Kempson — Green Lane Masjid | https://greenlanemasjid.org/healing-hearts/ |
+
+---
+
+*Research compiled on 15 August 2026. Section 5 added as a follow-up analysis of public statements, khutbahs, speeches, and associates.*
