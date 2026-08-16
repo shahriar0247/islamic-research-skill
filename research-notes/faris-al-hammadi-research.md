@@ -1,4 +1,4 @@
-# Faris Al Hammadi: Biography, Teachers, Opinions, and an Assessment of Whether Knowledge Can Be Taken From Him
+# Faris Al Hammadi: Can We Take Knowledge From Him?
 
 > **A research note prepared according to the methodology of the Salaf.** Every effort has been made to attribute statements to their sources. Where a claim could not be verified against a Salafi scholar or a primary source, it is marked explicitly. This article does **not** issue a tabdee (declaration of innovation) or takfeer against anyone — it only gathers information so the reader can make an informed decision, in light of the guidance of the people of knowledge, about whether to take knowledge from a particular daee (caller).
 
